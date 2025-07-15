@@ -1,0 +1,7661 @@
+
+.kode_wrapper{
+	float:left;
+	width:100%;
+	overflow: hidden;
+}
+/*-------header start--------*/
+
+.header{
+	float:left;
+	width:100%;
+}
+.section{
+	padding:80px 0px;
+	float:left;
+	width:100%;
+}
+.section.section_4{
+	padding:72px 0px 80px 0px;
+}
+.section.section_2{
+	padding:72px 0px 73px 0px;
+}
+/*
+=============================================
+			kode_top_strip strat
+=============================================
+*/
+.kode_top_strip{
+	float:left;
+	width:100%;
+	background-color:#f9f9f9;
+	padding:11px 0px;
+	border-bottom:1px solid #f3f3f3;
+}
+.top_strip_colum{
+	float:left;
+	width:100%;
+}
+.top_strip_caption{
+	float:left;
+}
+.top_strip_caption a{
+	display:inline-block;
+	text-decoration:none;
+	margin-right:7px;
+}
+.top_strip_caption p{
+	margin:0px;
+}
+.top_strip_caption span{
+	margin-left:35px;
+	display:inline-block;
+}
+.top_strip_soical{
+	float:right;
+}
+.kode_top_login_2 ul{
+	float:right;
+}	
+.kode_top_login_2 ul li{
+	float:left;
+}
+ul.kode_top_login_2  li i{
+	margin-right:3px;
+}
+.kode_top_login_2 .btn.btn-primary.btn-lg {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    font-size: 14px;
+	padding:0px 10px;
+}
+.kode_top_login_2 .btn.active, .btn:active{
+	box-shadow:0px 0px;
+}
+.kode_top_login_2 .modal-body{
+	padding:0px;
+}
+.kode_top_login_2 .modal-header{
+	padding:0px;
+	border-bottom:none;
+	min-height:0px;
+}
+/*
+	  ==============================================================
+		  kf_login_rigister start
+	  ==============================================================
+*/
+.modal-dialog {
+    margin: 54px auto;
+    width: 600px;
+}
+.kf_login_rigister{
+	float:left;
+	width:100%;
+}
+.kf_login_colum{
+	float:left;
+	width:100%;
+	padding-bottom:28px;
+	border-bottom:1px solid #0070bb;
+}
+.kf_login_colum:last-child {
+    padding-bottom: 0;
+}
+.kf_login_1{
+	float:left;
+	width:100%;
+	padding: 29px 0;
+	text-align:center;
+	position:relative;
+	margin-bottom:40px;
+}
+.kf_login_1::before{
+	position:absolute;
+	content:"";
+	left:0px;
+	right:0px;
+	bottom:-12px;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 12px 12px 0;
+	border-color: #a12e4d transparent transparent transparent;
+	margin:auto;
+}
+.kf_login_1 span{
+	height:40px;
+	width:40px;
+	text-align:center;
+	display:inline-block;
+	border:3px solid #ffffff;
+	border-radius:100%;
+	font-size:18px;
+	color:#fff;
+	margin-right: 15px;
+}
+.kf_login_1 span i{
+	line-height:38px;
+}
+.kf_login_1 h2{
+	display:inline-block;
+	font-size:30px;
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#ffffff;
+}
+.kf_login_filed{
+	float:left;
+	width:100%;
+	text-align:center;
+	position:relative;
+	padding:0px 6px;
+}
+.kf_loging_input{
+	float:left;
+	width:100%;
+	margin-bottom:20px;
+	position: relative;
+}
+.kf_loging_input input[type="text"]{
+	width:350px;
+	height:44px;
+	border:none;
+	border:1px solid #d3d3d3;
+	font-size:16px;
+	color:#666666;
+	display:inline-block;
+	padding-left: 64px;
+}
+.kf_loging_input input:focus{
+	border:1px solid;
+}
+.kf_loging_input input:last-child{
+		margin-bottom:0px;
+}
+.kf_loging_input label{
+	position: absolute;
+	top:0px;
+	left:119px;
+	color:#fff;
+	font-size:16px;
+	height:44px;
+	width:44px;
+	text-align:center;
+	display:inline-block;
+	line-height:42px;
+}
+.kf_login_password{
+	float:left;
+	width:100%;
+	padding:0px 125px;
+}
+.kf_login_password ul{
+	float:left;
+	width:100%;
+	margin-bottom:30px;
+}
+.kf_login_password ul li{
+	float:left;
+	margin-right: 10px;
+}
+.kf_login_password.kf_left li a{
+	color:#0070bb;
+}
+.kf_login_password ul li  a{
+	color:#999;
+	text-transform: capitalize;
+}
+.kf_login_singin{
+	border-bottom: 1px solid #dbdbdb;
+    float: left;
+    text-align: center;
+    width: 100%;
+	margin-bottom:25px;
+}
+.kf_login_singin button{
+	font-size:18px;
+	text-transform:uppercase;
+	color:#ffffff;
+	display:block;
+	padding:11px 0px;
+	font-weight:bold;
+	width:100%;
+}
+.kf_login_singin button:hover{
+	background-color: #000;
+}
+.kf_login_singin.kf_padding {
+    border-bottom: medium none;
+    margin-bottom: 0;
+}
+.kf_login_social_icon{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.kf_login_social_icon p{
+	font-size:16px;
+	color:#999999;
+	margin-bottom:0px;
+	padding-bottom:25px;
+}
+.kf_login_social_icon ul{
+	float:left;
+	width:100%;
+	margin-bottom:30px;
+	padding:0px 160px;
+}
+.kf_login_social_icon ul li{
+	display:inline-block;
+	margin-right:28px;
+}
+.kf_login_social_icon ul li a{
+	display:inline-block;
+	height:64px;
+	width:64px;
+	text-align:center;
+	font-size:25px;
+	color:#fff;
+}
+.kf_login_social_icon ul li a:hover{
+	background-color:#333;
+	color:#fff;
+}
+.kf_login_social_icon ul li a i{
+	line-height:64px;
+}
+.kf_login_social_icon h5{
+	color: #999999;
+    float: left;
+    font-size: 14px;
+    padding-bottom: 30px;
+    width: 100%;
+}
+.kf_login_social_icon h5 > a{
+	display: inline-block;
+}
+.kf_login_forgrt{
+	float:left;
+	width:100%;
+	padding:0px 6px;
+}
+.kf_login_forgrt a{
+	font-size:16px;
+	color:#666666;
+	display:block;
+	padding:12px 0px;
+}
+.kf_login_forgrt p{
+	color:#666666;
+	font-size:14px;
+	margin:0px;
+	margin-bottom:27px;
+}
+/*
+	  ==============================================================
+		  kf_login_rigister end
+	  ==============================================================
+*/
+/*
+==========================================
+		sab_banner strat
+==========================================
+*/
+.sab_banner{
+	float:left;
+	width:100%;
+	margin-bottom:74px;
+}
+.sab_banner  img{
+	width:100%;
+}
+.sab_banner figure{
+	position:relative;
+	display:block;
+}
+.banner_caption{
+	bottom: 0;
+    margin: auto -580px auto auto;
+    position: absolute;
+    right: 50%;
+    text-align: right;
+    top: 174px;
+}
+.banner_caption  h1:first-child {
+	margin: 0 0 15px;
+	font-size:60px;
+	text-transform:uppercase;
+	color:#ffffff;
+	line-height:65px;
+}
+.banner_caption span {
+    display: block;
+}
+.banner_caption p{
+	margin:0px;
+	color:#ffffff;
+	margin-bottom:47px;
+}
+.banner_caption a{
+	font-weight:Semibold;
+	text-transform:uppercase;
+	border:2px solid;
+	padding:11px 20px;
+	display:inline-block;
+	position:relative;
+	z-index:999;
+}
+.banner_caption a:hover{
+	color:#fff;
+}
+.sab_banner .bx-wrapper .bx-controls-direction .bx-prev:after {
+    margin-top: -16px;
+    outline: 0 none;
+    position: absolute;
+    text-indent:-1px;
+    top: 50%;
+	z-index:999;
+	content:  "\f053";
+	left:0px;
+	right:0px;
+	bottom:0px;
+	font-family: FontAwesome;
+	font-size:30px;
+	color:#fff;
+	text-align:center;
+}
+.sab_banner .bx-wrapper .bx-controls-direction .bx-next:before {
+    margin-top: -16px;
+    outline: 0 none;
+    position: absolute;
+    text-indent:-1px;
+    top: 50%;
+	z-index:999;
+	content:  "\f054";
+	left:0px;
+	right:0px;
+	bottom:0px;
+	font-family: FontAwesome;
+	font-size:30px;
+	color:#fff;
+	text-align:center;
+}
+.sab_banner .bx-wrapper {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+.sab_banner .bx-pager.bx-default-pager {
+	bottom: 60px;
+    padding: 0;
+    position: absolute;
+}
+.sab_banner .bx-wrapper .bx-pager.bx-default-pager a {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 5px;
+    display: block;
+    height: 3px;
+    outline: 0 none;
+    text-indent: -9999px;
+    width: 15px;
+	margin: 0 4px;
+}
+/*
+==========================================
+		sab_banner end
+==========================================
+*/
+/*
+==========================================
+		law_practice_area start
+==========================================
+*/
+.law_practice_area{
+	float:left;
+	width:100%;
+	padding:32px 0 40px;
+}
+.law_practice_area_hdg{
+	float:left;
+	width:100%;
+	margin-bottom:47px;
+}
+.law_practice_area_hdg h2{
+	margin:0px;
+	text-transform:uppercase;
+	margin-bottom:5px;
+}
+.law_practice_area_img{
+	float:left;
+	width:100%;
+	margin-bottom:40px;
+	position:relative;
+	overflow: hidden;
+}
+.law_practice_area_img figure{
+	position:absolute;
+	display:block;
+	width: 100%;
+}
+/*(.law_practice_area_img > figure:after {
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+	background-color:#f3f3f3;
+}*/
+
+.law_practice_area_img figure img{
+	width: 100%;
+	height: auto;
+}
+.law_practice_area_caption {
+    position: relative;
+	padding:25px 30px 21px;
+	z-index:999;
+}
+.law_practice_area_caption:after{
+	bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+	background-color:#f3f3f3;
+}
+.law_practice_area_img:hover  .law_practice_area_caption:after{
+	opacity:0.85;
+	background-color:#000;
+} 
+.law_practice_area_caption:before{
+	
+	position:absolute;
+	content:"";
+	left:0px;
+	right:0px;
+	bottom:0px;
+	border-bottom:3px solid transparent;
+	width:0px;
+}
+.law_practice_area_caption:hover:before{
+	width:100%;
+	border-left:1px solid;
+}
+.law_practice_area_caption span{
+	font-size:50px;
+	display:inline-block;
+	margin-bottom:27px;
+}
+.law_practice_area_caption:hover span{
+	color:#fff;
+}
+.law_practice_area_caption h3{
+	color: #000000;
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+	margin-bottom:11px;
+}
+.law_practice_area_caption span,
+.law_practice_area_caption h3,
+.law_practice_area_caption p,
+.law_practice_area_caption a{
+	position:relative;
+	z-index:999;
+}
+.law_practice_area_caption a{
+	color:#000000;
+}
+.law_practice_area_caption:hover h3 a{
+	color:#fff;
+}
+.law_practice_area_caption p{
+	margin-bottom:25px;
+}
+.law_practice_area_caption:hover p{
+	color:#fff;
+}
+.law_practice_area_caption  > a{
+	height:47px;
+	width:47px;
+	text-align:center;
+	display:inline-block;
+	border-radius:100%;
+	border:1px solid #a12e4d;
+	font-size:14px;
+	line-height:45px;
+	color:#a12e4d;
+}
+.law_practice_area_caption  > a:hover{
+	color:#fff;
+}
+.law_practice_area_caption i{
+	line-height:47px;
+}
+/*
+==========================================
+		law_practice_area end
+==========================================
+*/
+/*
+==========================================
+		law_choose_us start
+==========================================
+*/
+.law_choose_us{
+	float:left;
+	width:100%;
+	background-color:#ebe9f6;
+	position:relative;
+	z-index: 999;
+}
+/*.law_choose_us::before{*/
+/*	position:absolute;*/
+/*	content:"";*/
+/*	top:0px;*/
+/*	left:0px;*/
+/*	right:0px;*/
+/*	bottom:0px;*/
+/*	background-image:url("../image/home/about.jpg");*/
+	/* background-position:center; */
+/*	background-size:contain;*/
+/*	width:50%;*/
+/*	z-index: -1;*/
+/*	background-repeat: no-repeat;*/
+/*    background-position: center;*/
+/*}*/
+
+
+/* .law_choose_us-1{
+	float:left;
+	width:100%;
+	background-color:#ebe9f6;
+	position:relative;
+	z-index: 999;
+}
+
+.law_choose_us-1::before{
+
+position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-image:url("../image/service/");
+	
+	background-size:cover;
+	width:50%;
+	z-index: -1;
+} */
+.kode_law_frim_hdg{
+	margin-top: 30px;
+}
+
+.kode_law_frim_hdg.kode_frim_2 {
+    float: left;
+    text-align: left;
+}
+.law_choose_us_colum{
+	 float: left;
+	 width:50%;
+	 /* min-height:623px; */
+	 min-height:450px;
+}
+.law_choose_us_colum:first-child{
+	padding:0px;
+}
+.law_choose_us_colum > figure {
+    display: inline-block;
+    left: 50%;
+    position: relative;
+    text-align: center;
+    top: 137px;
+	margin: 0 0 0 -60px;
+}
+.law_choose_us_colum {
+   float: left;
+   padding: 0px 0 1px 50px;
+   width: 50%;
+}
+.law_choose_us_caption{
+	float:left;
+	width:100%;
+	margin-bottom:35px;
+}
+.law_choose_us_caption h2{
+	margin:0px;
+	text-transform:uppercase;
+	margin-bottom:6px;
+}
+.law_choose_us_row {
+    float: left;
+    width: 100%;
+}
+.law_choose_us_row  ul{
+	margin:0px;
+	padding:0px;
+	float:left;
+}
+.law_choose_us_row  ul li{
+	margin-bottom:50px;
+	position:relative;
+}
+.law_choose_us_row li:last-child {
+    margin-bottom: 0;
+}
+.law_choose_us_row  ul li::after {
+   border-right: 1px dotted #deb863;
+    bottom: -23px;
+    content: "";
+    left: 20px;
+    position: absolute;
+    top: 66px;
+}
+.law_choose_us_row  ul li::before {
+    border-right: 1px dotted #deb863;
+    bottom: -23px;
+    content: "";
+    left: 22px;
+    position: absolute;
+    top: 66px;
+}
+.law_choose_us_row  li:last-child::before,
+.law_choose_us_row li:last-child::after {
+    border-right: 0 none;
+}
+.law_choose_us_icon {
+    float: none;
+    width: 100%;
+}
+.law_choose_us_icon  i{
+	text-decoration:none;
+	display:inline-block;
+	font-size:40px;
+	float: left;
+}
+.law_choose_us_kode{
+	float:none;
+	margin:auto;
+	padding-left: 90px;
+	position:relative;
+}
+.law_choose_us_kode::after {
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 5px;
+    left: 68px;
+    position: absolute;
+    right: 0;
+   top: 11px;
+    width: 5px;
+}
+.law_choose_us_kode::before {
+    background: #3b3b3b none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 5px;
+    left: 68px;
+    position: absolute;
+    right: 0;
+    top: 4px;
+    width: 5px;
+}
+.law_choose_us_kode h3{
+	margin:0px;
+	font-weight:Bold;
+	text-transform:uppercase;
+	margin-bottom:4px;
+	font-family: 'Open Sans', sans-serif;
+}
+.law_choose_us_kode a{
+	color:#4d4d4d;
+	text-decoration:none;
+}
+.law_choose_us_kode span{
+	display:block;
+}
+/*
+==========================================
+		law_choose_us end
+==========================================
+*/
+/*
+==========================================
+		law_countdown start
+==========================================
+*/
+.law_countdown{
+	float:left;
+	width:100%;
+	padding:80px 0px 73px 0px;
+}
+.law_countdown_caption{
+	float:left;
+	width:100%;
+}
+.law_countdown_caption span{
+	float:left;
+	font-size:30px;
+	display:inline-block;
+	margin-bottom:36px;
+	position:relative;
+}
+.law_countdown_caption > span::after {
+    border-bottom: 3px solid #a1a1a1;
+    bottom: -18px;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+	width:30px;
+}
+.law_countdown_caption a{
+    display: inline-block;
+    margin-left: 10px;
+    padding-top: 11px;
+    text-transform: uppercase;
+}
+.law_counter{
+	float:left;
+	width:100%;
+}
+.law_counter p{
+	margin:0px;
+	font-size:46px;
+	color:#4d4d4d;
+	font-weight:Bold;
+	line-height: 36px;
+	display:inline-block;
+}
+.law_counter > strong {
+    color: #4d4d4d;
+    font-size:40px;
+    line-height:0px;
+}
+/*
+==========================================
+		law_countdown end
+==========================================
+*/
+
+/*
+==========================================
+		law_our_team start
+==========================================
+*/
+.law_our_team{
+	float:left;
+	width:100%;
+	padding:71px 0px 80px 0px;
+}
+.law_our_team_hdg{
+	float:left;
+	width:100%;
+	text-align:center;
+	margin-bottom:72px;
+}
+.law_our_team_hdg h2{
+	margin:0px;
+	text-transform:uppercase;
+	margin-bottom:5px;
+}
+.law_our_team_img{
+	float:left;
+	width:100%;
+	text-align:center;
+	padding-bottom:22px;
+	overflow:hidden;
+	position:relative;
+	border:1px solid transparent;
+}
+.law_our_team_img::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	border-bottom:2px solid transparent;
+	width:0%;
+	z-index: -1;
+}
+.law_our_team_img:hover::before{
+	width:100%;
+}
+.law_our_team_img:hover{
+	border-color: #eaeaea;
+}
+.law_our_team_img figure{
+	display:block;
+	margin-bottom:27px;
+	width: 100%;
+}
+.law_our_team_img figure img{
+	width: 100%;
+	height: auto;
+}
+.law_our_team_img h4{
+	margin:0px;
+	color:#000000;
+	text-transform:uppercase;
+	margin-bottom:3px;
+}
+.law_our_team_img span{
+	font-size:16px;
+	font-weight:Semibold;
+	display:inline-block;
+	margin-bottom:15px;
+	text-transform: capitalize;
+}
+.law_our_team_img ul{
+	left: 100%;
+    padding: 0;
+    position: relative;
+    width: 100%;
+}
+.law_our_team_img:hover ul{
+	left:0px;
+}
+.law_our_team_img ul li{
+	list-style:none;
+	display:inline-block;
+}
+.law_our_team_img ul li a{
+	 background-color: #f8f8f8;
+    border: 1px solid #e7e7e7;
+    color: #001b22;
+    display: inline-block;
+    font-size: 16px;
+    height: 32px;
+    margin-right: 6px;
+    text-align: center;
+    text-decoration: none;
+    width: 32px;
+}
+.law_our_team_img ul li a:hover{
+	color:#fff;
+}
+.law_our_team_img ul li a i{
+	line-height:30px;
+}
+/*
+==========================================
+		law_our_team end
+==========================================
+*/
+/*
+==========================================
+		law_form_colum start
+==========================================
+*/
+.law_form_colum{
+	float:left;
+	width:100%;
+	background-color:#32353d;
+	position:relative;
+	z-index:999;
+	margin-top: 50px;
+}
+.law_form_colum::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-image:url("../image/con-32.webp");
+	background-position:left;
+	background-size:cover;
+	background-repeat:no-repeat;
+	width:40%;
+	z-index:-2;
+}
+.law_form_img_caption{
+    bottom: 0;
+    float: left;
+    left: 0;
+    outline: 4px solid #fff;
+    outline-offset: -14px;
+    padding:170px 0 0 123px;
+    position: absolute;
+    right: 0;
+    top: 0;
+	width: 40%;
+}
+.law_form_img_caption::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	opacity:0.80;
+	z-index:-1;
+}
+.law_form_img_caption a{
+	font-size:57.65px;
+	color:#fff;
+	display:block;
+	margin-bottom:9px;
+}
+.law_form_img_caption h2{
+	margin:0px;
+	font-size:48px;
+	text-transform:uppercase;
+	line-height: 50px;
+	color:#fff;
+}
+.law_form_img_caption span{
+	display:block;
+}
+.law_form_services {
+    float: right;
+	padding: 44px 16px;
+    margin:0px;
+	width: 60%;
+}
+.law_form_filed{
+	float:left;
+	width:100%;
+	margin-bottom:30px;
+}
+.law_form_filed input[type="text"]{
+	width:100%;
+	font-size:16px;
+	color:#ffffff;
+	display:inline-block;
+	background:none;
+	height:60px;
+	border:none;
+	border:1px solid #929398;
+	font-size:16px;
+	padding:0px 19px;
+}
+.law_form_filed input[type="number"]{
+	width:100%;
+	font-size:16px;
+	color:#ffffff;
+	display:inline-block;
+	background:none;
+	height:60px;
+	border:none;
+	border:1px solid #929398;
+	font-size:16px;
+	padding:0px 19px;
+}
+
+.placeholder-color::placeholder {
+	color: #000;
+}
+
+
+::placeholder {
+	color: #ffffff;
+	opacity: 1; /* Firefox */
+  }
+/* 
+  .text-black{
+	color: black!important;
+  } */
+
+/* 
+  textarea {
+	color: #000;
+  } */
+.law_form_area textarea:focus,
+.law_form_filed input[type="text"]:focus{
+	box-shadow:0px 0px 10px -5px;
+}
+.law_form_area{
+	float:left;
+	width:100%;
+	margin-bottom:30px;
+}
+.law_form_area textarea{
+	width:100%;
+	border:none;
+	font-size:16px;
+	color:#ffffff;
+	display:inline-block;
+	background:none;
+	resize:none;
+	padding: 22px 19px;
+	border:1px solid #929398;
+	height:200px;
+}
+.law_get{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.law_get button{
+	color:#fff;
+	font-size:16px;
+	padding:13px 50px;
+	display:inline-block;
+	border:none;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-bottom:2px solid #6b2437;
+}
+.law_get button:hover{
+	background-color:#000;
+	color:#fff;
+	border-color:#fff;
+}
+
+.from-btn button {
+    color: #fff;
+    font-size: 16px;
+    padding: 13px 50px;
+    display: inline-block;
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 2px solid #6b2437;
+	    background-color: black;
+}
+/*
+==========================================
+		law_form_colum end
+==========================================
+*/
+/*
+==========================================
+		law_slide_img start
+==========================================
+*/
+.law_slide_img{
+	float:left;
+	width:100%;
+	padding:80px 0px;
+}
+.law_slide_img_caption{
+	float:left;
+	 margin-right: 26px;
+	 width: 100%;
+}
+.law_slide_img_caption:last-child {
+    margin-right: 0;
+}
+.law_slide_img_caption .owl-item{
+	margin-right:10px;
+}
+#owl-demo .item{
+	margin-top:0px;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.law_slide_img .owl-carousel .owl-item {
+    float: left;
+    width: 0;
+	padding: 0 0 0 27px;
+}
+.law_slide_img .owl-carousel .owl-item:first-child{
+	padding:0px;
+}
+
+ /*
+==========================================
+		law_slide_img end
+==========================================
+*/
+ /*
+==========================================
+		law_achievements start
+==========================================
+*/
+.law_achievements{
+	background-color: #f8f8f8;
+    float: left;
+    padding: 71px 0 80px;
+    width: 100%;
+}
+.law_achievements .bx-viewport{
+	min-height:582px;
+}
+.law_achievements_hdg{
+	float:left;
+	width:100%;
+	text-align:center;
+	margin-bottom:36px;
+}
+.law_achievements_hdg h2{
+	margin:0px;
+	color:#000100;
+	font-family:merriweather;
+	text-transform:uppercase;
+	margin-bottom:5px;
+}
+.kode_latest_news_carousel .item{
+	margin: 0px 10px 0px 10px;
+}
+.kode_latest_news_carousel.owl-carousel.owl-theme {
+    float: left;
+    width: 100%;
+}
+.law_achievements_img{
+	float:left;
+	width:100%;
+	background:#fff;
+}
+.law_achievements_img_kode{
+	float:left;
+	width:100%;
+	position:relative;	
+}
+.law_achievements_img_kode figure{
+	margin-bottom:3px;
+	display:block;
+	overflow:hidden;
+}
+.law_achievements_img_kode img{
+	width:100%;
+	transform: scale(1.0);
+}
+.law_achievements_img:hover .law_achievements_img_kode img{
+	 transform: scale(1.4) rotate(10deg);
+}
+.kode-small-icon{
+	background-color: #333333;
+    border: 4px solid #fff;
+    bottom: 0;
+    color: #fff;
+    display: block;
+    font-size: 30px;
+    height: 61px;
+    left: 0;
+	right:0;
+	margin:auto;
+    line-height: 50px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    bottom:-22px;
+    width: 61px;
+    z-index: 999;
+}
+.law_achievements_img:hover .kode-small-icon{
+	color:#fff;
+}
+.law_achievements_caption{
+	border: 1px solid #f1f1f1;
+    float: left;
+    text-align: center;
+    width: 100%;
+	border-bottom:2px solid #333333;
+	box-shadow: 2px 2px 6px -3px;
+	position:relative;
+	padding:39px 0px 16px 0px;
+}
+.law_achievements_caption::before{
+	position:absolute;
+	content:"";
+	left:0px;
+	right:0px;
+	bottom:-2px;
+	border-bottom:2px solid transparent;
+	width:0px;
+}
+.law_achievements_img:hover .law_achievements_caption::before{
+	width:100%;
+}
+.law_achievements_caption h4{
+	margin:0px;
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:12px;
+}
+.law_achievements_caption ul{
+	float:left;
+	width:100%;
+	margin: 0 0 35px;
+	position:relative;
+	padding-left: 35px;
+}
+.law_achievements_caption ul::before{
+	border-bottom: 1px solid;
+    bottom: -20px;
+    content: "";
+    left: 0px;
+    position: absolute;
+    right: 0px;
+	width:107px;
+	margin:auto;
+}
+.law_achievements_caption ul li{
+	display:inline-block;
+	margin-right:15px;
+}
+.law_achievements_caption ul li a{
+	font-size:14px;
+	color:#4d4d4d;
+	display:inline-block;
+}
+.law_achievements_caption span{
+	margin-left:2px;
+}
+.law_achievements_caption p{
+	color: #4d4d4d;    
+    margin: 0;
+    padding: 0 20px;
+}
+/*-----------bxsilder style--------*/
+/*-----------bxsilder style--------*/
+.law_achievements .bx-wrapper {
+    float: left;
+    width: 100%;
+	margin:0px;
+}
+.law_achievements .bxslider {
+    margin: 0;
+}
+.law_achievements .bx-wrapper .bx-pager{
+	padding:0px;
+}
+.law_achievements  .bx-controls-direction{
+	display:none;
+}
+.law_achievements .bx-wrapper .bx-pager.bx-default-pager a {
+    background: #333333 none repeat scroll 0 0;
+    border-radius: 5px;
+    display: block;
+    height: 11px;
+    margin: 0 5px;
+    outline: 0 none;
+    text-indent: -9999px;
+    width: 11px;
+	border:4px solid transparent;
+}
+.law_achievements .bx-wrapper .bx-pager.bx-default-pager a:hover,
+ .law_achievements .bx-wrapper .bx-pager.bx-default-pager a.active {
+    background: #000 none repeat scroll 0 0;
+	border-radius: 100%;
+    display: block;
+    height: 13px;
+    margin: 0 5px;
+    outline: 0 none;
+    text-indent: -9999px;
+    width: 13px;
+}
+.law_achievements .bx-pager.bx-default-pager {
+    float: left;
+	position:absolute;
+	bottom:-64px;
+    width: 100%;
+}
+/*
+==========================================
+		law_achievements end
+==========================================
+*/
+/*
+==========================================
+		law_addres start
+==========================================
+*/
+.law_addres{
+	float:left;
+	width:100%;
+	padding:75px 0px;
+}
+.law_addres_caption{
+	float:left;
+	width:100%;
+}
+.law_addres_caption h6{
+	text-transform:uppercase;
+	font-weight: 400;
+	margin-bottom:28px;
+	display: inline-block;
+}
+.law_addres_caption p::before{
+	border-top: 4px solid #b4b4b4;
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0px;
+    top: -17px;
+	width:30px;
+}
+.law_addres_caption  p{
+	position:relative;
+	color:#555;
+}
+.law_addres_caption a{
+	color:#555;
+	text-decoration:none;
+	display: block;
+}
+.law_addres_caption p > span,
+.law_addres_caption span{
+	display:block;
+}
+/*
+==========================================
+		law_addres end
+==========================================
+*/
+
+
+
+/*
+===============================================================
+					content-us page start
+===============================================================
+*/
+/*
+==========================================
+		kode_top_header start
+==========================================
+*/
+.kode_top_header{
+	float:left;
+	width:100%;
+	background-color:#deb863;
+	position:relative;
+	z-index:222;
+}
+.kode_top_header::after {
+    background-color: #252731;
+    background-position: right center;
+    bottom: 0;
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0;
+	min-width: 26%;
+    z-index: -2;
+}
+.kode_top_header_navi{
+	float:left;
+	width:100%;
+}
+.kode_top_header_navi ul{
+	margin: 0 0 0 -28px;
+	padding:0px;
+	float:left;
+}
+.kode_top_header_navi ul li{
+	float:left;
+	list-style:none;
+	border-right:1px solid #ecd496;
+}
+.kode_top_header_navi ul li:last-child{
+	border-right:none;
+}
+.kode_top_header_navi ul li a{
+	text-decoration:none;
+	font-size:14px;
+	color:#252731;
+	text-transform:uppercase;
+	padding:12px 31px;
+	display:inline-block;
+}
+.kode_top_header_navi ul li a:hover{
+	color:#fff;
+}
+.kode_op_strip_social_icon{
+		float:left;
+		width:100%;
+}
+.kode_op_strip_social_icon ul{
+	float:left;
+	margin:0px;
+	padding:0px;
+}
+.kode_op_strip_social_icon ul li{
+	list-style:none;
+	float:left;
+}
+.kode_op_strip_social_icon ul li a{
+	color:#ffffff;
+	padding:16px 0px;
+	margin-left:25px;
+	font-size:16px;
+	display:inline-block;
+}
+.kode_top_header_navi ul ul li{
+	border-right:none;
+}
+.kode_top_header_navi ul ul li a{
+	color:#fff;
+	border-right:none;
+}
+/*
+==========================================
+		kode_top_header end
+==========================================
+*/
+/*
+==========================================
+		kode_top_log_bar start
+==========================================
+*/
+
+.kode_top_log_bar{
+	float:left;
+	width:100%;
+	padding:16px 0px;
+}
+.kode_top_logo{
+	float:left;
+	width:100%;
+}
+.kode_top_logo figure{
+	float:left;
+}
+.kode_top_logo_colum{
+	float:right;
+	padding: 3px 0;
+}
+.kode_top_logo_colum ul{
+	float:right;
+	margin:0px;
+	padding:0px;
+}
+.kode_top_logo_colum ul li{
+	float:left;
+	list-style:none;
+	margin-left:30px;
+}
+.kode_top_logo_icon{
+	float:right;
+}
+.kode_top_logo_icon i{
+	border: 1px solid;
+    border-radius: 3px;
+    color: #deb863;
+    display: inline-block;
+    float: left;
+	font-size: 17px;
+    height: 40px;
+    margin-right: 9px;
+    margin-top: 2px;
+    text-align: center;
+    width: 40px;
+	line-height:36px;
+}
+.kode_top_logo_icon:hover i{
+	color:#fff;
+}
+.kode_top_logo_icon span i{
+	line-height:36px;
+}
+.kode_top_logo_caption {
+    float: left;
+}
+.kode_top_logo_caption p{
+	margin:0px;
+	font-weight:Bold;
+	color:#666666;
+}
+.kode_top_logo_caption a{
+	font-size:13px;
+	color:#999999;
+	display:inline-block;
+	line-height: 14px;
+}
+/*
+==========================================
+		kode_top_log_bar end
+==========================================
+*/
+/*
+==========================================
+		kode_content_banner start
+==========================================
+*/
+.kode_content_banner{
+	float:left;
+	width:100%;
+	background-image:url("../image/missionimg.jpg");
+	background-size:cover;
+	background-position: bottom;
+	padding:140px 0px;
+	border-bottom:1px solid #e6e6e6;
+	position:relative;
+}
+.kode_content_banner::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.3;
+}
+.kode_content_banner-services{
+	float:left;
+	width:100%;
+	background-image:url("../image/banner/about-banner.jpg");
+	background-size:cover;
+	background-position: center;
+	padding:140px 0px;
+	border-bottom:1px solid #e6e6e6;
+	position:relative;
+}
+.kode_content_banner-services::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.7;
+}
+.kode_content_banner-team{
+	float:left;
+	width:100%;
+	background-image:url("../image/fin.jpg");
+	background-size:cover;
+	background-position: center;
+	padding:140px 0px;
+	border-bottom:1px solid #e6e6e6;
+	position:relative;
+}
+.kode_content_banner-team::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.7;
+}
+.kode_content_banner-s1{
+	float:left;
+	width:100%;
+	background-image:url("../image/inconme.jpg");
+	background-size:cover;
+	background-position: center;
+	padding:140px 0px;
+	border-bottom:1px solid #e6e6e6;
+	position:relative;
+}
+.kode_content_banner-s1::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.7;
+}
+.kode_content_banner-s2{
+	float:left;
+	width:100%;
+	background-image:url("../image/banner/mergers-acquisitions.jpg");
+	background-size:cover;
+	background-position: center;
+	padding:140px 0px;
+	border-bottom:1px solid #e6e6e6;
+	position:relative;
+}
+.kode_content_banner-s2::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.7;
+}
+.kode_content_banner-s3{
+	float:left;
+	width:100%;
+	background-image:url("../image/bannerall.webp");
+	background-size:cover;
+	background-position: center;
+	padding:140px 0px;
+	border-bottom:1px solid #e6e6e6;
+	position:relative;
+}
+.kode_content_banner-s3::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.7;
+}
+.kode_content_banner-s4{
+	float:left;
+	width:100%;
+	background-image:url("../image/banner/corporate-advisory.jpg");
+	background-size:cover;
+	background-position: center;
+	padding:140px 0px;
+	border-bottom:1px solid #e6e6e6;
+	position:relative;
+}
+.kode_content_banner-s4::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.7;
+}
+.kode_content_banner-investor{
+	float:left;
+	width:100%;
+	background-image:url("../image/banner/investor.jpg");
+	background-size:cover;
+	background-position: center;
+	padding:140px 0px;
+	border-bottom:1px solid #e6e6e6;
+	position:relative;
+}
+.kode_content_banner-investor::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.7;
+}
+.kode_content_banner-contact{
+	float:left;
+	width:100%;
+	background-image:url("../image/banner/contact-us.jpg");
+	background-size:cover;
+	background-position: center;
+	padding:140px 0px;
+	border-bottom:1px solid #e6e6e6;
+	position:relative;
+}
+.kode_content_banner-contact::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.7;
+}
+.kode_banner_caption{
+	float:left;
+	width:100%;
+}
+.kode_banner_caption h3{
+	
+	color: #ffffff;
+    display: inline-block;
+    font-family: cardo;
+	font-weight:bold;
+    margin: 0;
+    text-transform: uppercase;
+	position:relative;
+}
+.kode_banner_caption ul{
+	float:right;
+	margin:0px;
+	 padding: 2px 13px 0;
+}
+.kode_banner_caption ul li{
+	float:left;
+	list-style:none;
+}
+.kode_banner_caption ul li a{
+	color:#ffffff;
+	text-transform:uppercase;
+	text-decoration:none;
+	font-size:14px;
+	display:inline-block;
+	margin-left:30px;
+	position:relative;
+}
+.kode_banner_caption ul li a:hover{
+	color:#ad3a59;
+}
+.kode_banner_caption .kode_banner_icon::after {
+    bottom: 0;
+    content: "\f101";
+	font-family: fontawesome;
+    position: absolute;
+    right: -18px;
+    top: 0;
+}
+/*
+==========================================
+		kode_content_banner end
+==========================================
+*/
+/*
+==========================================
+		kode_content_services start
+==========================================
+*/
+.kode_content_services{
+	float:left;
+	width:100%;
+	padding:80px 0px;
+	background-color:#f7f7f7;
+}
+.kode_services_caption{
+float: left;
+    width: 100%;
+    text-align: center;
+    background-color: #ffffff;
+    /* padding: 34px 14px 63px 14px; */
+    border-bottom: 2px solid #ededed;
+    position: relative;
+    min-height: 297px;
+    display: flex
+;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+}
+.kode_services_caption::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	border-bottom:2px solid transparent;
+	width:0px;
+}
+.kode_services_caption:hover::before{
+	width:100%;
+}
+.kode_services_caption span{
+	height:65px;
+	width:65px;
+	display:inline-block;
+	border:1px solid;
+	font-size:30px;
+	text-align:center;
+	border-radius:4px;
+	margin-bottom:15px;
+}
+.kode_services_caption:hover span{
+	color:#fff;
+}
+.kode_services_caption span i{
+	line-height:63px;
+}
+.kode_services_caption h4{
+	margin:0px;
+	font-weight:Bold;
+	margin-bottom:30px;
+	text-transform:uppercase;
+	position:relative;
+	z-index:999;
+}
+.kode_services_caption a{
+	color:#252731;
+	text-decoration:none;
+}
+.kode_services_caption p{
+	margin:0px;
+	position:relative;
+}
+.kode_services_caption p::after {
+    border-top: 1px solid #ddd;
+    content: "";
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: -13px;
+	width:42px;
+	margin:auto;
+}
+/*
+==========================================
+		kode_content_services end
+==========================================
+*/
+/*
+==========================================
+		kode_content_us_touch start
+==========================================
+*/
+.kode_content_us_touch{
+	float:left;
+	width:100%;
+	padding:72px 0px 80px 0px;
+}
+.kode_content_us_touch_hdg{
+	float:left;
+	width:100%;
+	text-align:center;
+	margin-bottom:40px;
+}
+.kode_content_us_touch_hdg h5{
+	margin:0px;
+	color:#4a4a4a;
+	font-weight:Bold;
+	text-transform:uppercase;
+	margin-bottom:20px;
+	font-size:30px;
+}
+.kode_content_us_touch_hdg p{
+    display: inline-block;
+    padding: 0 195px;
+}
+.kode_content_us_colum{
+	float:left;
+	width:100%;
+	background-color:#f7f7f7;
+	padding:15px 0px;
+}
+.kode_content_us_maap{
+	float:left;
+	width:100%;
+	position:relative;
+}
+.kode_content_us_maap .map-canvas{
+	float:left;
+	width:100%;
+	height: 497px;
+}
+.kode_mapp_logo_img {
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 173px;
+}
+.kode_mapp_logo_img figure{
+	display:inline-block;
+	position:relative;
+}
+.kode_content_us_form{
+	float:left;
+	width:100%;
+	margin:0px;
+	padding: 34px 20px 0;
+}
+.kode_content_us_form input[type="text"]{
+	width:100%;
+	background-color:#ffffff;
+	border:1px solid #ececec;
+	font-size:15px;
+	color:#999999;
+	display:block;
+	padding:15px 19px;
+	margin-bottom:18px;
+}
+.kode_content_us_form input[type="number"]{
+	width:100%;
+	background-color:#ffffff;
+	border:1px solid #ececec;
+	font-size:15px;
+	color:#999999;
+	display:block;
+	padding:15px 19px;
+	margin-bottom:18px;
+}
+.kode_content_us_form textarea:focus,
+.kode_content_us_form input:focus{
+	box-shadow: 0 4px 9px -8px;
+	border:1px solid ;
+}
+.kode_content_us_form textarea{
+	color:#000000;
+	display:block;
+	width:100%;
+	background-color:#ffffff;
+	border:1px solid #ececec;
+	padding:20px 19px;
+	resize:none;
+	height:157px;
+	margin-bottom:30px;
+}
+.kode_content_us_form button{
+	font-size:15px;
+	font-weight:Bold;
+	color:#666666;
+	text-transform:uppercase;
+	padding:10px 63px;
+	background-color:#fff;
+	display:inline-block;
+	border:none;
+	border-bottom:2px solid #e2e2e2;
+	position:relative;
+}
+.kode_content_us_form button::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	border-bottom:2px solid transparent;
+	width:0;
+}
+.kode_content_us_form button:hover::before{
+	width:100%;
+	border-color:#fff;
+}
+.kode_content_us_form button:hover{
+	color:#fff;
+}
+/*
+==========================================
+		kode_content_us_touch end
+==========================================
+*/
+/*
+==========================================
+		kode_content_sing_up start
+==========================================
+*/
+.kode_content_sing_up{
+	float:left;
+	width:100%;
+	padding:60px 0px;
+}
+.kode_sing_form {
+    float: left;
+    width: 100%;
+	padding: 0 50px;
+}
+.kode_sing_hdg{
+	float:left;
+	padding-top:16px;
+}
+.kode_sing_hdg h6{
+	color:#fff;
+	text-transform:uppercase;
+}
+.kode_sing_up_kode{
+	float:right;
+}
+.kode_sing_up_kode form{
+	float:right;
+	margin:0px;	
+}
+.kode_sing_up_kode input{
+	width:615px;
+	height:45px;
+	font-size:14px;
+	color:#4d4d4d;
+	padding:7px 14px;
+	display:block;
+	border:none;
+	float:left;
+}
+.kode_sing_up_kode button{
+	background-color:#4d4d4d;
+	height:45px;
+	border:none;
+	font-size:16px;
+	font-weight:Semibold;
+	padding:8px 21px;
+	color:#fff;
+	border:1px solid transparent;
+}
+.kode_sing_up_kode button:hover{
+	border-color:#fff;
+}
+/*
+==========================================
+		kode_content_sing_up end
+==========================================
+*/
+/*
+===================================================================================
+							practice-area page start
+===================================================================================
+*/
+/*
+==========================================
+		kode_practice_filter strat
+==========================================
+*/
+.kode_practice_filter{
+	float:left;
+	width:100%;
+	padding:70px 0px 80px 0px;
+	border-top:1px solid #e6e6e6;
+}
+.kode_practice_filter_list{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.kode_practice_filter .masoned{
+	height:0px;
+	float:left;
+	width:100%;
+}
+.kode_practice_filter_list ul{
+	margin:0px 0px 40px 0px;
+	padding:0px;
+	float:left;
+	width:100%;
+}
+.kode_practice_filter_list ul li{
+	list-style:none;
+	display:inline-block;
+}
+.kode_practice_filter_list ul li a{
+	text-decoration:none;
+	color:#999999;
+	font-size:14px;
+	padding:6px 20px;
+	display:inline-block;
+	position:relative;
+}
+.kode_practice_filter_list ul li a::before {
+    border-right: 1px solid #999999;
+    bottom: 6px;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 10px;
+
+}
+.kode_practice_filter_list ul li a:hover::before{
+	  border-right:none;
+}
+.kode_practice_filter_list ul li a.active,
+.kode_practice_filter_list ul li a:focus,
+.kode_practice_filter_list ul li a:hover{
+	color:#fff;
+}
+.kode_practice_readmore{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.kode_practice_readmore a{
+	text-decoration:none;
+	font-size:16px;
+	font-weight:Bold;
+	text-transform:uppercase;
+	padding:11px 59px;
+	display:inline-block;
+	color:#fff;
+	margin-top:10px;
+	z-index:999;
+}
+.kode_practice_readmore a:hover{
+	background-color:#000;
+	color:#fff;
+}
+/*
+==========================================
+	kode_practice_filter end
+==========================================
+*/
+
+/*
+===================================================================================
+						practice-area colum-3 page start
+===================================================================================
+*/
+/*
+==========================================
+	kode_colum_3_img start
+==========================================
+*/
+.kode_colum_3_img{
+	float:left;
+	width:100%;
+	overflow:hidden;
+	padding-bottom:25px;
+	border-bottom:1px solid #e8e8e8;
+	margin-bottom:30px;
+}
+.kode_colum_3_img figure{
+	position:relative;
+	display:block;
+	border-bottom:2px solid #252731;
+	margin-bottom:30px;
+	float:left;
+	overflow:hidden;
+}
+.kode_colum_3_img figure img{
+	transform: scale(1.0) rotate(0deg);
+}
+.kode_colum_3_img:hover figure img{
+	transform: scale(1.4) rotate(6deg);
+} 
+.kode_colum_3_img:hover figure:after{
+	opacity:0.70;
+	left:0%;
+	right:0%;
+}
+.kode_colum_3_img figcaption{
+	position:absolute;
+	right:22px;
+	bottom: 100%;
+	opacity:0;
+	
+}
+.kode_colum_3_img:hover figcaption{
+	opacity:1;
+	bottom:10px;
+}
+.kode_colum_3_img strong{
+	display:block;
+	font-size:22px;
+	font-weight:Bold;
+	text-align:center;
+	color:#fff;
+	height:55px;
+	width:71px;
+	line-height:50px;
+}
+.kode_colum_3_img  span{
+	background-color:#252731;
+	font-size:12px;
+	color:#ffffff;
+	display:inline-block;
+	padding:4px 14px;
+}
+.kode_colum_3_caption{
+	float:left;
+	width:100%;
+}
+.kode_colum_3_caption h5{
+	margin:0px;
+	font-weight:Bold;
+	color:#252731;
+	text-transform:uppercase;
+	margin-bottom:10px;
+}
+.kode_colum_3_caption p{
+	margin-bottom:18px;
+}
+.kode_colum_3_caption a{
+	text-decoration:none;
+	font-size:14px;
+	color:#666666;
+	position:relative;
+}
+.kode_colum_3_caption i {
+    margin-left: 10px;
+    position: absolute;
+    top: 5px;
+}
+/*
+==========================================
+	kode_colum_3_img end
+==========================================
+*/
+/*
+===================================================================================
+						about-us page start
+===================================================================================
+*/
+/*
+==========================================
+	kode_abouts_us_agence start
+==========================================
+*/
+.kode_abouts_us_agence{
+	float:left;
+	width:100%;
+	padding:37px 0px 50px 0px;
+}
+.kode_abouts_us_hdg{
+	float:left;
+	width:100%;
+	margin-bottom:28px;
+	text-align:center;
+}
+.kode_abouts_us_hdg h2{
+	text-align:center;
+	color:#252731;
+	display:inline-block;
+	position:relative;
+}
+.kode_abouts_us_hdg > h2::after {
+	border-bottom: 5px dotted;
+    bottom: -15px;
+    content: "";
+	left: 0px;
+    position: absolute;
+    right: 0px;
+	width:36px;
+	margin:auto;
+}
+.kode_practice_about_us_kode{
+	float:left;
+	width:100%;
+	/* padding:26px 0px;	 */
+}
+.kode_practice_about_us_kode > p {
+    margin-bottom: 11px;
+}
+.kode_practice_about_us_caption > p {
+    line-height: 22px;
+}
+.kode_practice_about_us_li_list{
+	float:left;
+	width:100%;
+}
+.kode_practice_about_us_li_list ul{
+	float:left;
+	width:100%;
+}
+.kode_practice_about_us_li_list ul li{
+	float:left;
+	position:relative;
+	padding-bottom:27px;
+}
+.kode_practice_about_us_li_list ul li:last-child{
+	padding-bottom:0px;
+}
+.kode_practice_about_us_li_list ul li::after{
+	border-left: 1px solid #dddddd;
+    bottom: 0;
+    content: "";
+    left: 13px;
+    position: absolute;
+    right: 0;
+    top: 30px;
+    z-index: -2;
+}
+.kode_practice_about_us_li_list li:last-child::after {
+    border-left: medium none;
+}
+.kode_practice_about_us_li_list ul li::before{
+    bottom: 0px;
+    content: "";
+    left: 10px;
+    position: absolute;
+    right: 0;
+    top: 65px;
+	height:6px; 
+	width:6px;
+	background-color:#cccccc;
+	border-radius:80%;
+	z-index:-1;
+}
+.kode_practice_about_us_li_list li:last-child::before {
+    background-color: #fff;
+}
+.kode_practice_about_us_chack{
+	float:left;
+	width:100%;
+}
+.kode_practice_about_us_chack span{
+	height:30px;
+	width:30px;
+	text-align:center;
+	display:inline-block;
+	color:#252731;
+	font-size:16px;
+	float:left;
+	border:1px solid;
+}
+.kode_practice_about_us_chack:hover span{
+	color:#fff;
+}
+.kode_practice_about_us_li_list ul li span i{
+	line-height:28px;
+}
+.kode_practice_about_us_caption{
+	float:none;
+	width:100%;
+	padding-left:50px;
+}
+.kode_practice_about_us_caption h2{
+	font-size:16px;
+	font-family: open sans;
+	color:#252731;
+	font-weight:Semibold;
+	margin-bottom:12px;
+	text-transform:uppercase;
+}
+/*
+==========================================
+	kode_abouts_us_agence end
+==========================================
+*/
+/*
+==========================================
+	kode_about_us_what start
+==========================================
+*/
+.kode_about_us_what{
+	float:left;
+	width:100%;
+	background-color:#f8f8f8;
+	padding:73px 0px 6px;;
+}
+.kode_about_us_legal{
+	float:left;
+	width:100%;
+	text-align:center;
+	margin-bottom:60px;
+}
+.kode_about_us_legal span{
+	height:103px;
+	width:103px;
+	text-align:center;
+	display:inline-block;
+	border-radius:100%;
+	font-size:40px;
+	color:#fff;
+	margin-bottom:15px;
+	position:relative;
+	z-index:999;
+}
+.kode_about_us_legal span::before{
+	position:absolute;
+	content:"";
+	top:100px;
+	left:100px;
+	right:100px;
+	bottom:100px;
+	z-index:-1;
+}
+.kode_about_us_legal:hover span::before{
+	background-color:#000;
+	left:0px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	border-radius:100%;
+}
+.kode_about_us_legal span i{
+	line-height:100px;
+}
+.kode_about_us_legal h6{
+	text-transform:uppercase;
+	font-size:18px;
+	color:#252731;
+	margin-bottom:10px;
+}
+.kode_about_us_legal p{
+	margin-bottom:26px;
+}
+.kode_about_us_legal a{
+	font-size:14px;
+	color:#999999;
+	padding:9px 43px 8px 20px;
+	display:inline-block;
+	position:relative;
+}
+.kode_about_us_legal:hover a{
+	color:#fff;
+}
+.kode_about_us_legal a i{
+	bottom: 0;
+    position: absolute;
+    right: 20px;
+    top: 14px;
+}
+/*
+==========================================
+	kode_about_us_competition start
+==========================================
+*/.kode_about_us_competition{
+	float:left;
+	width:100%;
+	background-color:#343a4c;
+}
+.kode_about_us_competition_icon{
+	float:left;
+	width:100%;
+	padding:80px 30px;
+	border:10px solid transparent;
+}
+.col-md-4.padding_0 {
+    padding: 0;
+}
+.kode_about_us_competition_icon span{
+	float:left;
+	color:#fff;
+	font-size: 50px;
+}
+.kode_about_us_competition_caption{
+	float: none;
+    padding-left:70px;
+}
+.kode_about_us_competition_caption h3{
+	font-weight:Bold;
+	color:#fff;
+	line-height: 42px;
+	padding-right: 68px;
+	margin-bottom:5px;
+	text-transform:uppercase;
+}
+.kode_about_us_competition_caption h5{
+	font-size:16px;
+	font-weight:Light It;
+	text-transform:uppercase;
+	font-style:italic;
+	margin-bottom:30px;
+}
+.kode_about_us_competition_icon .kode_about_us_competition_caption p{
+	color:#ffffff;
+	text-transform:uppercase;
+	margin-bottom:26px;
+}
+.kode_about_us_competition_caption a{
+	font-size:14px;
+	font-weight:Bold;
+	text-transform:uppercase;
+	color:#fff;
+	padding:0px 0px 0px 20px;
+	display:inline-block;
+}
+.kode_about_us_competition_caption a:hover{
+	background-color:000;
+}
+.kode_about_us_competition_caption a i{
+	font-size: 15px;
+    height: 42px;
+    line-height: 43px;
+    margin-left: 18px;
+    text-align: center;
+    width: 40px;
+}
+/*
+==========================================
+	kode_about_us_competition end
+==========================================
+*/
+/*
+==========================================
+	law_our_team_1 start
+==========================================
+*/
+.law_our_team_1{
+	padding:72px 0px 80px 0px;
+	float:left;
+	width:100%;
+}
+/*
+==========================================
+	law_our_team_1 end
+==========================================
+*/
+/*
+==========================================
+	kode_about_us_silde start
+==========================================
+*/
+
+.kode_about_us_silde{
+	float:left;
+	width:100%;
+	background-image:url("image/about2.jpg");
+	background-size:cover;
+	padding:80px 0px 154px 0px;
+}
+.kode_about_us_silde_caption{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.kode_about_us_silde_caption figure{
+	display:inline-block;
+	margin-bottom:25px;
+	padding: 6px;
+	border: 1px solid #fff;
+	border-radius: 100%;
+}
+.kode_about_us_silde_caption figure img{
+    border-radius: 100%;
+    display: inline-block;
+	 overflow: hidden;
+}
+.kode_about_us_silde_caption h3{
+	color:#fff;
+	text-transform:uppercase;
+	margin-bottom:70px;
+}
+.kode_about_us_silde .kode_about_us_silde_caption p{
+	color:#ffffff;
+	font-style:Italic;
+	padding: 0 206px;
+	position:relative;
+}
+.kode_about_us_silde_caption p::after{
+	position:absolute;
+	content: "\f10d";
+	top:-23px;
+	left:200px;
+	bottom:0px;
+	font-family: FontAwesome;
+}
+.kode_about_us_silde_caption p::before{
+	bottom: 0;
+    content:"\f10e";
+    font-family: FontAwesome;
+    left: 35%;
+    position: absolute;
+    right: 0;
+    top: 55px;
+    z-index: -1;
+}
+
+.kode_about_us_silde .bx-controls-direction {
+    display: none;
+}
+.kode_about_us_silde  .bx-wrapper .bx-pager.bx-default-pager a {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 0;
+    display: block;
+    height: 3px;
+    margin: 0 5px;
+    outline: 0 none;
+    text-indent: -9999px;
+    width: 20px;
+}
+.kode_about_us_silde.bx-wrapper .bx-viewport{
+	height:0px;
+	overflow:none;
+}
+.kode_about_us_silde .bx-wrapper .bx-pager{
+	padding:0px;
+}
+.kode_about_us_silde  .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto{
+	bottom:-90px;
+}
+.kode_about_us_silde .bx-wrapper{
+	margin:0px;
+}
+/*
+==========================================
+	kode_about_us_silde end
+==========================================
+*/
+/*
+==========================================
+	kode_about_us_latest start
+==========================================
+*/
+.kode_about_us_latest{
+	float:left;
+	width:100%;
+	padding:75px 0px 80px 0px;
+}
+.kode_about_us_latest_news{
+	float:left;
+	width:100%;
+}
+.kode_span_list.list_2 {
+    float: left;
+    position: relative;
+    text-align: left;
+    top: -38px;
+}
+.kode_about_us_latest_news h3{
+	font-size:18px;
+	color:#000000;
+	text-transform:uppercase;
+	position:relative;
+	margin-bottom:37px;
+}
+
+.kode_about_us_span{
+	float:left;
+	width:100%;
+	margin-bottom:28px;
+}
+.kode_about_us_span:last-child {
+    margin: 0;
+}
+.kode_about_us_latest_kode{
+	float:left;
+}
+.kode_about_us_latest_kode h5{
+	font-size:24px;
+	color:#ffffff;
+	padding:6px 22px;
+}
+.kode_about_us_latest_kode span{
+	float:left;
+	padding:2px 23px;
+	background-color:#000;
+	font-size:16px;
+	color:#fff;
+	text-transform:uppercase;
+}
+.kode_about_us_latest_caption{
+	float:none;
+	padding-left:100px;
+}
+.kode_about_us_latest_caption h6{
+	color:#4d4d4d;
+	text-transform:uppercase;
+	margin-bottom:11px;
+}
+.kode_about_us_latest_caption ul{
+	float:left;
+	margin-bottom:10px;
+}
+.kode_about_us_latest_caption li{
+	float:left;
+}
+.kode_about_us_latest_caption li:first-child{
+	color:#c22b2a;
+}
+.kode_about_us_latest_caption li a{
+	font-size:14px;
+	display:inline-block;
+	margin-right:18px;
+}
+.kode_about_us_latest_caption p{
+	float:left;
+	padding:0px 6px 0px 0px;
+}
+.kode_about_us_according{
+	float:left;
+	width:100%;
+}
+.kode_about_us_according .panel{
+	box-shadow:0px 0px;
+}
+.kode_about_us_latest_news .panel-heading{
+	padding:0px;
+}
+.kode_about_us_latest_news .panel-heading a{
+	padding:0px;
+	font-size:18px;
+	font-weight:Bold;
+	text-transform:uppercase;
+	color:#fff;
+	display:block;
+	padding:18px 60px 18px 20px;
+	background-color:#4d4d4d;
+	position:relative;
+}
+.kode_about_us_latest_news .panel-heading a::before{
+	position:absolute;
+	content: "\f077";
+	font-family: FontAwesome;
+	top:0px;
+	right:0px;
+	bottom:0px;
+	height:60px;
+	width:60px;
+	text-align:center;
+	display:inline-block;
+	background-color:#383838;
+	line-height:55px;
+	font-size:10px;
+	color:#fff;
+}
+.kode_about_us_latest_news .panel-heading a.active:before,
+.kode_about_us_latest_news .panel-heading a:focus:before,
+.kode_about_us_latest_news .panel-heading a:hover:before{
+	background-color:#000;
+	content:  "\f078";
+	font-family: FontAwesome;
+	top:0px;
+	right:0px;
+	bottom:0px;
+}
+.kode_about_us_latest_news .panel-group{
+	margin:0px;
+	float:left;
+	width:100%;
+}
+.kode_about_us_latest_news .panel-body{
+	float:left;
+	width:100%;
+	padding:20px 0px 10px 0px;
+	border-top:none;
+}
+.kode_about_us_latest_news .panel-body figure{
+	float:left;
+	border:5px solid #f3f3f3;
+	margin-right:18px;
+	display:inline-block;
+}
+.kode_about_us_latest_news .panel-collapse .collapse .in{
+	float:left;
+	width:100%;
+}
+.kode_about_us_latest_news .panel.panel-default {
+    float: left;
+    width: 100%;
+    border: none;
+	 margin: 0 0 10px;
+}
+.kode_about_us_latest_news .panel.panel-default:last-child{
+	margin-bottom:0px;
+}
+.kode_about_us_latest_news .panel-group .panel-heading + .panel-collapse > .list-group, .panel-group .panel-heading + .panel-collapse > .panel-body{
+	border:none;
+}
+/*
+==========================================
+	kode_about_us_latest end
+==========================================
+*/
+/*
+===================================================================================
+						practice-area-detail page start
+===================================================================================
+*/
+/*=====kode_practice_detail start====*/
+.kode_practice_detail{
+	float:left;
+	width:100%;
+	padding:80px 0px;
+}
+.kode_practice_detail_social_tabs{
+	float:left;
+	width:100%;
+	background-color:#f8f8f8;
+	padding:29px 16px;
+	border:1px solid #e6e6e6;
+	margin-bottom:35px;
+}
+.kode_practice_detail_social_tabs h4{
+	font-weight:Bold;
+	color:#4d4d4d;
+	text-transform:uppercase;
+	position:relative;
+	margin-bottom:40px;
+}
+.kode_practice_detail_social_tabs h2::before{
+	 border-bottom: 5px dotted;
+    bottom: -20px;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    width: 36px;
+}
+.kode_practice_detail_social_tabs ul{
+	float:left;
+	width:100%;
+}
+.kode_practice_detail_social_tabs ul li{
+	margin-bottom:10px;
+	display:block;
+	width:100%;
+}
+.kode_practice_detail_social_tabs .nav-tabs > li > a {
+    border:none;
+    border-radius: 0;
+    margin-right: 0px;
+}
+.kode_practice_detail_social_tabs ul li:last-child{
+	margin-bottom:0px;
+}
+.kode_practice_detail_social_tabs ul li  a{
+	font-size:15px;
+	color:#4d4d4d;
+	display:block;
+	height:38px;
+	background-color:#ffffff;
+	padding: 7px 0 6px 46px;
+	font-family:merriweather;
+	position:relative;
+	border:none;
+	margin:0px;
+}
+.kode_practice_detail_social_tabs .panel{
+    border:none;
+    border-radius: 0px;
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.05);
+    margin-bottom: 0px;
+}
+.kode_practice_detail_social_tabs .panel-heading{
+	border-bottom: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    padding:0px;
+}	
+.kode_practice_detail_social_tabs ul li a.active,
+.kode_practice_detail_social_tabs ul li a:hover{
+	color:#fff;
+	border:none;
+}
+.kode_practice_detail_social_tabs ul li a::before{
+	position:absolute;
+	content: "";
+	font-family: FontAwesome;
+	top:0px;
+	left:1px;
+	right:0px;
+	bottom:0px;
+	height:38px;
+	width:35px;
+	display:inline-block;
+	background-color:rgba(0,0,0,1);
+	text-align:center;
+	line-height:38px;
+	font-size:15px;
+	color:#fff;
+}
+.kode_practice_detail_social_tabs ul li a::after{
+	position:absolute;
+	content: "\f101";
+	font-family: FontAwesome;
+	top:0px;
+	left:1px;
+	right:0px;
+	bottom:0px;
+	height:38px;
+	width:35px;
+	display:inline-block;
+	text-align:center;
+	line-height:38px;
+	font-size:15px;
+	color:#fff;
+}
+.kode_practice_detail_social_tabs ul li:hover a::before{
+	opacity: 0.2;
+}
+.kode_practice_detail_social_tabs ul li a:focus:before,
+.kode_practice_detail_social_tabs ul li a.active:before,
+.kode_practice_detail_social_tabs ul li a:hover:before{
+	background:#000;
+}
+/*=====kode_practice_detail end====*/
+/*=====kode_practice_detail_download start====*/
+.kode_practice_detail_download .kode_span_list{
+	text-align: left;
+	margin-bottom: 30px;
+}
+.kode_practice_detail_download .kode_span_list.list_5 {
+    margin: 0;
+}
+.kode_practice_detail_download{
+	float:left;
+	width:100%;
+	padding-bottom:38px;
+	border-bottom:1px solid #f0f0f0;
+	margin-bottom:40px;
+}
+.kode_practice_detail_download h4{
+	margin-bottom:20px;
+}
+.kode_practice_detail_offices h4{
+	color:#4d4d4d;
+	margin-bottom:38px;
+	position:relative;
+}
+.kode_practice_detail_download  p{
+	padding: 0 3px 0 0;
+	margin-bottom:15px;
+}
+.kode_practice_detail_download ul{
+	float:left;
+	width:100%;
+}
+.kode_practice_detail_download ul li{
+	margin-bottom:18px;
+}
+.kode_practice_detail_download ul li:last-child{
+	margin-bottom:0px;
+}
+.kode_practice_detail_download ul li a{
+	color:#fff;
+	font-size:18px;
+	text-transform:uppercase;
+	width:100%;
+	display:inline-block;
+	border-bottom:2px solid #c22b2a;
+	position:relative;
+	padding: 21px 0 24px 15px;
+}
+.kode_practice_detail_download ul li a::before{
+	border: 1px solid #fff;
+    bottom: 0;
+    content: "\f019";
+    display: inline-block;
+    font-family: FontAwesome;
+    height: 43px;
+    line-height: 43px;
+    position: absolute;
+    right: 12px;
+    text-align: center;
+    top: 14px;
+    width: 43px;
+}
+.kode_practice_detail_download ul li a:hover{
+	background-color:#000;
+	border-bottom:2px solid #000;
+}
+.kode_practice_detail_download ul li a i{
+	font-size:18px;
+	margin-right:8px;
+}
+/*=====kode_practice_detail_download end====*/
+/*=====kode_practice_detail_offices start====*/
+.kode_practice_detail_offices .kode_span_list.list_5.list_6 {
+    margin-top: -19px;
+    position: relative;
+    text-align: left;
+}
+.kode_practice_detail_offices{
+	float:left;
+	width:100%;
+}
+.kode_practice_detail_offices ul{
+    float: left;
+    width: 100%;
+}
+.kode_practice_detail_offices ul li{
+	border-bottom: 1px solid #f0f0f0;
+    float: left;
+    padding: 20px 0;
+    width: 100%;
+}
+.kode_practice_detail_offices ul li:first-child{
+		border-top:1px solid #f0f0f0;
+}
+.kode_practice_detail_offices_icon {
+	float:left;
+	width:100%;
+}
+.kode_practice_detail_offices_icon span{
+	height:33px;
+	width:33px;
+	display:inline-block;
+	float:left;
+	border-radius:100%;
+	border:1px solid #e7e7e7;
+	font-size:15px;
+	color:#4d4d4d;
+	text-align:center;
+	margin-right:16px;
+}
+.kode_practice_detail_offices_icon:hover span{
+	color:#fff;
+}
+.kode_practice_detail_offices_icon span i{
+	line-height:33px;
+}
+.kode_practice_detail_offices_caption{
+	float:none;
+	margin:auto;
+}
+.kode_practice_detail_offices_caption p  a{
+	font-size:15px;
+	color:#4d4d4d;
+}
+/*=====kode_practice_detail_offices end====*/
+/*=====kode_practice_detail_fig_kode start====*/
+.kode_practice_detail_fig_kode{
+	float:left;
+	width:100%;
+}
+.kode_practice_detail_img{
+	float:left;
+	width:100%;
+	padding-bottom:40px;
+	border-bottom:1px solid #eeeeee;
+	margin-bottom:35px;
+}
+.kode_practice_detail_fig_kode .panel-body{
+	padding:0px;
+}
+.kode_practice_detail_fig_kode .panel .panel-default{
+	border-color:#none;
+}
+.kode_practice_detail_fig_kode .panel{
+	margin-bottom:0px;
+	border:none;
+	box-shadow:0px 0px 0px 0px;
+}
+.kode_practice_detail_fig_kode.panel-heading{
+	padding: 0px 0px;
+}
+.kode_practice_detail_img figure{
+	display:block;
+	margin-bottom:25px;
+	border:10px solid #f8f8f8;
+	overflow:hidden;
+}
+.kode_practice_detail_img img{
+	transform: scale(1.0) rotate(0deg);
+}
+.kode_practice_detail_img:hover img{
+	transform: scale(1.1);
+}
+.kode_practice_detail_img  h3{
+	text-transform:uppercase;
+	font-weight:Bold;
+	color:#4d4d4d;
+	margin-bottom:15px;
+}
+.kode_practice_detail_img p{
+	margin-bottom:25px;
+}
+.kode_practice_detail_img  p:last-child {
+    margin-bottom: 0;
+}
+/*=====kode_practice_detail_fig_kode end====*/
+/*=====kode_practice_detail_services start====*/
+.kode_practice_detail_services{
+	float:left;
+	width:100%;
+}
+.kode_practice_detail_services h3{
+	font-weight:Bold;
+	color:#4d4d4d;
+	text-transform:uppercase;
+	margin-bottom:25px;
+}
+.kode_practice_detail_services_row{
+	float:left;
+	width:100%;
+	padding-bottom:30px;
+	border-bottom:1px solid #eeeeee;
+	margin-bottom:30px;
+}
+.kode_practice_detail_services_img{
+	float:left;
+	margin-right:20px;
+	min-width:379px;
+}
+.kode_practice_detail_services_img figure {
+	float:left;
+	position:relative;
+}
+.kode_practice_detail_services_caption {
+    float: none;
+    margin: auto;
+}
+.kode_practice_detail_services_caption h6{
+	color:#666666;
+	font-weight:Bold;
+	text-transform:uppercase;
+	margin-bottom:20px;
+}
+.kode_practice_detail_services_caption.kode_left {
+    float: left;
+    margin-right: 20px;
+    width: 442px;
+}
+.kode_practice_detail_services_img.kode_margin {
+    margin-right: 0;
+}
+/*=====kode_practice_detail_services end====*/
+/*=====kode_practice_detail_according start====*/
+.kode_practice_detail_according{
+	float:left;
+	width:100%;
+	margin-bottom:20px;
+}
+.kode_practice_detail_according h3{
+	color:#4d4d4d;
+	font-weight:bold;
+	margin-bottom:30px;
+}
+.kode_practice_detail_according_detil{
+	float:left;
+	width:100%;
+	padding-bottom:30px;
+	border-bottom:1px solid #eeeeee;
+}
+.kode_practice_detail_according_detil .panel-heading {
+    padding: 0;
+}
+.kode_practice_detail_according_detil .panel-title a{
+	font-size:14px;
+	color:#999999;
+	display:block;
+	padding:10px 24px;
+	border:1px solid #e6e6e6;
+	position:relative;
+}
+.kode_practice_detail_according_detil .panel-title a::before{
+	position:absolute;
+	content:  "\f068";
+	top:6px;
+	right: 28px;
+	bottom:0px;
+	font-family: FontAwesome;
+	height:26px;
+	width:26px;
+	text-align:center;
+	border:1px solid #e6e6e6;
+	border-radius:100%;
+	display:inline-block;
+	font-size:10px;
+	color:#999999;
+	line-height:26px;
+	
+}
+.kode_practice_detail_according_detil .panel-title a:focus:before,
+.kode_practice_detail_according_detil .panel-title a.active:before,
+.kode_practice_detail_according_detil .panel-title a:hover:before{
+	font-family: FontAwesome;
+	position:absolute;
+	content:   "\f067";
+	right: 28px;
+	bottom:0px;
+	font-family: FontAwesome;
+	height:26px;
+	width:26px;
+	text-align:center;
+	border:1px solid #e6e6e6;
+	border-radius:100%;
+	display:inline-block;
+	font-size:10px;
+	color:#999999;
+	line-height:26px;
+}
+.kode_practice_detail_according_detil .panel-body{
+	float:left;
+	width:100%;
+	padding:14px 15px;
+	border:1px solid #e6e6e6;
+}
+.kode_practice_detail_according_detil .panel.panel-default {
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.kode_practice_detail_according_detil  .panel-group .panel + .panel{
+	margin-top:0px;
+}
+.kode_practice_detail_according_detil  .panel-title{
+	display:block;
+	margin:auto;
+}
+.kode_practice_detail_according_detil  .panel{
+	border:none;
+}
+.kode_practice_detail_according_detil .panel-group{
+	margin-bottom:0px;
+}
+/*=====kode_practice_detail_according end====*/
+/*=====law_our_team .margin_kode====*/
+
+.law_our_team.margin_kode{
+	margin:0px;
+	float:left;
+	width:100%;
+	padding:0px;
+}
+.law_our_team_hdg.kode_left{
+	float:left;
+	width:100%;
+	text-align:left;
+}
+/*
+===================================================================================
+						about-us-03 page start
+===================================================================================
+*/
+/*
+=====================================
+	kode_about_03_ageance start
+=====================================
+*/
+.kode_about_03_ageance{
+	float:left;
+	width:100%;
+	padding:72px 0px;
+}
+.kode_about_03_hdg{
+	float:left;
+	width:100%;
+	text-align:center;
+	margin-bottom:36px;
+}
+.kode_about_03_hdg h2{
+	margin-bottom:7px;
+}
+.kode_about_03_medical{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.kode_about_03_medical span{
+	width:82px;
+	height:82px;
+	display:inline-block;
+	font-size:45px;
+	color:#333333;
+	border:3px solid #252731;
+	margin-bottom:28px;
+}
+.kode_about_03_medical span i{
+	line-height:76px;
+}
+.kode_about_03_medical h3{
+	font-weight:bold;
+	margin-bottom:12px;
+	text-transform:uppercase;
+}
+.kode_about_03_medical p{
+	margin-bottom:18px;
+}
+.kode_about_03_medical a{
+	color:#333333;
+}
+/*
+=====================================
+	kode_about_03_ageance end
+=====================================
+*/
+
+/*
+=====================================
+	kode_about_03_history start
+=====================================
+*/
+.kode_about_03_history{
+	float:left;
+	width:100%;
+	padding:72px 0px 82px 0px;
+}
+.kode_about_03_history .col-md-9.about_us03,
+.kode_about_03_history .col-md-3.about_us03{
+	padding:0px;
+}
+.kode_about_03_cols{
+	float:left;
+	width:100%;
+}
+.kode_about_03_cols ul{
+	float:left;
+	width:100%;
+	border-top:1px solid #d4d4d4;
+}
+.kode_about_03_cols ul li{
+	border-bottom:1px solid #d4d4d4;
+	float:left;
+	width:100%;
+}
+.kode_about_03_img{
+	float:left;
+	width:100%;
+	border-bottom:1px solid #d4d4d4;
+}
+.kode_about_03_img figure{
+	position:relative;
+}
+.kode_about_03_img > figure:after {
+    background: rgba(255,255,255,1);
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+	z-index:1;
+}
+.kode_about_03_img figure:hover:after{
+	background: rgba(0,0,0,0.4);
+}
+.kode_about_03_img > figure:before {
+    bottom: 0;
+    content: "";
+    height: 0;
+    position: absolute;
+    right: -4px;
+    top: 38px;
+	border-color: transparent transparent transparent transparent;
+    border-style: solid;
+    border-width: 4px 0 4px 4px;
+	z-index:1;
+}
+.kode_about_03_img > figure:hover:before{
+	border-color: transparent transparent transparent #000;
+    border-style: solid;
+    border-width: 4px 0 4px 4px;
+	z-index: 999;
+	width: 0;
+}
+.kode_about_03_img figure img{
+	width:100%;
+	z-index:90000;
+}
+.kode_about_03_tabs{
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	border-right:2px solid transparent;
+	z-index:999;
+}
+.kode_about_03_tabs a{
+	padding: 16px 25px;
+	display:block;
+}
+.kode_about_03_tabs span{
+	color:#333333;
+	font-size:16px;
+	float:left;
+	margin-right: 18px;
+	font-weight:600;
+}
+.kode_about_03_tabs:hover p,
+.kode_about_03_tabs:hover span{
+	color:#fff;
+}
+.kode_about_03_tabs p{
+    float: none;
+    padding-left: 60px;
+	font-weight:500;
+	line-height: normal;
+}
+.kode_about_03_history .panel.panel-default{
+	border:none;
+	margin: 0;
+}
+.kode_about_03_history .panel-body {
+    padding: 0;
+}
+.kode_about_03_row{
+	float:left;
+	width:100%;
+	 padding: 30px 17px;
+	background-color:#f8f8f8;
+}
+.kode_about_03_history.bx-viewport {
+    height: 152px;
+}
+.kode_about_03_caption{
+	float:left;
+	width:100%;
+}
+.kode_about_03_caption span{
+	font-size:18px;
+	font-weight:600;
+	margin-bottom:10px;
+	display:block;
+}
+.kode_about_03_caption h3{
+	color:#333333;
+	padding-bottom:30px;
+	border-bottom:1px solid #d4d4d4;
+}
+.kode_about_03_caption p{
+	color:#666666;
+	padding:25px 0px;
+}
+.kode_about_03_icon{
+	float:left;
+	width:100%;
+	margin-bottom:26px;
+}
+.kode_about_03_icon span{
+	float:left;
+}
+.kode_about_03_icon span i{
+	font-size:24px;
+}
+.kode_about_03_icon  p {
+    float: none;
+	padding-left: 40px;
+	margin:-6px 0px 0px 0px;
+	margin-bottom:20px;
+}
+.kode_about_03_icon > p:last-child {
+    margin: 0;
+	font-weight:600;
+}
+.kode_about_03_slider{
+	float:left;
+	width:100%;
+	padding: 0 44px;
+}
+.kode_about_03_slider figure{
+	float:left;
+	margin-right:25px;
+}
+.kode_about_03_slider figure:last-child{
+	margin-right:0px;
+}
+.kode_about_03_slider  .bx-wrapper {
+    margin: 0;
+}
+.kode_about_03_slider .bx-pager.bx-default-pager {
+    display: none;
+}
+.kode_about_03_slider .bx-wrapper .bx-controls-direction  .bx-prev {
+    margin-top: -16px;
+    outline: 0 none;
+    position: absolute;
+    top: 50%;
+	left:-32px;
+}
+.kode_about_03_slider .bx-wrapper .bx-controls-direction  .bx-prev::after{
+	position:absolute;
+	content: "\f0d9";
+	font-family: FontAwesome;
+	top:0px;
+	right:0px;
+	height:32px;
+	width:32px;
+	display:block;
+	font-size:15px;
+	color:#fff;
+	line-height:32px;
+	text-align:center;
+}
+.kode_about_03_slider .bx-wrapper .bx-controls-direction  .bx-next{
+	margin-top: -16px;
+    outline: 0 none;
+    position: absolute;
+    top: 50%;
+	right:-31px;
+}
+.kode_about_03_slider .bx-wrapper .bx-controls-direction  .bx-next::before{
+	position:absolute;
+	content: "\f0da";
+	font-family: FontAwesome;
+	top:0px;
+	left:0px;
+	height:32px;
+	width:32px;
+	display:block;
+	font-size:15px;
+	color:#fff;
+	line-height:32px;
+	text-align:center;
+}
+/*
+=====================================
+	kode_about_03_history end
+=====================================
+*/
+/*
+=====================================
+	kode_about_03_team start
+=====================================
+*/
+.kode_about_03_team{
+	float:left;
+	width:100%;
+	background-image:url("image/backabout03.jpg");
+	background-position:center;
+	background-size:cover;
+	padding:70px 0px;
+	position:relative;
+	height:550px;
+}
+.kode_about_3_athoure{
+
+}
+/*
+=====================================
+	kode_about_03_team end
+=====================================
+*/
+/*
+=====================================
+	kode_about_03_client start
+=====================================
+*/
+.kode_about_03_client{
+	float:left;
+	width:100%;
+	padding: 134px 0 60px;
+}
+.kode_about_03_hdg.full-left {
+    float: left;
+    width: 100%;
+}
+ .kode_about_03_hdg.full-left p,
+.kode_about_03_hdg.full-left h2{
+	 color:#fff;
+ }
+.kode_about_03_hdg.full-left p{
+	position:relative;
+}
+.kode_about_03_hdg.full-left p::before{
+	margin:0px;
+	right:0px;
+}
+.kode_about_03_client_img{
+	float:left;
+	width:100%;
+	margin-bottom:20px;
+}
+.kode_about_us_client_news {
+	float:left;
+	width:100%;
+}
+.kode_about_us_client_news.float_right{
+	padding-right:50px;
+}
+.kode_about_us_client_news.float_left{
+	padding-left:25px;
+}
+.kode_about_us_client_news h2{
+	margin-bottom:33px;
+}
+.kode_about_03_client_img figure{
+	display:block;
+	border:1px solid #dedede;
+}
+.kode_about_03_client_img > figure:hover {
+    box-shadow: 0 0 8px -4px;
+}
+.kode_about_03_TESTIMONIAL{
+	float:left;
+	width:100%;
+}
+.kode_about_03_TESTIMONIAL  i{
+	font-size:24px;
+	margin-bottom:10px;
+}
+
+.kode_about_us_client_news.float_left .kode_about_03_TESTIMONIAL p{
+	margin-bottom:20px;
+	line-height:21px;
+}
+.kode_about_03_TESTIMONIAL h3{
+	margin-bottom:3px;
+}
+.kode_about_03_TESTIMONIAL a{
+	font-size:16px;
+}
+/*
+===================================================================================
+						404-error page start
+===================================================================================
+*/
+/*
+========================================
+			kode_404_wraper start			
+========================================
+*/
+.kode_404_wraper {
+    background-image: url("image/404.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    bottom: 0;
+    float: left;
+   padding-bottom: 70px;
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+.kode_error_404{
+	width:100%;
+	text-align:center;
+}
+.kode_error_404.error_left {
+    height: 519px;
+    margin: auto;
+    position: relative;
+    width: 700px;
+     padding: 20% 0 0;
+}
+.kode_error_404.error_02{
+	bottom: 0;
+    left: 0;
+    margin: auto;
+    position: relative;
+    right: 0;
+    text-align: center;
+    top: 0;
+    width: 700px;
+	height: 519px;
+}
+.kode_error_404 h3{
+	color:#ffffff;
+	text-transform:uppercase;
+}
+.kode_error_404 .kode_404_hdg {
+    margin: 0 0 13px;
+}
+.kode_error_404 h2{
+	font-size:198.05px;
+	font-weight:bold;
+	color:#fff;
+	 margin: -8px 0 0;
+}
+.kode_error_404 h2 span{
+	padding:0px 38px;
+}
+.kode_error_404 p{
+	font-size:20px;
+	color:#fff;
+	margin-bottom:35px;
+}
+.kode_404_form{
+	float:left;
+	width:100%;
+}
+.kode_404_form input{
+	background:none;
+}
+/*--kode_404_form start--*/
+.kode_404_form form{
+	float:left;
+	width:100%;
+	position:relative;
+	margin:0px 0px 50px 0px;
+}
+.kode_404_form form input[type="text"]{
+	width:698px;
+	height:60px;
+	color:#fff;
+	border:1px solid #fff;
+	padding:0px 30px;
+	opacity: 0.62;
+}
+.kode_404_form.form_02 form input[type="text"]{
+	border:1px solid #333;
+	color:#333;
+}
+.kode_404_form form input[type="text"]:focus{
+	box-shadow: 0 0 25px -14px;
+	border:1px solid #a12e4d;
+}
+.kode_404_form  input:focus{
+	box-shadow: 0 0 25px -14px;
+	border:1px solid #a12e4d;
+} 
+.kode_404_form form button{
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border-left: 1px solid #fff;
+    padding: 0 20px;
+    position: absolute;
+    right: 0px;
+    top: 24px;
+	color:#fff;
+	opacity: 0.7;
+}
+.kode_404_form.form_02 form button{
+	border-left: 1px solid #333;
+	color:#333;
+}
+.kode_404_form a{
+	display:inline-block;
+	font-size:18px;
+	font-weight:Bold;
+	color:#fff;
+	padding:13px 18px;
+}
+.kode_404_form a:hover{
+	background-color:#000;
+}
+/*
+========================================
+			kode_404_wraper end		
+========================================
+*/
+/*
+===================================================================================
+						404-error-02 page start
+===================================================================================
+*/
+/*
+========================================
+	.kode_404_wraper.wraper_02 start		
+========================================
+*/
+.kode_404_wraper.wraper_02 {
+    background-color: #fff;
+    background-image: none;
+    padding: 0;
+	padding:72px 0 80px;
+}
+.kode_error_404.error_02 h2,
+.kode_error_404.error_02 h3{
+	color:#333333;
+}
+.kode_error_404.error_02 p{
+	color:#999999;
+}
+.kode_404_form.form_02 input{
+	background:none;
+	border-color:#f5ead0;
+	opacity:100%;
+}
+/*
+========================================
+	.kode_404_wraper.wraper_02 end		
+========================================
+*/
+/*
+===================================================================================
+						attorney-02 page start
+===================================================================================
+*/
+/*
+========================================
+	kode_attorney_wraper start		
+========================================
+*/
+.kode_attorney_wraper{
+	float:left;
+	width:100%;
+	/* padding:80px 0px; */
+}
+
+.kode_attorney_wraper-1{
+	float:left;
+	width:100%;
+	padding:80px 0px;
+}
+
+.kode_attorney_img{
+	float:left;
+	width:100%;
+	overflow:hidden;
+	position: relative;
+}
+.kode_attorney_img.kode_attorny_2{
+	margin-bottom:40px;
+}
+.kode_attorney_img figure{
+	position:relative;
+	display:block;
+}
+.kode_attorney_img figure img{
+	width: 100%;
+	height: auto;
+	height: 378px;
+}
+.kode_detail_layer figure > span,
+.kode_detail_layer figure > a,
+.kode_attorney_img  .attorney_ancer{
+	position:absolute;
+	top:0px;
+	right:0px;
+	height:50px;
+	width:50px;
+	text-align:center;
+	background-color:#ffffff;
+	font-size:20px;
+}
+.kode_detail_layer figure > span i,
+.kode_detail_layer figure > a i,
+.kode_attorney_img  .attorney_ancer i{
+	line-height:50px;
+}
+.kode_attorney_caption{
+	position:absolute;
+	top:77%;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	text-align:center;
+	padding:12px 0px;
+	z-index:10;
+}
+.kode_attorney_caption.attorny_cap2 {
+    position: absolute;
+    top: 82%;
+	padding:16px 0px
+}
+.kode_attorney_img:hover .kode_attorney_caption.attorny_cap2{
+	padding:130px 0px;
+}
+.kode_attorney_caption::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#4a4a4b;
+	z-index:-1;
+	opacity:0.90;
+}
+.kode_attorney_img:hover .kode_attorney_caption{
+	padding:20px 0px;
+	border-width:1px 1px 1px 1px;
+	top:0px;
+}
+.kode_attorney_caption h4{
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#fff;
+	margin-bottom:23px;
+}
+.kode_attorney_caption span{
+	color:#fff;
+	margin-bottom:7px;
+	display:block;
+	text-transform: capitalize;
+}
+.kode_attorney_caption.attorny_cap2 > span {
+    margin-bottom: 10px;
+}
+.kode_attorney_caption p{
+	padding: 0 20px;
+	margin-bottom:24px;
+	color:#fff;
+}
+.kode_attorney_caption ul{
+	float:left;
+	width:100%;
+}
+.kode_attorney_caption ul li{
+	display:inline-block;
+}
+.kode_attorney_caption ul li a{
+	height:27px;
+	width:27px;
+	text-align:center;
+	font-size:15px;
+	display:inline-block;
+	margin-left:6px;
+	color:#333;
+	background-color:#fff;
+}
+.kode_attorney_caption ul li a:hover{
+	color:#fff;
+	background-color:#333;
+}
+.kode_attorney_caption ul li a i{
+	line-height: 27px;
+}
+/*--- kode_attorney_pagination start--*/
+
+.kode_pagi_social{
+	float:left;
+	width:100%;
+	text-align:center;
+	padding-top:20px;
+}
+.kode_pagi_social.kode_pagi_1 {
+    margin-top: -8px;
+    padding: 0;
+}
+.kode_pagi_social ul{
+	float:left;
+	width:100%;
+}
+.kode_pagi_social ul li{
+	display:inline-block;
+	border:1px solid #dedede;
+	margin-right:2px;
+}
+.kode_pagi_social .pagi_right,
+.kode_pagi_social .pagi_left {
+    border: 1px solid;
+    width: 60px;
+	height:40px;
+}
+.kode_pagi_social .pagi_right i,
+.kode_pagi_social .pagi_left i{
+	color:#fff;
+}
+.kode_pagi_social ul li a{
+	height:37px;
+	width:37px;
+	line-height:37px;
+	text-align:center;
+	display:inline-block;
+}
+.kode_pagi_social ul li a i{
+	line-height:39px;
+}
+/*
+========================================
+	kode_attorney_wraper end		
+========================================
+*/
+/*
+===================================================================================
+				kode_blog_wraper page start
+===================================================================================
+*/
+/*
+========================================
+	kode_blog_wraper start	
+========================================
+*/
+.kode_blog_wraper{
+	float:left;
+	width:100%;
+	padding:80px 0px;
+}
+.kode_blog_img{
+	float:left;
+	width:100%;
+	margin-bottom:40px;
+}
+.kode_blog_img figure img{
+	width:100%;
+}
+.kode_blog_img figure{
+	position:relative;
+	display:block;
+}
+.kode_blog_img figure:before{
+	position:absolute;
+	content:"";
+	top:100px;
+	left:100px;
+	right:100px;
+	bottom:100px;
+}
+.kode_blog_img:hover figure:before{
+	top:10px;
+	left:10px;
+	right:10px;
+	bottom:10px;
+	opacity:0.70;
+}
+.kode_blog_img figcaption{
+	position:absolute;
+	top:100px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	text-align:center;
+	opacity:0;
+}
+.kode_blog_img:hover figcaption{
+	opacity:1;
+}
+.kode_blog_img figcaption a{
+	display:inline-block;
+	height:30px;
+	width:30px;
+	text-align:centwer;
+	color:#fff;
+	border:1px solid #fff;
+	margin-right:4px;
+}
+.kode_blog_img figcaption a i{
+	line-height:30px;
+}
+.kode_blog_caption{
+	float:left;
+	width:100%;
+	border:1px solid #d4d4d4;
+	/* border-bottom:none; */
+	padding:26px 18px;
+}
+.kode_blog_caption span{
+	font-weight: lighter;
+	display:block;
+	margin-bottom:9px;
+	line-height: normal;
+}
+.kode_blog_caption h4{
+	font-weight:bold;
+	text-transform:uppercase;
+	margin-bottom:8px;
+}
+.blog_more{
+	float:left;
+	width:100%;
+}
+.blog_more a{
+	display:block;
+	font-size:16px;
+	color:#333333;
+	border:1px solid #d4d4d4;
+	padding:12px 20px;
+}
+.blog_more a i {
+    float: right;
+    padding: 5px 0;
+}
+/*
+========================================
+	kode_blog_wraper end	
+========================================
+*/
+/*
+===================================================================================
+				kode_blog2_2wraper page start
+===================================================================================
+*/
+/*
+========================================
+	kode_blog2_2wraper end	
+========================================
+*/
+.kode_blog_2_img{
+	float:left;
+	width:100%;
+	padding-bottom:24px;
+	border-bottom:1px solid #dadada;
+	position:relative;
+	margin-bottom:40px;
+}
+.kode_blog_2_img::before{
+	position:absolute;
+	content:"";
+	left:0px;
+	right:0px;
+	bottom:-1px;
+	width:0px;
+	border-bottom:1px solid transparent;
+}
+.kode_blog_2_img:hover::before{
+	width:100%;
+}
+.kode_blog_detail_image figure,
+.kode_blog_2_img figure{
+	position:relative;
+	display:block;
+	margin-bottom:25px;
+}
+.kode_blog_detail_image figcaption,
+.kode_blog_2_img figcaption{
+	position:absolute;
+	left: 15px;
+	bottom:0px;
+	padding:2px 2px 13px 2px;
+	background-color:#252731;
+}
+.kode_blog_2_img:hover figcaption{
+	
+}
+.kode_blog_detail_image figcaption h5,
+.kode_blog_2_img figcaption h5{
+	color:#fff;
+	text-align:center;
+}
+.kode_blog_detail_image figcaption span,
+.kode_blog_2_img figcaption span{
+	display:block;
+	width:66px;
+	height:55px;
+	background-color:#fff;
+	line-height:55px;
+	text-align:center;
+	font-size:20px;
+	color:#252731;
+	margin-bottom:11px;
+}
+.kode_blog_2_caption{
+	float:left;
+	width:100%;
+	padding:0p 1px 0px 8px;
+}
+.kode_blog_2_caption h4{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:4px;
+}
+.kode_blog_2_caption ul{
+	float:left;
+	width:100%;
+	margin-bottom:7px;
+}
+.kode_blog_2_caption ul li{
+	float:left;
+}
+.kode_blog_2_caption ul li a{
+	margin-right:19px;
+	display:inline-block;
+}
+.kode_blog_2_caption ul li a i{
+	margin-right:9px;
+}
+.kode_blog_2_caption p{
+	margin-bottom:16px;
+}
+.kode_blog_2_img .kode_blog_2_read {
+	font-weight:bold;
+	display:inline-block;
+	text-transform:uppercase;
+}
+.kode_blog_2_img .kode_blog_2_read  i {
+    line-height: 0;
+    margin-left: 10px;
+    padding: 6px 0;
+}
+/*
+========================================
+	kode_blog2_2wraper end	
+========================================
+*/
+/*
+===================================================================================
+				new-achievment page start    
+===================================================================================
+*/
+/*
+==========================================
+	law_achievements.new_achiev start	
+==========================================
+*/
+.law_achievements.new_achiev{
+	background:none;
+	padding:80px 0px;
+	margin:0px;
+}
+.law_achievements_img,
+.law_achievements_img.kode_achiev {
+    margin-bottom: 40px;
+}
+/*--new-achievment-02 start--*/
+.law_achievements_caption.achiev_left{
+	text-align:left;
+	float:left;
+	width:100%;
+	padding:42px 0px 24px 29px;
+}
+.law_achievements_img.kode_achiev .law_achievements_img_kode a,
+.law_achievements_caption.achiev_left i{
+    left: 30px;
+}
+.law_achievements_img.kode_achiev .law_achievements_img_kode a{
+	right:auto;
+}
+.law_achievements_caption.achiev_left p{
+	padding:0px;
+}
+.law_achievements_caption.achiev_left ul{
+	position:relative;
+	padding:0px;
+}
+.law_achievements_caption.achiev_left ul::before {
+   margin:0px;
+}
+/*
+==========================================
+	law_achievements.new_achiev end	
+==========================================
+*
+/*
+===================================================================================
+				practice-area-02 page start    
+===================================================================================
+*/
+/*
+==========================================
+		kode_area_02_wraper start
+==========================================
+*/
+.kode_area_02_wraper{
+	float:left;
+	width:100%;
+	/* padding:70px 0px; */
+}
+.kode_area_02_img{
+	float:left;
+	width:100%;
+	margin-bottom:40px;
+}
+.kode_area_02_img figure{
+	display:block;
+	position:relative;
+	margin-bottom:22px;
+}
+.kode_area_02_img figure::before{
+	position:absolute;
+	content:"";
+	top:100%;
+	left:100%;
+	right:100%;
+	bottom:100%;
+}
+.kode_area_02_img:hover figure::before{
+	opacity: 0.7;
+	top:10px;
+	left:10px;
+	right:10px;
+	bottom:10px;
+}
+.kode_area_02_img figcaption{
+	position:absolute;
+	top:137px;
+	left:0px;
+	right:0px;
+	text-align:center;
+	opacity:0;
+}
+.kode_area_02_img:hover figcaption{
+	opacity:1;
+}
+.kode_area_02_img figcaption a{
+	display:inline-block;
+	height:26px;
+	width:26px;
+	text-align:center;
+	border:1px solid #fff;
+	margin-right:7px;
+	color:#fff;
+}
+.kode_area_02_img figcaption a i{
+	line-height:26px;
+}
+.kode_area_02_caption{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.kode_area_02_caption h4{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:32px;
+	position:relative;
+}
+.kode_area_02_caption p{
+	float: left;
+    margin-bottom: 29px;
+    margin-top: -5px;
+}
+.kode_area_02_caption  a{
+	display:inline-block;
+	padding:7px 37px;
+	border:1px solid;
+}
+.kode_area_02_caption a:hover{
+	color:#fff;
+}
+/*
+==========================================
+		kode_area_02_wraper END
+==========================================
+*/
+/*
+===================================================================================
+				practice-area-03 page start    
+===================================================================================
+*/
+/*
+==========================================
+		kode_area_03_img START
+==========================================
+*/
+.kode_area_03_img{
+	float:left;
+	width:100%;
+	margin-bottom:60px;
+	min-height:324px;
+}
+.kode_area_03_img figure img{
+	height: 400px;
+}
+.kode_area_03_img figure{
+	position:relative;
+}
+.kode_area_03_caption{
+	position:absolute;
+	left:30px;
+	right:30px;
+	bottom:-23px;
+	text-align:center;
+	padding:24px 0px 16px 0px;
+	background-color:#ffffff;
+	box-shadow: 0 0 5px -2px;
+}
+.kode_area_03_img:hover .kode_area_03_caption{
+	position:absolute;
+	top:20px;
+	left:30px;
+	right:30px;
+	bottom:20px;
+	text-align:center;
+	padding:45px 0px;
+	background-color:#ffffff;
+	opacity:0.95;
+	box-shadow:none;
+}
+.kode_area_03_caption h4{
+	font-weight:bold;
+
+	margin-bottom:9px;
+}
+.kode_area_03_caption p{
+	margin-bottom:18px;
+	padding:0px 15px;
+	display:none;
+}
+.kode_area_03_img:hover .kode_area_03_caption a,
+.kode_area_03_img:hover .kode_area_03_caption p{
+	display:inline-block;
+}
+.kode_area_03_caption a{
+	display:inline-block;
+	padding:5px 20px;
+	color:#fff;
+	display:none;
+}
+.kode_area_03_caption a:hover{
+	background-color:#000;
+}
+/*
+==========================================
+		kode_area_03_img end
+==========================================
+*/
+/*
+===================================================================================
+				practice-area-detail-02 page start    
+===================================================================================
+*/
+/*
+==========================================
+	kode_area_02_wraper start
+==========================================
+*/
+.kode_area_02_wraper{
+	float:left;
+	width:100%;
+	/* padding:72px 0px 80px 0px; */
+}
+.kode_area_02_wraper.wraper_3 {
+    float: left;
+    padding: 80px 0;
+    width: 100%;
+}
+.kode_area_02_wraper .panel {
+    background-color:none;
+    border: none;
+    border-radius: 0px;
+    box-shadow: 0 px 0px rgba(0, 0, 0, 0.05);
+    margin-bottom:0px;
+}
+.kode_area_02_wraper  .panel-heading{
+	padding:0px;
+}
+.kode_detail_2{
+	float:left;
+	width:100%;
+	margin-bottom:35px;
+}
+.kode_detail_2 ul{
+	float:left;
+	width:100%;
+	border:1px solid #d4d4d4;
+	border-bottom:none;
+}
+.kode_detail_2 ul li{
+	display:block;
+	width:100%;
+}
+.kode_detail_2 ul li h5{
+	text-transform:uppercase;
+}
+.kode_detail_2 ul li h5 a{
+	padding:25px 0px 25px 20px;
+	border-bottom:1px solid #d4d4d4;
+	display:block;
+	color:#333333;
+	position:relative;
+}
+.kode_detail_2 ul li h5 a:focus,
+.kode_detail_2 ul li h5 a.active,
+.kode_detail_2 ul li h5 a:hover{
+	color:#fff;
+	font-weight:900;
+	border-bottom:1px solid;
+}
+.kode_detail_2 ul li h5 a::before{
+	position:absolute;
+	content: "\f178";
+	top:0px;
+	right:0px;
+	bottom:0px;
+	width:54px;
+	height:69px;
+	line-height:68px;
+	display:inline-block;
+	text-align:center;
+	font-family: FontAwesome;
+	color:#9a9a9a;
+}
+.kode_detail_2 ul li h5 a:focus::before,
+.kode_detail_2 ul li h5 a.active::before,
+.kode_detail_2 ul li h5 a:hover::before{
+	background-color:#000;
+	color:#fff;
+}
+.kode_detail_office{
+	float:left;
+	width:100%;
+	margin-bottom:50px;
+}
+.kode_detail_office h4{
+	font-weight:bold;
+	text-transform:uppercase;
+	margin-bottom:26px;
+}
+.kode_detail_office ul{
+	float:left;
+	width:100%;
+}
+.kode_detail_office ul li{
+	margin-bottom:14px;
+}
+.kode_detail_office ul li:last-child{
+	margin-bottom:0px;
+}
+.kode_detail_office ul li a{
+	display:block;
+	background-color:#efefef;
+}
+.kode_detail_office ul li a i{
+	display:inline-block;
+	width:40px;
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	font-size:20px;
+	color:#fff;
+	margin-right:12px;
+}
+.kode_practice_detail_download.download_02{
+	border-bottom:none;
+	margin:0px;
+	padding:0px;
+}
+/*--kode_detail_caption start--*/
+.kode_detail_law{
+	float:left;
+	width:100%;
+}
+.kode_detail_list{
+	float:left;
+	width:100%;
+}
+.kode_detail_list figure{
+	position:relative;
+	margin-bottom:64px;
+	margin-bottom:70px;
+}
+.kode_detail_list figure img{
+	width:100%;
+}
+.kode_detail_star{
+	position:absolute;
+	bottom:-33px;
+	left:30px;
+	right:30px;
+	background-color:#fff;
+	padding:25px 29px;
+	box-shadow: 0 0 12px -6px
+}
+.kode_detail_star h4{
+	display:inline-block;
+	float:left;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+.kode_detail_star ul{
+	float:right;
+}
+.kode_detail_star ul li{
+	float:left;
+	margin-left:6px;
+}
+.kode_detail_star ul li a:hover{
+	color:#000;
+}
+.kode_detail_list p{
+	margin-bottom:22px;
+}
+.kode_detail_list p:last-child{
+	margin:0px;
+	margin-bottom:40px;
+}
+.kode_detail_fig{
+	float:left;
+	width:100%;
+	padding-bottom:50px;
+	border-bottom:1px solid #d4d4d4;
+	margin-bottom:50px;
+}
+.kode_detail_img{
+	float:left;
+	width:100%;
+	
+}
+.kode_detail_img figure{
+	display:block;
+	margin-bottom:25px;
+}
+.kode_detail_kode{
+	float:left;
+	width:100%;
+	margin-bottom:30px;
+}
+/*--kode_detail_accordian start--*/
+.kode_detail_accordian{
+	float:left;
+	width:100%;
+}
+.kode_detail_accordian h4{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:25px;
+}
+.kode_detail_accor_tab .panel-title > a {
+    padding: 20px 0px 21px 58px;
+	display:block;
+	position:relative;
+	border-top:1px solid #d4d4d4;
+}
+.kode_detail_accor_tab .panel-title > a:focus,
+.kode_detail_accor_tab .panel-title > a.active,
+.kode_detail_accor_tab .panel-title > a:hover{
+	color:#fff;
+	font-weight:bold;
+}
+.kode_detail_accor_tab .panel-title > a::before{
+	position:absolute;
+	content:"+";
+	height:19px;
+	width:19px;
+	text-align:center;
+	border-radius:100%;
+	border:1px solid #a2a2a2;
+	font-size:18px;
+	color:#a3a3a3;
+	top:23px;
+	left:20px;
+	right:0px;
+	bottom:0px;
+	line-height:16px;
+}
+.kode_detail_accor_tab .panel-title > a:focus::before,
+.kode_detail_accor_tab .panel-title > a.active::before,
+.kode_detail_accor_tab .panel-title > a:hover::before{
+	border-color:#f2e3c2;
+	color:#f3e6c8;
+}
+.kode_detail_accor_tab .panel-body {
+    padding: 0;
+	padding:23px 20px 27px 20px;
+}
+.kode_detail_accor_tab  .panel-heading {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	border-bottom:1px solid #d4d4d4;
+}
+.kode_detail_accor_tab .panel-group {
+    margin: 0;
+}
+.kode_detail_accor_tab .panel-group .panel + .panel{
+	margin:0px;
+	border:none;
+}
+.kode_detail_accor_tab .panel{
+	border:none;
+}
+.kode_detail_fa_right{
+	float:left;
+	width:100%;
+	margin: -5px 0 0;
+}
+.kode_detail_fa_right li a{
+	display:block;
+	padding-bottom:9px;
+}
+.kode_detail_fa_right li a i{
+	display:inline-block;
+	margin-right:20px;
+}
+/*--kode_detail_layer start--*/
+.kode_detail_layer{
+	float:left;
+	width:100%;
+	border-bottom:3px solid ;
+	overflow:hidden;
+}
+.kode_detail_layer figure{
+	position:relative;
+}
+.kode_detail_layer img {
+    width: 100%;
+}
+.kode_detail_layer figcaption{
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	text-align:center;
+	background-color:#fff;
+	padding:19px 0px 20px 0px;
+}
+.kode_detail_layer figcaption > h6 > a{
+	display: block;
+	text-transform:uppercase;
+}
+.kode_detail_layer > figure > a{
+	background-color:#e9e9e9;
+}
+.kode_detail_layer:hover a {
+    right: -56px;
+}
+.kode_detail_layer figure > span{
+	position:absolute;
+	top:-56px;
+	right:0px;
+}
+.kode_detail_layer:hover span{
+	top:0px;
+	color:#fff;
+}
+/*
+==========================================
+	kode_area_02_wraper end
+==========================================
+*/
+/*
+===================================================================================
+				kode_blog_detail page start    
+===================================================================================
+*/
+/*
+==========================================
+	kode_blog_detail_wraper start
+==========================================
+*/
+.kode_blog_detail_wraper{
+	float:left;
+	width:100%;
+	padding:50px 0px;
+}
+.kode_blog_detail{
+	float:left;
+	width:100%;
+}
+.kode_blog_detail_image{
+	float:left;
+	width:100%;
+	margin-bottom:50px;
+}
+.kode_blog_detail_image figure img{
+	width:100%;
+}
+.kode_blog_detail_image figure{
+	margin-bottom:35px;
+}
+.kode_blog_detail_image figcaption{
+	left:20px;
+}
+.kode_blog_detail_content{
+	float:left;
+	width:100%;
+}
+.kode_blog_detail_content h4{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:11px;
+}
+.kode_blog_detail_content ul{
+	float:left;
+	width:100%;
+	/* margin: 0 0 20px -13px; */
+}
+.kode_blog_detail_content ul li{
+	/* float:left; */
+	line-height: 28px;
+	/* line-height: normal; */
+	position:relative;
+}	
+.kode_blog_detail_content ul li::before{
+	position:absolute;
+	content:"";
+	top:5px;
+	right:0px;
+	bottom:0px;
+	border-right:1px solid #d4d4d4;
+	height:12px;
+}
+.kode_blog_detail_content ul li:last-child::before{
+	border-right:none;
+}
+.kode_blog_detail_content ul li a{
+	font-weight: lighter;
+	display:inline-block;
+	padding:0px 15px;
+	font-style:italic;
+}
+.kode_blog_detail_content p{
+	margin-bottom:20px;
+	line-height: 28px;
+
+}
+
+/* .line-height{
+	line-height:28px
+} */
+.kode_blog_detail_content p:last-child{
+	margin:0px;
+}
+/*--kode_blog_detail_learn start--*/
+.kode_blog_detail_learn{
+	float:left;
+	width:100%;
+	margin-bottom:35px;
+}
+.kode_blog_detail_learn figure{
+	float:left;
+}
+.kode_blog_detail_paragraph{
+    float: none;
+    padding-left:410px;
+	margin-bottom:22px;
+}
+.kode_blog_detail_paragraph p{
+	margin-bottom:20px;
+	line-height:23px;
+}
+.kode_blog_detail_paragraph p:last-child{
+	margin-bottom:0px;
+}
+.kode_blog_paragraph_1{
+	float:left;
+	width:100%;
+	margin-bottom:27px;
+}
+.kode_blog_detail_social{
+	float:left;
+	width:100%;
+	background-color:#f8f8f8;
+	padding:16px 20px;
+}
+.kode_blog_detail_social h6{
+	display:inline-block;
+	text-transform:uppercase;
+	font-weight:bold;
+	float:left;
+}
+.kode_blog_detail_social ul{
+	float:right;
+}
+.kode_blog_detail_social ul li{
+	float:left;
+	margin-left:10px;
+}
+.kode_detail_2_social ul li a,
+.kode_blog_detail_social ul li a{
+	height:29px;
+	width:29px;
+	text-align:center;
+	display:inline-block;
+	border-radius:100%;
+	background-color:#333333;
+	color:#fff;
+}
+.kode_blog_detail_social ul li a i{
+	line-height:29px;
+}
+/*--kode_blog_detail_comment start--*/
+.kode_blog_detail_comment{
+	float:left;
+	width:100%;
+	border-bottom:1px solid #dddddd;
+	margin-bottom:35px;
+}
+.kode_blog_detail_post h4,
+.kode_blog_detail_comment h4{
+	text-transform:uppercase;
+	font-weight:bold;
+}
+.kode_detail_comment_list{
+	float:left;
+	width:100%;
+}
+.kode_detail_comment_list ul{
+	float:left;
+	width:100%;
+}
+.kode_detail_comment_list ul li{
+	margin:0px;
+}
+.kode_detail_comment_fig{
+	float: left;
+    padding: 30px 0;
+    position: relative;
+	background-color: #fff;
+    width: 100%;
+}
+.kode_detail_comment_fig:hover{
+	background:none;
+	color:#fff;
+}
+.kode_detail_comment_fig::before{
+	background-image: url("image/detail-027.jpg");
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+.kode_detail_comment_fig figure{
+	 float:left;
+}
+.kode_detail_replay{
+	float:none;
+	padding-left: 100px;
+}
+.kode_detail_replay h5{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:3px;
+}
+.kode_detail_comment_fig:hover .kode_detail_replay p,
+.kode_detail_comment_fig:hover .kode_detail_replay span,
+.kode_detail_comment_fig:hover .kode_detail_replay h5 i,
+.kode_detail_comment_fig:hover .kode_detail_replay h5 {
+	color:#fff;
+}
+.kode_detail_replay h5 i{
+	float:right;
+	color:#d4d4d4;
+}
+.kode_detail_replay span{
+	display:block;
+	color:#666666;
+	margin-bottom:5px;
+} 
+.kode_detail_replay p{
+	line-height:20px;
+}
+.kode_detail_comment_list ul li ul {
+    float: left;
+    margin: 0;
+    width: 100%;
+}
+.kode_detail_comment_list ul li ul .kode_detail_comment_fig{
+	padding:30px 50px;
+	margin: 0;
+}
+/*--kode_blog_detail_post start--*/
+.kode_blog_detail_post{
+	float:left;
+	width:100%;
+}
+.kode_blog_detail_post h4{
+	margin-bottom:25px;
+}
+.kode_blog_detail_failed{
+	float:left;
+	width:100%;
+}
+.kode_blog_detail_failed form{
+	float:left;
+	width:100%;
+	margin:0px;
+}
+.kode_blog_filed_search{
+	float:left;
+	margin-right:20px;
+}
+.kode_blog_detail_search{
+	width:334px;
+}
+.kode_blog_detail_search input[type="text"]{
+	width:334px;
+	height:48px;
+	margin-bottom:20px;
+	border:1px solid #d4d4d4;
+	padding:0px 20px;
+}
+.kode_blog_side_search input[type="text"]:focus,
+.kode_blog_detail_search input[type="text"]:focus{
+	box-shadow: 0 0 27px -19px;
+	border:2px solid #a12e4d;
+}
+.kode_blog_filed_search button{
+	color:#fff;
+	font-weight:700;
+	padding: 13px 40px 15px 40px;
+	margin-top:10px;
+}
+.kode_blog_filed_search button:hover{
+	background-color:#000;
+}
+.kode_blog_detail_area{
+	float:left;
+}
+.kode_blog_detail_area textarea{
+	width:334px;
+	height:184px;
+	resize:none;
+	padding:17px 20px;
+}
+.kode_blog_detail_area textarea:focus{
+	box-shadow: 0 0 27px -19px;
+	border:2px solid;
+}
+/*--kode_blog_side_bar start--*/
+.kode_blog_side_bar{
+	float:left;
+	width:100%;
+}
+.kode_blog_side_search{
+	float:left;
+	width:100%;
+	margin-bottom:32px;
+}
+.kode_blog_side_search form{
+	float:left;
+	width:100%;
+	position:relative;
+	margin:0px;
+}
+.kode_blog_side_search form input[type="search"]{
+	width:100%;
+	height:40px;
+	border:1px solid ;
+	padding:0px 14px;
+}
+.kode_blog_side_search form button{
+	 background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    position: absolute;
+    right: 15px;
+    top: 13px;
+}
+.kode_blog_detail_categories{
+	float:left;
+	width:100%;
+	margin-bottom: 40px;
+}
+.kode_blog_detail_categories  h4{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:20px;
+}
+.kode_blog_categ_list{
+	float:left;
+	width:100%
+}
+.kode_blog_categ_list li:first-child {
+    border-top: 2px solid;
+}
+.kode_blog_categ_list li a{
+	display:block;
+	padding:10px 10px 12px 15px;
+	border-bottom:1px solid #d4d4d4;
+}
+.kode_blog_categ_list li a.active,
+.kode_blog_categ_list li a:hover{
+	color:#fff;
+	border-bottom:1px solid;
+}
+.kode_blog_categ_list li a span{
+	float:right;
+	height:29px;
+	width:29px;
+	display:inline-block;
+	border:1px solid #c7c7c7;
+	text-align:center;
+	line-height:27px;
+	margin-top: -2px;
+}
+.kode_blog_categ_list li a.active span,
+.kode_blog_categ_list li a:hover span{
+	background-color:#ffffff;
+	border:1px solid;
+}
+/*--kode_blog_detail_news start--*/
+.kode_blog_detail_news{
+	border-bottom: 1px solid #ddd;
+    float: left;
+    margin-bottom: 20px;
+    overflow: hidden;
+    padding-bottom: 20px;
+    width: 100%;
+}
+.kode_blog_detail_news:last-child {
+    margin: 0;
+}
+.kode_blog_detail_news figure{
+	position:relative;
+	float:left;
+}
+.kode_blog_detail_news figure::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	border-bottom:2px solid;
+	width:0px;
+}
+.kode_blog_detail_news:hover figure::before{
+	width:100%;
+}
+.kode_blog_detail_news span{
+	bottom:100%;
+    color: #fff;
+    height: 24px;
+    position: absolute;
+    right: 10px;
+    text-align: center;
+    width: 24px;
+} 
+.kode_blog_detail_news:hover span{
+	bottom: 2px;
+	right: 10px;
+}
+.kode_blog_detail_news span i{
+	line-height:24px;
+}
+.kode_blog_detail_news_cap{
+	float: none;
+    padding-left:95px;
+}
+.kode_blog_detail_news_cap p{
+	line-height:20px;
+	margin-bottom:11px;
+	font-weight: 600;
+}
+.kode_blog_detail_news_cap ul li{
+	float:left;
+	line-height: 14px;
+	border-right:1px solid #d4d4d4;
+	padding-right: 11px;
+}
+.kode_blog_detail_news_cap ul li:last-child{
+	padding:0px;
+	border:none;
+	padding-left:10px;
+}
+.kode_blog_detail_news_cap ul li a{
+	font-size:12px;
+}
+/*kode_blog_detail_cap start--*/
+.kode_blog_detail_categories.detail_attorney {
+    margin-bottom: 70px;
+}
+.kode_blog_detail_cap{
+	float:left;
+	width:100%;
+	padding-bottom:30px;
+	border-bottom:1px solid #e4e4e4;
+}
+.kode_blog_detail_cap p{
+	line-height:22px;
+}
+.kode_blog_detail_meet{
+	float:left;
+	width:100%;
+}
+.kode_attorney_found{
+	margin-bottom:30px;
+}
+.kode_attorney_found figure,
+.kode_blog_detail_meet figure{
+    position: relative;
+}
+.kode_attorney_found figure::before,
+.kode_blog_detail_meet figure::before{
+	border: 2px solid #333333;
+    bottom: 10px;
+    content: "";
+    left: 10px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.kode_attorney_found h4,
+.kode_blog_detail_meet h4{
+	position:absolute;
+	bottom: -34px;
+	left:20px;
+	right:20px;
+	text-align:center;
+	margin:0px;
+	padding:20px 0px;
+	background-color:#fff;
+	box-shadow: 0 1px 15px -11px;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+.kode_blog_detail_tags{
+	float:left;
+	width:100%;
+}
+.kode_blog_detail_tags ul{
+	float:left;
+	width:100%;
+}
+.kode_blog_detail_tags ul li{
+	float:left;
+	margin: 0 0 10px 1px;
+}
+.kode_blog_detail_tags ul li a{
+	display:inline-block;
+	padding:6px 15px;
+	border:1px solid #d4d4d4;
+}
+.kode_blog_detail_tags ul li a:hover{
+	color:#fff;
+}
+/*
+==========================================
+	kode_blog_detail_wraper end
+==========================================
+*/
+/*
+===================================================================================
+				kode_blog_detail page start    
+===================================================================================
+*/
+/*
+==========================================
+	kode_blog_detail_2_wraper start
+==========================================
+*/
+.kode_attorney_detail_2_wraper,
+.kode_blog_detail_2_wraper{
+	float:left;
+	width:100%;
+	padding:80px 0px;
+}
+.kode_detail_2_colum{
+	float:left;
+	width:100%;
+}
+.kode_detail_2_history{
+	float:left;
+	width:100%;
+	margin-bottom:34px;
+}
+.kode_detail_2_history h5{
+	padding: 2px 2px 7px;
+	display:inline-block;
+	float:left;
+	text-align:center;
+	color:#fff;
+	font-weight:bold;
+	margin-right:25px;
+}
+.kode_detail_2_history h5 span{
+	background-color: #fff;
+    color: #252731;
+    display: block;
+    font-size: 20px;
+    height: 35px;
+    line-height: 35px;
+    margin-bottom: 6px;
+    text-align: center;
+    width: 66px;
+}
+.kode_detail_2_agency{
+	float:left;
+	padding: 5px 0;
+}
+.kode_detail_2_agency h4{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+.kode_detail_2_agency ul{
+	float:left;
+	width:100%;
+}
+.kode_detail_2_agency ul li{
+	float:left;
+} 
+.kode_detail_2_agency ul li a{
+	display:inline-block;
+	margin-right:19px;
+}
+.kode_detail_2_agency ul li a i{
+	margin-right:9px;
+}
+.kode_blog_detail_image.detail_2{
+	float:left;
+	width:100%;
+	margin-bottom:48px;
+}
+.kode_blog_detail_image.detail_2 figure{
+	margin-bottom:26px;
+}
+.kode_detail_2_back{
+	float:left;
+	width:100%;
+	background-image:url("image/detail-0211.jpg");
+	background-position:center;
+	background-size:cover;
+	padding:26px 65px 72px 30px;
+	margin-bottom:25px;
+}
+.kode_detail_2_back span{
+	float:left;
+	font-size:43.97px;
+	color:#fff;
+	display:inline-block;
+}
+.kode_detail_2_back p{
+	padding:25px 0px;
+	color:#fff;
+	padding: 18px 0 0 56px;
+	font-style: italic;
+}
+.kode_detail_2_p{
+	float:left;
+	width:100%;
+	margin-bottom:48px;
+}
+.kode_detail_2_p p{
+	line-height:22px;
+}
+/*--kode_detail_2_deo start--*/
+.kode_detail_2_deo{
+	float:left;
+	width:100%;
+	text-align:center;
+	padding: 0 165px;
+	margin-bottom:40px;
+}
+.kode_detail_2_senior{
+	float:left;
+	padding-right:20px;
+	position:relative;
+}
+.kode_detail_2_senior::before{
+	position:absolute;
+	content:"";
+	top: 10px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	height:120px;
+	border-right:1px solid #d4d4d4;
+}
+.kode_detail_2_senior figure{
+	border: 2px solid;
+    float: left;
+    padding: 4px;
+	border-radius:100%;
+	margin-right:30px;
+}
+.kode_detail_2_senior img{
+	border-radius:100%;
+}
+.kode_detail_2_caption {
+    float: left;
+	padding: 50px 0;
+}
+.kode_detail_2_caption  h6{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:5px;
+}
+.kode_detail_2_social {
+    float: left;
+	padding: 55px 20px;
+}
+.kode_detail_2_social ul li{
+	float:left;
+	margin-right:20px;
+}
+.kode_detail_2_social ul li:last-child{
+	margin:0px;
+}
+.kode_detail_2_social ul li a i{
+	line-height:29px;
+}
+.kode_detail_2_text{
+	float:left;
+	width:100%;
+	padding-bottom:40px;
+	border-bottom:1px solid #dfdfdf;
+	margin-bottom:34px;
+}
+.kode_detail_2_left{
+	float:left;
+	padding:21px 20px 33px 20px;
+	border:1px solid #d4d4d4;
+	width:100%;
+}
+.kode_detail_2_left  p{
+	float:left;
+}
+.kode_detail_2_left:hover  a,
+.kode_detail_2_left:hover  p{
+	color:#fff;
+}
+.kode_detail_2_left p span{
+	display:block;
+}
+.kode_detail_2_left  a{
+	float:right;
+	font-size:48.86px;
+	color:#666666;
+}
+/*kode_detail_2_comment start--*/
+.kode_detail_2_comment{
+	float:left;
+	width:100%;
+	margin-bottom:45px;
+}
+.kode_detail_2_leave h4,
+.kode_detail_2_comment h4{
+	text-transform:uppercase;
+	font-weight:bold;
+}
+.kode_detail_2_comment h4 span{
+	margin-left:5px;
+	display:inline-block;
+}
+.kode_detail_2_comment_list{
+	float:left;
+	width:100%;
+}
+.kode_detail_2_comment_list ul{
+	float:left;
+	width:100%;
+}
+.kode_detail_2_comment_list ul li ul {
+	margin:0px;
+}
+.kode_detail_2_comment_list ul li ul .kode_detail_2_comment_fig{
+	padding:30px 0px 26px 118px;
+}
+.kode_detail_2_comment_fig{
+	float:left;
+	width:100%;
+	padding: 30px 0 26px 0px;
+	border-bottom:1px solid #d4d4d4;
+}
+.kode_detail_2_comment_fig figure{
+	float:left;
+	border-radius:100%;
+}
+.kode_detail_2_replay {
+    float: none;
+    padding-left: 120px;
+}
+.kode_detail_2_replay  h5{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:6px;
+}
+.kode_detail_2_replay span{
+	margin-bottom:6px;
+	display:block;
+}
+.kode_detail_2_replay  p{
+	margin-bottom:6px;
+	padding-right: 35px;
+}
+/*kode_detail_2_leave start--*/
+.kode_detail_2_leave{
+	float:left;
+	width:100%;
+}
+.kode_detail_2_leave h4{
+	margin-bottom:26px;
+}
+.kode_detail_2_filed{
+	float:left;
+	width:100%;
+}
+.kode_detail_2_filed form{
+	float:left;
+	width:100%;
+	margin:0px;
+}
+.kode_detail_2_filed input{
+	width:100%;
+	height:48px;
+	border:1px solid #d4d4d4;
+	padding:0px 20px;
+	margin-bottom:20px;
+}
+.kode_detail_2_filed textarea:focus,
+.kode_detail_2_filed input:focus{
+	border:1px solid;
+	box-shadow: 1px 0 5px -3px;
+}
+.kode_detail_2_filed textarea{
+	width:100%;
+	height:200px;
+	border:1px solid #d4d4d4;
+	resize:none;
+	padding:18px 20px;
+	margin:10px 0px 30px 0px;
+}
+.kode_detail_2_filed  button{
+	width:100%;
+	text-align:center;
+	color:#fff;
+	padding:14px 0px;
+}
+.kode_detail_2_filed  button:hover{
+	background-color:#000;
+}
+/*
+==========================================
+	kode_blog_detail_2_wraper end
+==========================================
+*/
+/*
+===================================================================================
+				kode_blog_detail page start    
+===================================================================================
+*/
+/*
+==========================================
+	kode_attorney_detail_2_wraper start
+==========================================
+*/
+.kode_attorney_found{
+	float:left;
+	width:100%;
+}
+.kode_attorney_found figure{
+	margin-bottom:42px;
+}
+.kode_attorney_found figure::before{
+	border:none;
+}
+.kode_attorney_detail_social{
+	float:left;
+	width:100%;
+	text-align:center;
+	margin-bottom:7px;
+}
+.kode_attorney_detail_social span{
+	display:block;
+	margin-bottom:8px;
+}
+.kode_attorney_detail_call ul,
+.kode_attorney_detail_social ul{
+	float:left;
+	width:100%;
+}
+.kode_attorney_detail_social ul li{
+	display:inline-block;
+}
+.kode_attorney_detail_social ul li a{
+	display: inline-block;
+    padding: 0 7px;
+}
+.kode_attorney_detail_call{
+	float:left;
+	width:100%;
+	padding:0px 28px;
+	margin-bottom:20px;
+}
+.kode_attorney_detail_call li{
+	margin-bottom:8px;
+}
+.kode_attorney_detail_call li:last-child{
+	margin:0px;
+}
+.kode_attorney_detail_call li a{
+	display:block;
+	color:#333333;
+}
+.kode_attorney_detail_call li a i{ 
+	margin-right:16px;
+	color:#999999;
+}
+.kode_attorney_detail_call .fa.fa-phone{
+	margin-right:22px;
+}
+.kode_attorney_detail_downlod{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.kode_attorney_detail_downlod a{
+	display:block;
+	padding:9px 0px;
+	color:#fff;
+	text-transform: capitalize;
+}
+.kode_attorney_detail_downlod a:hover{
+	background-color:#000;
+	color:#fff;
+}
+/*---kode_attorney_detail_cols start--*/
+.kode_attorney_detail_cols{
+	float:left;
+	width:100%;
+}
+.kode_attorney_detail_life{
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.kode_attorney_detail_life{
+	float:left;
+	width:100%;
+	padding-bottom:38px;
+	border-bottom:1px solid #e1e1e1;
+	margin-bottom:35px;
+}
+.kode_attorney_detail_life h4{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:30px;
+}
+.kode_attorney_detail_life p{
+	margin-bottom:23px;
+} 
+.kode_attorney_detail_life p:last-child{
+	margin:0px;
+}
+/*--kode_attorney_detail_accordian start--*/
+.kode_attorney_detail_accordian{
+	float:left;
+	width:100%;
+	border:1px solid #d4d4d4;
+	border-bottom:none;
+}
+.kode_attorney_detail_accordian .panel-heading{
+	padding:0px;
+}
+.kode_attorney_detail_accordian .panel-title a {
+    display: block;
+    font-weight: bold;
+    padding: 19px 20px 19px 46px;
+    text-transform: uppercase;
+	position:relative;
+}
+.kode_attorney_detail_accordian .panel-title a:focus,
+.kode_attorney_detail_accordian .panel-title a.active,
+.kode_attorney_detail_accordian .panel-title a:hover{
+	color:#fff;
+	border-bottom;1px solid transparent;
+}
+.kode_attorney_detail_accordian .panel-title a::before{
+	position:absolute;
+	font-family: FontAwesome;
+	content: "\f107";
+	top: 19px;
+	left:19px;
+	right:0px;
+	bottom:0px;
+}
+.kode_attorney_detail_accordian .panel-title a.active::before,
+.kode_attorney_detail_accordian .panel-title a:focus::before{
+	position:absolute;
+	font-family: FontAwesome;
+	content:  "\f106";
+}
+.kode_attorney_detail_accordian .panel-title > a span{
+	display:inline-block;
+	float:right;
+}
+.kode_attorney_detail_accordian  .panel-default > .panel-heading{
+	background:none;
+}
+.kode_attorney_detail_accordian .panel-group{
+	margin:0px;
+}
+.kode_attorney_detail_accordian  .panel{
+	border:none;
+	border-radius:0px;
+}
+.kode_attorney_detail_accordian .panel-group .panel + .panel{
+	margin:0px;
+}
+.kode_attorney_detail_accordian  .panel-body {
+    padding: 22px 24px 27px 19px;
+}
+.kode_attorney_detail_accordian .panel-group .panel{
+	border-bottom:1px solid;
+}
+/*--kode_attorney_detail_area start--*/
+.kode_attorney_detail_life.attorney_2 {
+    border-bottom: 0 none;
+    margin: 0;
+    padding: 0;
+}
+.kode_attorney_detail_area{
+	float:left;
+	width:100%;
+}
+.kode_attorney_detail_fig{
+	float:left;
+	width:100%;
+	margin-bottom:30px;
+}
+.kode_attorney_detail_fig:last-child {
+    margin: 0px;
+}
+.kode_attorney_detail_fig figure{
+	position:relative;
+	border-bottom:2px solid ;
+}
+.kode_attorney_detail_fig figure::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	background-color:#000;
+	opacity:0.5;
+}
+.kode_attorney_detail_law{
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	text-align:center;
+	background-color:#fff;
+	padding:65px 0px;
+	border:1px solid #d4d4d4;
+	border-bottom:none;
+}
+.kode_attorney_detail_law:hover{
+	background:none;
+	color:#fff;
+	border:none;
+}
+.kode_attorney_detail_law span{
+	display:block;
+	font-size:40px;
+	margin-bottom:13px;
+}
+.kode_attorney_detail_law h6{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:19px;
+} 
+.kode_attorney_detail_law:hover span,
+.kode_attorney_detail_law:hover p,
+.kode_attorney_detail_law:hover h6 a{
+	color:#fff;
+}
+.kode_attorney_detail_law p{
+	padding: 0 14px;
+	line-height:24px;
+}
+/*--kode_attorney_detail_side_bar start--*/
+.kode_attorney_detail_side_bar{
+	float:left;
+	width:100%;
+}
+.kode_attorney_detail_question{
+	float:left;
+	width:100%;
+	padding:10px 10px 21px 10px;
+	background-color:#f8f8f8;
+	border:1px solid #eaeaea;
+	position:relative;
+	margin-bottom:50px;
+}
+.kode_attorney_detail_practice::before,
+.kode_attorney_detail_question::before{
+	position:absolute;
+	content:"";
+	left:0px;
+	right:0px;
+	bottom:0px;
+	border-bottom:2px solid;
+}
+.kode_attorney_detail_hdg h4,
+.kode_attorney_detail_question h4{
+	text-transform:uppercase;
+	font-weight:bold;
+	padding:9px 21px 13px 21px;
+	color:#fff;
+	margin-bottom:20px;
+}
+.kode_attorney_detail_filed{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.kode_attorney_detail_filed input[type="text"]{
+	width:245px;
+	height:36px;
+	background-color:#ffffff;
+	border:1px solid #ececec;
+	margin-bottom:15px;
+	padding:0px 15px;
+	color:#999999;
+}
+.kode_attorney_detail_filed textarea:focus,
+.kode_attorney_detail_filed input[type="text"]:focus{
+	border:1px solid ;
+	box-shadow: 0 0 9px -5px;
+
+}
+.kode_attorney_detail_filed textarea{
+	resize:none;
+	height:106px;
+	border:1px solid #ececec;
+	margin-bottom:18px;
+	color:#999999;
+}
+.kode_attorney_detail_filed button{
+	text-align:center;
+	text-transform:uppercase;
+	font-weight:bold;
+	padding:6px 30px;
+	color:#fff;
+}
+.kode_attorney_detail_filed button:hover{
+	background-color:#000;
+}
+/*kode_attorney_detail_practice start--*/
+.kode_attorney_detail_practice{
+	float:left;
+	width:100%;
+	background-color:#f8f8f8;
+	border:1px solid #eaeaea;
+	position:relative;
+	margin-bottom:38px;
+}
+.kode_attorney_detail_hdg{
+	float:left;
+	width:100%;
+	padding:10px 10px 0px 10px;
+}
+.kode_attorney_detail_hdg h4{
+	margin:0px;
+}
+.kode_attorney_detail_practice ul{
+	float:left;
+	width:100%;
+}
+.kode_attorney_detail_practice ul li{
+	border-bottom:1px solid #d4d4d4;
+}.kode_attorney_detail_practice ul li:last-child{
+	border-bottom:none;
+}
+.kode_attorney_detail_practice ul li a{
+	padding:14px 18px;
+	display:block;
+}
+.kode_attorney_detail_practice ul li a i{
+	
+}
+.kode_attorney_detail_practice.attorney-awards i{
+	font-size:25px;
+	margin-right:13px;
+}
+/*
+==========================================
+	kode_attorney_detail_2_wraper end
+==========================================
+*/
+
+/*
+==========================================
+	 kode_coming_soon_wraper start
+==========================================
+*/
+.kode_coming_soon_wraper{
+	background-image: url("image/coming-soon.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    position:absolute;
+    width: 100%;
+}
+.kode_coming_soon_count{
+    left: 0;
+	top:20%;
+	bottom:0px;
+    margin:0px auto;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    width:100%;
+}
+.kode_coming_soon_hdg{
+	float:left;
+	width:100%;
+	margin-bottom:60px;
+}
+.kode_coming_soon_hdg h1{
+	font-size:60px;
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#fff;
+	margin-bottom:13px;
+}
+.kode_coming_soon_hdg p{
+	color:#fff;
+	font-size:18px;
+}	
+.kode_coming_counter{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.kode_coming_counter .countdown{
+	float:left;
+	width:100%;
+	line-height:80px;
+	margin-bottom:15px;
+}
+.kode_coming_counter .countdown li{
+	display:inline-block;
+	padding:0px 60px;
+}
+.kode_coming_counter .countdown li span{
+	font-size:100px;
+	color:#fff;
+}
+.kode_coming_counter .countdown li p{
+	line-height:20px;
+	color:#fff;
+	margin-top:-15px;
+}
+.kode_coming_form{
+	float:left;
+	width:100%;
+}
+.kode_coming_form form{
+	float:left;
+	width:100%;
+	margin-bottom:70px;
+	
+}
+.kode_coming_form form input{
+	width:400px ;
+	height:40px;
+	border:1px solid #504c48;
+	background-color:#2b2825;
+	color:#666666;
+	padding:0px 30px;
+}
+.kode_coming_form form input:focus{
+	border:1px solid;
+	box-shadow: 0 0 25px -14px;
+}
+.kode_coming_form form button{
+	width:113px;
+	height:40p;
+	padding:7px 19px 10px;
+	color:#fff;
+	border:none;
+	margin-left:15px;
+	font-weight:bold;
+}
+.kode_coming_form form button:hover{
+	background-color:#000;
+}
+.kode_coming_social {
+	float:left;
+	width:100%;
+	margin-bottom:10px;
+}
+.kode_coming_social  li{
+	 display:inline-block;
+}
+.kode_coming_social  li a{
+	width:40px;
+	height:40px;
+	text-align:center;
+	border-radius:100%;
+	border:1px solid #f0f0ef;
+	display:inline-block;
+	font-size:20px;
+	color:#fff;
+	margin-left:10px;
+}
+.kode_coming_social  li a.active,
+.kode_coming_social  li a:hover{
+	border:1px solid ;
+}
+.kode_coming_social  li a i{
+	 line-height:40px;
+}
+.kode_coming_form p{
+	color:#fff;
+}
+/*
+==========================================
+	 kode_coming_soon_wraper end
+==========================================
+*/
+/*
+======================================================
+			home page-2 start
+======================================================
+*/
+/*
+==========================================
+	 law_top_strip_1 start
+==========================================
+*/
+.law_top_strip_1{
+	float:left;
+	width:100%;
+	background-color:#696969;
+	padding:8px 0px;
+	position:relative;
+	z-index:999;
+}
+.law_top_strip_1::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0x;
+	right:0px;
+	bottom:0px;
+	background-color:#696969;
+	width:50%;
+	z-index:-1;
+}
+.kode_top_strip_row{
+	float:left;
+	width:100%;
+}
+.kode_top_phon_2{
+	float:left;
+}
+.kode_top_phon_2 li{
+	float:left;
+	padding-right:24px;
+	color:#fff;
+}
+.kode_top_phon_2 li a{
+	display:inline-block;
+	color:#fff;
+}
+.kode_top_login_2 li a:hover,
+.kode_social_2 .kode_top_social_law_2 li a:hover,
+.kode_top_phon_2 li:hover i{
+	color:#333;
+}
+.kode_top_phon_2 li i{
+	margin-right:7px;
+	font-size:16px;
+}
+.kode_social_2{
+	float:right;
+}
+.kode_social_2 .kode_top_social_law_2{
+	border-right: 1px solid #b07786;
+    float: left;
+    padding-right: 15px;
+}
+.kode_social_2 .kode_top_social_law_2 li{
+	float:left;
+	padding-right:12px;
+}
+.kode_social_2 .kode_top_social_law_2 li:last-child{
+	padding:0px;
+}
+.kode_social_2 .kode_top_social_law_2 li a{
+	display:inlime-black;
+	color:#fff;
+}
+.kode_top_login_2{	
+	float:left;
+}
+.kode_social_2  .kode_top_login_2 > li{
+	float:left;
+	border-right:1px solid #b07786;
+}
+.kode_top_login_2 li a{
+	display:inline-block;
+	padding: 0 20px 0 23px;
+	color:#fff;
+}
+/*
+==========================================
+	 law_top_strip_1 end
+==========================================
+*/
+/*
+==========================================
+	 kode_navigation_law_2 start
+==========================================
+*/
+.dl-menuwrapper{
+	display: none;
+}
+.dl-menuwrapper ul{
+	background-color: #333;
+}
+.kode_navigation_law_2{
+	float:left;
+	width:100%;
+	padding:10px 0px;
+}
+.kode_navi_2{
+	float:left;
+	width:102%;
+	display: flex;
+    align-items: center;
+	justify-content: space-between;
+}
+.kode_navi_logo_top{
+	float:left;
+	width: 20%;
+}
+.kode_law_navi2{
+	float:right;
+}
+.kode_law_navi2 ul{
+	float:left;
+	padding: 27px 0 26px;
+}
+.kode_law_navi2 ul li{
+	float:left;
+	padding-right:20px;
+	position:relative;
+}
+.kode_law_navi2 ul li:last-child{
+	padding:0px;
+}
+.kode_law_navi2 ul li a{
+	text-transform:uppercase;
+	display:inline-block;
+	position:relative;
+}
+.kode_law_navi2 ul li a::after{
+	position:absolute;
+	content:"";
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:-15px;
+	border-bottom:2px solid #862b44;
+	opacity:0;
+	width:0px;
+}
+.kode_law_navi2 ul li a.active::after,
+.kode_law_navi2 ul li a:hover::after{
+	width:100%;
+	opacity:1;
+}
+.kode_law_navi2 ul li a.active::before,
+.kode_law_navi2 ul li a:hover::before{
+	width:30px;
+}
+.kode_law_navi2 ul li a::before{
+	border-top: 2px solid #862b44;
+    bottom: -10px;
+    content: "";
+    position: absolute;
+    right: 0;
+    width:0px;
+}
+.kode_law_navi2 > a{
+	display:inline-block;
+	padding:8px 17px;
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#fff;
+	margin: 19px 0 0 40px;
+}
+.kode_law_navi2 > a:hover{
+	background-color:#000;
+}
+
+/*Second UL*/
+.kode_law_navi2 ul ul{
+	padding:0px;
+}
+.kode_law_navi2 ul ul{
+	position:absolute;
+	top:130%;
+	left:0px;
+	width:300px;
+	background-color:#444;
+	z-index:9999;	
+	opacity:0;
+	visibility:hidden;
+	border-bottom:1px solid;
+	margin:0px;
+}
+.kode_law_navi2 ul ul li{
+	position:relative;
+	width:100%;
+	float:left;	
+	padding:0px;
+}
+.kode_law_navi2 ul ul li a{
+	border-bottom: 1px solid #ddd;
+    display: block;
+    padding: 12px 20px;
+	color:#fff;
+}
+.kode_law_navi2 ul ul li a:hover {
+    color: #fff;
+}
+.kode_law_navi2 ul ul li::before,
+.kode_top_header_navi ul ul li::before,
+.law_navigtion ul ul li::before{
+	display:none;
+}
+.kode_law_navi2 ul ul li a::before,
+.kode_top_header_navi ul ul li a::before,
+.law_navigtion ul ul li a::after{
+	display:none;
+}
+.kode_law_navi2 ul ul li a:hover::after{
+	border-bottom:none;
+	width:0px;
+}
+/*3rd Ul*/
+.kode_law_navi2 ul ul ul{
+	left: 120%;
+	top: 0px;
+}
+/* HOver CSS */
+.kode_law_navi2 ul li:hover > ul{
+	top: 166%;
+	visibility: visible;
+	opacity: 1;
+}
+.kode_law_navi2 ul ul li:hover > ul{
+	left: 100%;
+}
+/*
+==========================================
+	 kode_navigation_law_2 end
+==========================================
+*/
+/*
+==========================================
+	 kode_law_banner_2 start
+==========================================
+*/
+.kode_law_banner_2{
+	float:left;
+	width:100%;
+}
+.kode_law_banner_2 figure{
+	position:relative;
+	display:block;
+}
+.kode_law_banner_2 img{
+	width:100%;
+}
+.kode_banner_law_caption{
+	position:absolute;
+	margin: 0 0 0 -573px;
+	top:23%;
+	left:50%;
+	right:0px;
+	bottom:0px;
+}
+.kode_banner_law_caption h2{
+	font-size:50.25px;
+	font-weight:bold;
+	text-transform:uppercase;
+	line-height: 50px;
+}
+.kode_banner_law_caption h2 span{
+	display:block;
+	line-height:30px;
+	font-size:32.66px;
+}
+.kode_banner_law_caption h3{
+	font-size:56.54px;
+	font-weight:bold;
+	text-transform:uppercase;
+	margin-bottom:20px;
+	line-height: 50px;
+}
+.kode_banner_law_caption h3 span{
+	display:block;
+	font-size:33.71px;
+	line-height: 37px;
+}
+.kode_banner_law_caption strong{
+	font-size: 108.73px;
+    left: 210px;
+    line-height: 103px;
+    position: absolute;
+    top: 20px;
+}
+.kode_banner_law_caption p{
+	display:inline-block;
+	margin-bottom:46px;
+	color: #000;
+}
+.kode_banner_law_caption span{
+	display:block;
+	font-size: 26px;
+    margin-bottom: 20px;
+	font-weight: 900;
+	color: #0b57a6;
+}
+.kode_banner_law_caption ul{
+	float:left;
+	width:100%;
+}
+.kode_banner_law_caption ul li{
+	float:left;
+}
+.kode_banner_law_caption ul li a{
+	display:inline-block;
+	padding:13px 31px;
+	font-size:18px;
+	color:#fff;
+	background-color:#333333;
+	margin-right:20px;
+	text-transform:uppercase;
+}
+/*bxsilder*/
+.kode_law_banner_2 .bx-wrapper .bx-pager{
+	bottom: 30px;
+    padding: 0;
+    position: absolute;
+}
+.kode_law_banner_2 .bx-wrapper{
+	margin:0px;
+}
+.kode_law_banner_2 .bx-wrapper .bx-pager.bx-default-pager a{
+	background: #ffffff none repeat scroll 0 0;
+    border-radius: 0;
+    display:block;
+    height:4px;
+    margin:0 5px;
+    text-indent: -9999px;
+    width: 31px;
+}
+.kode_law_banner_2 li{
+	position:relative;
+}
+.kode_law_banner_2 .bxslider > li:before{
+	background:#000;
+	z-index:1;
+	content:'';
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	width:100%;
+	height:100%;
+	position:absolute;
+	opacity:0.1;
+}
+.kode_law_banner_2 .bxslider .kode_banner_law_caption{
+	z-index:999;
+}
+.kode_law_load a:focus{
+	color:#777;
+}
+/*
+==========================================
+	 kode_law_banner_2 end
+==========================================
+*/
+/*
+==========================================
+	 kode_LAW_content_2 start
+==========================================
+*/
+.kode_LAW_content_2{
+	float:left;
+	width:100%;
+	position:relative;
+	z-index:999;
+	padding: 61px 0 65px;
+	background-color: #333;
+}
+.kode_LAW_content_2:before{
+	position:absolute;
+	content:"";
+	top:-30px;
+	right:-253px;
+	bottom:0px;
+	background-color:#a12e4d;
+	background-position:right;
+	width:45%;
+	z-index:999;
+	opacity:0.95;
+	transform:skewX(-37deg);
+	-webkit-transform:skewX(-37deg);
+	-moz-transform:skewX(-37deg);
+}
+.kode_LAW_content_2:after{
+	position:absolute;
+	content:"";
+	top:-30px;
+	right:-62px;
+	bottom:0px;
+	background-position:right;
+	width:35%;
+	background-image:url("image/backb.png");
+	background-repeat:no-repeat;
+}
+.kode_law_need{
+	float:left;
+}
+.kode_law_need h3{
+	color:#fff;
+	text-transform:uppercase;
+	margin-bottom:9px;
+}
+.kode_law_need p{
+	color:#fff;
+}
+.kode_law_arrow{
+	float:left;
+	width:100%;
+	text-align:right;
+}
+.kode_law_arrow a{
+	display:inline-block;
+	padding:14px 0px;
+	min-width: 214px;
+	background-color:#fff;
+	position:relative;
+	z-index:999;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 16px;
+	margin-right: 40px;
+	margin-top: 7px;
+}
+.kode_law_arrow a:hover{
+	color:#fff;
+}
+.kode_law_arrow a::before{
+	position:absolute;
+	content:"";
+	top:-4px;
+	right:-4px;
+	left:-4px;
+	bottom:-4px;
+	border:2px solid #fff;
+	z-index:999;
+}
+.kode_law_arrow a i{
+	margin-left:15px;
+}
+/*
+==========================================
+	 kode_LAW_content_2 end
+==========================================
+*/
+/*
+==========================================
+	 kode_law_frim start
+==========================================
+*/
+.kode_law_frim{
+	float:left;
+	width:100%;
+}
+.kode_law_frim_hdg{
+	float:left;
+	width:100%;
+	text-align:center;
+	margin-bottom:32px;
+}
+.kode_law_frim_hdg h2{
+	text-transform:uppercase;
+	font-weight:bold;	
+	margin-bottom:13px;
+}
+.kode_law_frim_hdg.kode_frim_hdg_3 > h2 {
+    color: #fff;
+}
+.kode_law_story{
+	float:left;
+	width:100%;
+}
+.kode_law_story_caption{
+	float:left;
+	width:100%;
+	margin-bottom:17px;
+}
+.kode_law_story_caption h4 {
+	display:inline-block;
+	float:left;
+	text-transform:uppercase;
+}
+.kode_law_story_caption h4 span{
+	display:block;
+}
+.kode_law_story_caption h2{
+	float:right;
+	font-weight:bold;
+	color:#dbdbdb;
+	font-size:54.32px;
+	line-height:50px;
+}
+.kode_law_story p{
+	margin-bottom:20px;
+}
+.kode_law_story a{
+	display:inline-block;
+}
+.kode_law_story a i{
+	margin-left:10px;
+}
+/*
+==========================================
+	 kode_law_frim end
+==========================================
+*/
+/*
+==========================================
+	 kode_law_area_2 start
+==========================================
+*/
+.kode_law_area_2{
+	float:left;
+	width:100%;
+	background-color:#ebe9f6;
+	padding:72px 0px 80px 0px;
+}
+.kode_law_property{
+	float:left;
+	width:100% !important;
+	padding: 45px 20px 35px;
+	background-color:#fff;
+	border:1px solid #d4d4d4;
+	position:relative;
+}
+.kode_practise_area_wrap{
+	width: 100%;
+	float: left;
+	position: relative;
+}
+.kode_law_area_2 .kode_law_frim_hdg.law_property{
+	margin-bottom:38px;
+}
+.kode_law_frim_hdg.law_property > h2 {
+    text-shadow: 1px 5px #e0dfe5;
+}
+.kode_law_property:hover{
+	box-shadow: 0 0 12px -6px;
+}
+.kode_law_property::before{
+	position:absolute;
+	content:"";
+	right:0px;
+	bottom:-2px;
+	left:0px;
+	border-bottom:2px solid transparent;
+	width:0px;
+}
+.kode_law_property:hover::before{
+	width:100%;
+}
+.kode_law_property_caption{
+	float:left;
+	width:100%;
+	margin-bottom:12px;
+}
+.kode_law_property_caption h4{
+	text-transform:uppercase;
+	font-weight:bold;
+	float:left;
+	display:inline-block;
+	padding:15px 0px;
+}
+.kode_law_property_caption span{
+	float:right;
+	display:inline-block;
+	height:56px;
+	width:56px;
+	text-align:center;
+	border-radius:100%;
+	border:1px solid #e6e6e6;
+	font-size:35px;
+	box-shadow: 0 0 0 5px #f9f9f9;
+	background-color:#fbfbfb;
+}
+.kode_law_property:hover .kode_law_property_caption span{
+	box-shadow: 0 0 0 5px #a12e4d;
+	color:#fff;
+}
+.kode_law_property_caption span i{
+	line-height:56px;
+}
+.kode_law_property p{
+	margin-bottom:18px;
+	padding: 0 7px 0 0;
+}
+.kode_law_property a{
+	text-transform:uppercase;
+	display:inline-block;
+	font-size:16px;
+}
+.kode_law_property a:hover{
+	color:#333;
+}
+/*bxsilder*/
+.kode_law_area_2 .bx-wrapper .bx-pager{
+	padding:0px;
+	display:none;
+}
+.kode_law_area_2 .bx-wrapper .bx-controls-direction .bx-prev{
+	color: #999999;
+    height: 32px;
+    left: -30px;
+    position: absolute;
+    top: 62%;
+}
+.kode_law_area_2 .bx-wrapper .bx-controls-direction .bx-next{
+	color: #999999;
+    height: 32px;
+    right: -30px;
+    position: absolute;
+    top: 62%;
+}
+.kode_law_area_2 .bx-wrapper .bx-controls-direction .bx-prev::before{
+	position:absolute;
+	content:"\f177";
+	font-family: FontAwesome;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	height:34px;
+	width:34px;
+	text-align:center;
+	line-height:34px;
+	border:1px solid #d4d4d4;
+	background-color:#f9f9f9;
+}
+.kode_law_area_2 .bx-wrapper .bx-controls-direction .bx-next::after{
+	position:absolute;
+	content:"\f178";
+	font-family: FontAwesome;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	height:34px;
+	width:34px;
+	text-align:center;
+	line-height:34px;
+	border:1px solid #d4d4d4;
+	background-color:#f9f9f9;
+}
+/*
+==========================================
+	 kode_law_area_2 end
+==========================================
+*/
+/*
+==========================================
+	 kode_law_counter_2 start
+==========================================
+*/
+.kode_law_counter_2{
+	float:left;
+	width:100%;
+}
+.kode_law_counter_2 .col-md-3.law_2-pad{
+	padding:0px;
+}
+.kode_law_counter_fig{
+	float:left;
+	width:100%;
+}
+.kode_law_counter_fig figure:before{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	width:100%;
+	height:100%;
+	content:'';
+	background:#000;
+	opacity:0.7;
+}
+.kode_law_count_caption{
+	z-index:99999;
+	position:relative;
+}
+.kode_law_counter_fig figure{
+	position:relative;
+	display:block;
+	
+}
+.kode_law_counter_fig figure img{
+	width: 100%;
+	height: auto;
+}
+.kode_law_count_caption{
+	position:absolute;
+	top:58px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	text-align:center;
+}
+.kode_law_count_caption span{
+	display:block;
+	font-size:40px;
+	color:#fff;
+	margin-bottom:10px;
+}
+
+.color{
+	color: white;
+}
+.kode_law_count_caption h2{
+	font-size:40px;
+	color:#ffffff;
+	font-weight:bold;
+	margin-bottom:7px;
+}
+.kode_law_count_caption p{
+	font-size:18px;
+	color:#fff;
+	font-weight:bold;
+}
+/*
+==========================================
+	 kode_law_counter_2 end
+==========================================
+*/
+/*
+==========================================
+	 kode_law_work_2 start
+==========================================
+*/
+.kode_law_work_2{
+	float:left;
+	width:100%;
+	padding:72px 0px 80px 0px;
+	background-color:#ebe9f6;
+}
+.kode_law_business{
+	float:left;
+	width:100%;
+	text-align:center;
+	margin-bottom:34px;
+}
+.kode_law_business ul{
+	float:left;
+	width:100%;
+}
+.kode_law_business ul li{
+	display:inline-block;
+	cursor:pointer;
+}
+.kode_law_business ul li a{
+	text-transform:uppercase;
+	display:inline-block;
+	margin-right:39px;
+}
+.kode_law_gallery_img{
+	float:left;
+	width:100%;
+	margin-bottom:30px;
+	overflow:hidden;
+}
+.kode_law_gallery_img figure{
+	position:relative;
+	display:block;
+	float: left;
+	width: 100%;
+}
+.kode_law_gallery_img figure img{
+	width: 100%;
+	height: auto;
+}
+.kode_law_gallery_img figure::before{
+	position:absolute;
+	content:"";
+	top:100%;
+	left:100%;
+	right:100%;
+	bottom:100%;
+}
+.kode_law_gallery_img:hover figure::before{
+	opacity:0.70;
+	top:5px;
+	left:5px;
+	right:5px;
+	bottom:5px;
+}
+.kode_law_fig_cap{
+	position:absolute;
+	top:80%;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	text-align:center;
+	opacity:0;
+	margin: -60px 0px 0px;
+}
+.kode_law_gallery_img:hover .kode_law_fig_cap{
+	opacity:1;
+	margin: -60px 0px 0px;
+	top: 50%;
+}
+.kode_law_fig_cap a{
+	background-color:#fff;
+    display: inline-block;
+    height: 36px;
+    text-align: center;
+    width: 36px;
+	margin-bottom:30px;
+	position:relative;
+}
+.kode_law_fig_cap a:hover{
+	color:#fff;
+}
+.kode_law_fig_cap a::before{
+	position:absolute;
+	content:"";
+	top:-3px;
+	left:-3px;
+	right:-3px;
+	bottom:-3px;
+	border:1px solid #fff;
+}
+.kode_law_fig_cap a i{
+	line-height:36px;
+}
+.kode_law_fig_cap h6{
+	text-transform:uppercase;
+	color:#fff;
+	margin-bottom:12px;
+}
+.kode_law_fig_cap p{
+	color:#fff;
+	padding:0px 20px;
+}
+.kode_law_load{
+	float:left;
+	width:100%;
+	text-align:center;
+	margin-top:10px;
+}
+.kode_law_load a{
+	display:inline-block;
+	text-transform:uppercase;
+	padding:12px 19px;
+	font-size:18px;
+	border:1px solid #333333;
+}
+.kode_law_load a:hover{
+	color:#fff;
+}
+
+/*
+==========================================
+	 kode_law_work_2 end
+==========================================
+*/
+/*
+==========================================
+	 kode_law_blog_2 start
+==========================================
+*/
+
+.kode_law_blog_2{
+	float:left;
+	width:100%;
+}
+.kode_law_blog2_fig{
+	float:left;
+	width:100%;
+	border:1px solid #d4d4d4;
+}
+.kode_law_blog2_fig:hover {
+    box-shadow: 0 0 15px -4px;
+}
+.kode_law_blog2_fig figure{
+	position:relative;
+	float: left;
+	width: 100%;
+	overflow:hidden;
+}
+.kode_law_blog2_fig figure img{
+	width: 100%;
+	height: auto;
+}
+.kode_law_blog2_social{
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	text-align:center;
+	padding:113px 0px;
+	z-index:999;
+	opacity:0;
+}
+.kode_law_blog2_fig:hover .kode_law_blog2_social{
+	opacity:1;
+}
+.kode_law_blog2_social:before{
+	position:absolute;
+	content:"";
+	top:100px;
+	left:100px;
+	right:100px;
+	bottom:100px;
+	z-index:-1;
+}
+.kode_law_blog2_fig:hover .kode_law_blog2_social:before{
+	top:10px;
+	left:10px;
+	right:10px;
+	bottom:10px;
+	opacity:0.70;
+}
+.kode_law_blog2_social ul{
+	float:left;
+	width:100%;
+}
+.kode_law_blog2_social ul li{
+	display:inline-block;
+	padding:0px 20px;
+	border-right:1px solid #fff;
+}
+.kode_law_blog2_social ul li:last-child{
+	border:none;
+}
+.kode_law_blog2_social ul li a{
+	display:inline-block;
+	color:#fff;
+	font-size:25px;
+	position:relative;
+}
+.kode_law_blog2_caption{
+	float:left;
+	width:100%;
+	padding: 48px 30px 27px;
+	position:relative;
+	border-bottom:1px solid #d4d4d4;
+}
+.kode_law_blog2_caption figure{
+    left: 30px;
+    position: absolute;
+    top: -24px;
+	border:2px solid #d4d4d4;
+	z-index:999;
+	width: 45px;
+	height: 45px;
+}
+.kode_law_blog2_caption span{
+	display:block;	
+	margin-bottom:12px;
+}
+.kode_law_blog2_caption span i{
+	margin-right:10px;
+	font-size:16px;
+}
+.kode_law_blog2_caption h4{
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-bottom:19px;
+}
+.kode_law_blog2_ancar{
+	float:left;
+	width:100%;
+	padding:19px 30px 17px 30px;
+	position:relative;
+	z-index:999;
+}
+.kode_law_blog2_ancar::before{
+	position:absolute;
+	content:"";
+	top:0px;
+	right:0px;
+	bottom:0px;
+	left:0px;
+	z-index:-1;
+	width:0px;
+}
+.kode_law_blog2_fig:hover .kode_law_blog2_ancar::before {
+	width:100%;
+}
+.kode_law_blog2_ancar a{
+	display:block;
+	text-transform:uppercase;
+	font-size:16px;
+}
+.kode_law_blog2_fig:hover  .kode_law_blog2_ancar a{
+	color:#fff;
+}
+.kode_law_blog2_ancar a i{
+	float:right;
+	padding: 6px 0px 0px;
+}
+/*
+==========================================
+	 kode_law_blog_2 end
+==========================================
+*/
+/*
+==========================================
+	 kode_law_client2 start
+==========================================
+*/
+.kode_law_client2{
+	float:left;
+	width:100%;
+	padding:80px 0px;
+	background-color:#f6f6f6;
+}
+.kode_law_client2_fig{
+	float:left;
+	width:100%;
+}
+.kode_sha{
+	float: left;
+	width: 100%;
+}
+.kode_law_client2_fig figure{
+	float:left;
+	border:1px solid #c22b2a;
+}
+.kode_law_client2_fig figure:hover{
+	box-shadow: 0 0 10px -4px #c22b2a;
+	border:1px solid transparent;
+}
+/*
+==========================================
+	 kode_law_client2 end
+==========================================
+*/
+/*
+============================================================
+			home page-3 start
+============================================================
+*/
+/*
+==========================================
+	 kode_law_property.law_pro_3 start
+==========================================
+*/
+.kode_law_property.law_pro_3 {
+    float: left;
+    width: 25%;
+	padding:36px 0px 34px 0px;
+}
+.kode_law_property_caption.law_caption_3{
+	padding:0px 15px;
+}
+.kode_law_property_caption.law_caption_3  span {
+    float: left;
+	margin-right:20px;
+	position:relative;
+	box-shadow: 0 0 0 5px #f9f9f9;
+	z-index:999;
+	display:inline-block;
+}
+.kode_law_property_caption.law_caption_3 span:after {
+     background-color: #ebe9f6;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    bottom: -6px;
+    content: "";
+    left: -16px;
+    padding: 0 36px;
+    position: absolute;
+    right: -6px;
+    top: -4px;
+    z-index: -2;
+}
+.law_caption_3 span i{
+	display:inlime-black;
+	width:60px;
+	border-radius:100px;
+	border:1px solid #dedede;
+	box-shadow:0 0 0px 5px #fbfbfb;
+	line-height:56px;
+	background-color: #fbfbfb;
+}
+.kode_law_property_caption_3{
+	float:left;
+	width:100%;
+	padding:0px 16px;
+}
+.kode_law_property:hover .kode_law_property_caption.law_caption_3 span{
+	box-shadow:none;
+}
+.kode_law_property:hover .kode_law_property_caption.law_caption_3 span:after{
+	background:#a12e4d;
+}
+.kode_law_area_2 .owl-buttons{
+	left: 0;
+    position: absolute;
+    right: 0;
+    top: 130px;
+    width: 100%;
+	text-indent:9999;
+}
+.kode_law_area_2 .owl-buttons .owl-prev{
+	float: left;
+    top: 0;
+	margin-left:-60px;
+}
+.kode_law_area_2 .owl-buttons .owl-prev:before{
+	position:absolute;
+	top:0px;
+	left:-60px;
+	bottom:0px;
+	content:"";
+	border:1px solid #dedede;
+	width:35px;
+	height:35px;
+	padding:0px 0px;
+	background-color:#fff;
+	font-size:20px;
+	background-image:url(image/arrows/arrows-left.png);
+	background-position:right;
+	background-repeat:no-repeat;
+}
+.kode_law_area_2 .owl-buttons .owl-next:before{
+	position:absolute;
+	top:0px;
+	right:-60px;
+	bottom:0px;
+	content:"";
+	border:1px solid #dedede;
+	width:35px;
+	height:35px;
+	padding:0px 10px;
+	background-color:#fff;
+	font-size:20px;
+	background-image:url(image/arrows/arrows-right.png);
+	background-position:left;
+	background-repeat:no-repeat;
+}
+.kode_law_area_2 .owl-buttons .owl-next{
+	  float: right;
+    text-align: right;
+	margin-right:-60px;
+}
+
+/*
+==========================================
+	 kode_law_property.law_pro_3 end
+==========================================
+*/
+/*
+==========================================
+	 kode_law_counter_3 start
+==========================================
+*/
+.kode_law_counter_3{
+	float:left;
+	width:100%;
+	background-image:url("image/counterbg.png");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.kode_law_counter_fig_3{
+	float:left;
+	width:100%;
+	padding:0px 90px;
+	text-align:center;
+}
+.kode_law_counter_fig_3 ul{
+	float:left;
+	width:100%;
+	border-left:1px solid #9e9e9d;
+}
+.kode_law_counter_fig_3 ul li{
+	float:left;
+	padding:90px 0px 70px 0px;
+	border-right:1px solid #9e9e9d;
+	width: 25%;
+}
+.kode_law_count_caption_3{
+	float:left;
+	width:100%;
+}
+.kode_law_count_caption_3 .counter{
+	color: #fff;
+    display: inline-block;
+    font-size: 40px;
+    font-weight: bold;
+}
+.kode_law_count_caption_3 .kode_law_box{
+	color: #fff;
+    display: inline-block;
+    font-size: 30px;
+    left: 10px;
+    position: relative;
+    top: -2px;
+}
+.kode_law_p_3{
+	float:left;
+	width:100%;
+}
+.kode_law_p_3 p{
+	display:block;
+	color:#fff;
+	font-weight:bold;
+}
+.law_choose_us.kode_law_chose_3 {
+	margin: 0px 0 0;
+}
+/*
+==========================================
+	 kode_law_counter_3 end
+==========================================
+*/
+/*
+==========================================
+	 kode_attorney_img_3 start
+==========================================
+*/
+.kode_attorney_img_3{
+	float:left;
+	width:100%;
+}
+.kode_attorney_img_3 figure{
+	margin-bottom:25px;
+	display:block;
+	position:relative;
+}
+.kode_attorney_img_3 figure img{
+	width: 100%;
+	height: auto;
+}
+.kode_attorney_img_3 figure::before{
+	position:absolute;
+	content:"";
+	top:100px;
+	left:100px;
+	right:100px;
+	bottom:100px;
+}
+.kode_attorney_img_3:hover figure::before{
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+}
+.kode_attorney_img_3 strong{
+	position:absolute;
+	text-align:center;
+	top:110px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	font-size:40px;
+	color:#fff;
+	opacity:0;
+}
+.kode_attorney_img_3 strong a{
+	color: #fff;
+}
+.kode_attorney_img_3:hover strong{
+	opacity:1;
+}
+.kode_attorney_caption_3{
+	float:left;
+	width:100%;
+}
+.kode_attorney_caption_3 h6{
+	text-transform:uppercase;
+	margin-bottom:5px;
+}
+.kode_attorney_caption_3 span{
+	margin-bottom:10px;
+	display:block;
+}
+.kode_attorney_caption_3 p{
+	padding-bottom:17px;
+	border-bottom:1px solid #d4d4d4;
+	margin-bottom:20px;
+}
+.kode_attorney_caption_3 ul{
+	float:left;
+	width:100%;
+}
+.kode_attorney_caption_3 ul li{
+	float:left;
+}
+.kode_attorney_caption_3 ul  li a{
+	height:30px;
+	width:30px;
+	text-align:center;
+	background-color:#333333;
+	color:#fff;
+	display:inline-block;
+	font-size:15px;
+	margin-right:5px;
+}
+.kode_attorney_caption_3 ul  li a:hover{
+	color:#fff;
+}
+.kode_attorney_caption_3 ul li a i{
+	line-height:30px;
+}
+/*
+==========================================
+	 kode_attorney_img_3 end
+==========================================
+*/
+#law_slide_img .law_slide_img_caption figure{
+	margin: 0px 15px;
+	width: 100%;
+}
+#law_slide_img .law_slide_img_caption figure img{
+	width: auto;
+	height: auto;
+}
+
+/*
+============================================
+		 Accordian Wrap CSS End
+============================================
+*/
+
+/*
+============================================
+		 Progress Bar Wrap CSS Start
+============================================
+*/
+.progress-names{
+	float:left;
+	width:100%;	
+}
+.progress-names span{
+	font-size:15px;
+	color:#666666;
+	margin-bottom:25px;
+	display:block;
+}
+.progressbar{
+    position:relative;
+    width:100%;
+    height:6px;
+    padding:0;
+    margin:0 auto;
+   background-color: #e1e1e1;
+   border-radius:10px;
+   margin-bottom:21px;
+}
+.bar {
+	position:absolute;
+	display:block;
+	width:0px;
+	height:6px;
+	top:0px;
+	left:0px;
+	overflow:hidden;
+	border-radius:10px;
+}
+.label {
+	position:absolute;
+	display:block;
+	width:52px;
+	height:30px;
+	line-height:27px;
+	top:-38px;
+	left:0px;
+	background: #000;
+	font-weight:bold;
+	font-size:12px;
+	color:#fff;
+	text-align:center;
+	margin-left: -13px;	
+	border-radius:0;
+	display: none;
+}
+.label span {
+	position:absolute;
+	display:block;
+	width:12px;
+	height:13px;
+	top:26px;
+	left:14px;
+	background:transparent;
+	overflow:hidden;
+	transform:rotate(30deg);
+}
+.label span:before {
+	position:absolute;
+	display:block;
+	content:"";
+	width:8px;
+	height:8px;
+	top:1px;
+	left:2px;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 10px 2px 0;
+	border-color: #000 transparent transparent transparent;
+	line-height: 0px;
+}
+
+/*
+============================================
+	 Progress Bar Wrap CSS End
+============================================
+*/
+.kode_span_list{
+	float: left;
+	width: 100%;
+	position: relative;
+	text-align: center;
+	position:relative;
+	top:-12px;
+}
+.kode_span_list.list_span_0 {
+    float: left;
+    margin-top: -13px;
+    position: relative;
+    width: 100%;
+}
+.kode_span_list span{
+	display: inline-block;
+	width: 8px;
+	height:8px;
+	background-color: #000;
+
+}
+.kode_law_work_2 #filterable-item-holder-1{
+	margin-left:-15px;
+	margin-right:-15px;
+	clear:both;
+}
+.kode_law_work_2 .filterable-item{
+	width:24.93%;
+	float:left;	
+	padding-right:15px;
+	padding-left:15px;
+}
+.kode_practice_detail_social_list figure img{
+	width: 100%;
+	height: auto;;
+}
+
+
+.pt-15{
+	padding-top:  15px;
+}
+.pb-20{
+	padding-bottom: 15px;
+}
+
+
+.pb-15{
+	padding-bottom: 15px;
+}
+
+/* .box {
+    display: block;
+    font-size: 16px;
+    color: #333333;
+    border: 1px solid #d4d4d4;
+    padding: 12px 20px;
+} */
+
+.mb-20{
+	margin-bottom: 15px!important;
+}
+
+.kode_abouts_us_agence{
+    background-image: url(./image/about/about-bg.jpg);
+    background-position: cover;
+}
+
+/* .mt-80{
+	margin-top: 100px!important;
+}
+.mt-80{
+	margin-bottom: 100px!important;
+} */
+
+.kode_law_chose{
+	margin-bottom: 100px;
+}
+
+.text-black{
+	color: #000!important 	;
+}
+
+.text-white{
+	color: white!important;
+	padding: 0px 15px;
+}
+
+
+/* .pt-50{
+	padding-top: 50px!;
+} 
+
+
+pb-50 */
+
+.kode_copyright_footer p {
+    display: inline-block;
+    color: #000;
+    margin-right: 100px;
+    padding: 10px 0;
+    /* background-color: #696969; */
+}
+
+
+.kode_law_navi2 ul li:hover > .top {
+    top: 10%;
+    visibility: visible;
+    opacity: 1;
+}
+
+
+.icon{
+	display: flex;
+	align-items: baseline;
+}
+
+.text-center {
+	text-align: center !important;
+}
+
+
+.kode_content_us_form input[type="file"] {
+    width: 100%;
+    background-color: #ffffff;
+    border: 1px solid #ececec;
+    font-size: 15px;
+    color: #999999;
+    display: block;
+    padding: 15px 19px;
+    margin-bottom: 18px;
+}
+
+.kode_content_banner-carrer {
+    float: left;
+    width: 100%;
+    background-image: url(../image/banner/carrer-banner.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 140px 0px;
+    border-bottom: 1px solid #e6e6e6;
+    position: relative;
+}
+
+
+
+			.wrapper {
+				align-items: center;
+				display: flex;
+				height: 90vh;
+				justify-content: center;
+				width: 100%;
+				background-image: url(./image/about/about-bg.jpg);
+				background-position: cover;
+				/* background-repeat: no-repeat; */
+				/* opacity: 1;	 */
+
+			}
+
+
+			.text-white {
+				color: white;
+			}
+
+			.boxs {
+				display: flex;
+				flex-wrap: nowrap;
+				height: 400px;
+				justify-content: start;
+			}
+
+			.card {
+				/* align-items: flex-end; */
+				align-items: center;
+				background-size: cover;
+				border-radius: .75rem;
+				border-radius: 2rem;
+				box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.8);
+				cursor: pointer;
+				display: flex;
+				margin: 0 10px;
+				overflow: hidden;
+				transition: .6s cubic-bezier(.28, -0.03, 0, .99);
+				width: 80px;
+				border: 1px solid #fff;
+			}
+
+			.card>.row {
+				color: white;
+				display: flex;
+				flex-wrap: nowrap;
+			}
+
+			.card>.row>.icon {
+				align-items: center;
+				background: #07006e;
+				border-radius: 50%;
+				color: white;
+				display: flex;
+				justify-content: center;
+				margin: 15px;
+				width: 50px;
+				font-size: 25px;
+				font-weight: 600;
+			}
+
+			.card>.row>.description {
+				display: flex;
+				flex-direction: column;
+				/* height: 80px; */
+				justify-content: center;
+				opacity: 0;
+				overflow: hidden;
+				transform: translateY(30px);
+				transition: all .3s ease;
+				transition-delay: .3s;
+				width: 520px;
+			}
+
+			.description p {
+				color: #e7e7e7;
+				padding-top: 5px;
+				margin-left: 15px;
+			}
+
+			.description h4 {
+				text-transform: uppercase;
+			}
+
+			input {
+				display: none;
+			}
+
+			input:checked+label {
+				width: 600px;
+			}
+
+			input:checked+label .description {
+				opacity: 1 !important;
+				transform: translateY(0) !important;
+			}
+
+			.card[for="c1"] {
+				background-image: url('../image/fin.jpg');
+			}
+
+			.card[for="c2"] {
+				background-image: url('../image/12.jpg');
+			}
+
+			.card[for="c3"] {
+				background-image: url('../image/123.jpg');
+			}
+
+			.card[for="c4"] {
+				background-image: url('../image/1234.jpg');
+			}
+
+			.card[for="c5"] {
+				background-image: url('../image/inno.jpg');
+			}
+
+			.card[for="c6"] {
+				background-image: url('../image/brilliant-crystal-star-award-gleaming-against-a-deep-blue-backdrop-of-excellence-photo.jpg');
+			}
+
+			.card[for="c7"] {
+				background-image: url('../image/about/about-2.jpg');
+			}
+
+
+			.dm-none{
+				display: none;
+			}
+
+
+			.mb-20{
+				margin-bottom: 20px;
+			}
+
+
+			.pt-50{
+				padding-top: 50px;
+			}
+
+			.pb-50{
+				padding-bottom: 50px;
+			}
+
+			.mt-20{
+				margin-top: 20px;
+			}
+
+
+
+			.mb-image{
+				width: 90%;
+			}
+
+			.image{
+				margin-right: 20px;
+			}
+			.banner-btn li a{
+				margin-bottom: 50px;
+			}
+			.kode_practice_detail_social_list img{
+				height: 380px !important;
+			}
+
+			.kode_law_frim_hdg h4{
+font-family: "Times New Roman", Sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 46px;
+    color: #000000;
+    margin: 0px 0px 0px 0px;
+	margin-bottom: 4px;
+			}
+
+			.law_choose_us_colum_1 {
+			display: flex;
+    align-items: center;
+    justify-content: end;
+			}
+
+			.team-page-content{
+				margin-top: 50px;
+			}

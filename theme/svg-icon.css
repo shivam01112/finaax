@@ -1,0 +1,246 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot');
+    src:    url('fonts/icomoon.eot') format('embedded-opentype'),
+        url('fonts/icomoon.ttf') format('truetype'),
+        url('fonts/icomoon.woff') format('woff'),
+        url('fonts/icomoon.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrows:before {
+    content: "\e935";
+}
+.icon-cup:before {
+    content: "\e936";
+}
+.icon-family-avatars:before {
+    content: "\e937";
+}
+.icon-left-arrow:before {
+    content: "\e938";
+}
+.icon-letter:before {
+    content: "\e939";
+}
+.icon-magnifying-glass:before {
+    content: "\e93a";
+}
+.icon-medical2:before {
+    content: "\e93b";
+}
+.icon-multiple-users-silhouette:before {
+    content: "\e93c";
+}
+.icon-people4:before {
+    content: "\e93d";
+}
+.icon-plus-symbol:before {
+    content: "\e93e";
+}
+.icon-premium-badge:before {
+    content: "\e93f";
+}
+.icon-right-arrow:before {
+    content: "\e940";
+}
+.icon-right-arrow-1:before {
+    content: "\e941";
+}
+.icon-shape:before {
+    content: "\e942";
+}
+.icon-star:before {
+    content: "\e943";
+}
+.icon-star-1:before {
+    content: "\e944";
+}
+.icon-suitcase:before {
+    content: "\e945";
+}
+.icon-telephone3:before {
+    content: "\e946";
+}
+.icon-terrorist-man-silhouette-with-bonnet-mask:before {
+    content: "\e947";
+}
+.icon-tool2:before {
+    content: "\e948";
+}
+.icon-circle:before {
+    content: "\e909";
+}
+.icon-draw:before {
+    content: "\e90a";
+}
+.icon-graphic:before {
+    content: "\e90b";
+}
+.icon-home:before {
+    content: "\e90c";
+}
+.icon-medical:before {
+    content: "\e90d";
+}
+.icon-music:before {
+    content: "\e90e";
+}
+.icon-note:before {
+    content: "\e90f";
+}
+.icon-people2:before {
+    content: "\e910";
+}
+.icon-people-1:before {
+    content: "\e911";
+}
+.icon-people-2:before {
+    content: "\e912";
+}
+.icon-people-3:before {
+    content: "\e913";
+}
+.icon-road:before {
+    content: "\e914";
+}
+.icon-security:before {
+    content: "\e915";
+}
+.icon-square:before {
+    content: "\e916";
+}
+.icon-symbol:before {
+    content: "\e917";
+}
+.icon-telephone:before {
+    content: "\e918";
+}
+.icon-weight:before {
+    content: "\e919";
+}
+.icon-apartment:before {
+    content: "\e933";
+}
+.icon-business:before {
+    content: "\e934";
+}
+.icon-city:before {
+    content: "\e932";
+}
+.icon-dollar:before {
+    content: "\e931";
+}
+.icon-icon-1203:before {
+    content: "\e930";
+}
+.icon-money:before {
+    content: "\e92f";
+}
+.icon-money-1:before {
+    content: "\e92e";
+}
+.icon-office:before {
+    content: "\e92d";
+}
+.icon-people3:before {
+    content: "\e92c";
+}
+.icon-arrow:before {
+    content: "\e900";
+}
+.icon-black:before {
+    content: "\e901";
+}
+.icon-black-1:before {
+    content: "\e902";
+}
+.icon-building:before {
+    content: "\e903";
+}
+.icon-buildings:before {
+    content: "\e904";
+}
+.icon-clock:before {
+    content: "\e905";
+}
+.icon-construction:before {
+    content: "\e906";
+}
+.icon-construction-1:before {
+    content: "\e907";
+}
+.icon-graphic2:before {
+    content: "\e908";
+}
+.icon-home2:before {
+    content: "\e91a";
+}
+.icon-internet:before {
+    content: "\e91b";
+}
+.icon-mountain:before {
+    content: "\e91c";
+}
+.icon-other:before {
+    content: "\e91d";
+}
+.icon-other-1:before {
+    content: "\e91e";
+}
+.icon-people:before {
+    content: "\e91f";
+}
+.icon-people-12:before {
+    content: "\e920";
+}
+.icon-shapes:before {
+    content: "\e921";
+}
+.icon-signs:before {
+    content: "\e922";
+}
+.icon-social:before {
+    content: "\e923";
+}
+.icon-social-1:before {
+    content: "\e924";
+}
+.icon-symbol2:before {
+    content: "\e925";
+}
+.icon-technology:before {
+    content: "\e926";
+}
+.icon-telephone2:before {
+    content: "\e927";
+}
+.icon-time:before {
+    content: "\e928";
+}
+.icon-tool:before {
+    content: "\e929";
+}
+.icon-tool-1:before {
+    content: "\e92a";
+}
+.icon-tool-2:before {
+    content: "\e92b";
+}
+

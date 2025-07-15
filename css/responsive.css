@@ -1,0 +1,1427 @@
+
+/*============	Media Between Start ============ */
+@media screen and (min-width: 1200px) and (max-width: 1366px) {
+	.kode_LAW_content_2:before{
+		right:-106px;
+	}
+	.kode_law_fig_cap h6{
+		margin-bottom:4px;
+	}
+	.kode_law_fig_cap a{
+		margin-bottom:15px;
+	}
+	.kode_attorney_img:hover .kode_attorney_caption{
+		padding:20px 0px 20px;
+	}
+	.kode_coming_soon_count{
+		position:fixed;	
+		top:7%;
+	}
+	.law_choose_us_colum{
+		padding: 89px 0 50px 58px;
+	}
+}
+
+/*============	Media Between Start ============ */
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+	.kode_copyright_footer p{
+		text-align: center;
+		width: 100%;
+	}
+	.kode_copyright_nav,
+	.kode_copyright_nav ul{
+		width: 100%;
+	}
+	.kode_attorney_img_3 strong{
+		top:80px;
+	}
+	.kode_LAW_content_2::after{
+		right: -212px;
+	}
+	.kode_LAW_content_2::before{
+		right: -223px;
+	}
+	.kode_law_count_caption{
+		top:38px;
+	}
+	.kode_law_navi2 ul li{
+		padding-right: 20px;
+	}
+	.kode_law_navi2 > a{
+		margin: 17px 0 0 15px;
+		padding: 8px 12px;
+	}
+	.kode_banner_law_caption{
+		margin: 0 0 0 -450px;
+		top: 40px;
+	}
+	.kode_sing_hdg,
+	.kode_sing_up_kode{
+		width: 100%;
+		text-align: center;
+	}
+	.kode_sing_hdg h6{
+		margin-bottom: 15px;
+	}
+	.law_form_img_caption{
+		padding: 170px 0 0 29px;
+	}
+	.kode_law_blog2_fig:hover .kode_law_blog2_social::before{
+		bottom: 10px;
+	}
+	.kode_law_blog2_social{
+		padding: 86px 0px;
+	}
+	.kode_about_us_competition_caption a i{
+		margin-left: 3px;
+	}
+	.kode_attorney_detail_law{
+		padding: 20px 0 20px;
+	}
+	.kode_blog_img figcaption{
+		top:80px;
+	}
+	/*=============================*/
+	/*==========Home 1============*/
+	
+	/*.kode_law_navi2 ul{
+		display:none;
+	}
+	.kode_navi_2 .dl-menuwrapper{
+		display:block;
+	}*/
+	.kode_banner_law_caption ul li a{
+		padding:10px 26px;
+		font-size:14px;
+	}
+	.kode_attorney_caption p{
+		overflow:hidden;
+		height:90px;
+	}
+	.kode_attorney_caption.attorny_cap2{
+		padding:6px 0px;
+		bottom:3px;
+	}
+	.kode_attorney_img:hover .kode_attorney_caption{
+		padding:29px 0px;
+	}
+	.kode_attorney_img:hover .kode_attorney_caption.attorny_cap2{
+		padding:80px 0px;
+	}
+	.law_form_filed input[type="text"]{
+		height:40px;
+	}
+	.kode_copyright_footer{
+		padding:30px 40px;
+	}
+	.kode_copyright_soical_icon{
+		float:left;
+		width:100%;
+	}
+	.kode_copyright_soical_icon ul{
+		margin:10px auto 0px;
+		float:none;
+		text-align:center;
+	}
+	.kode_copyright_soical_icon ul li, .kode_copyright_nav ul li{
+		display:inline-block;
+		float:none;
+	}
+	.kode_about_03_tabs a{
+		padding:14px 10px 0;
+	}
+	.kode_about_03_slider figure{
+			margin-top:43px;
+			width:25%;
+			margin-right:0px;
+			float:left;
+	}
+	.kode_practice_filter .filterable-item .edu_masonery_thumb .law_practice_area_img{
+		padding:34px 0 0px;
+	}
+	.law_practice_area_caption span{
+		margin-bottom:8px;
+	}
+	.kode_practice_detail_download ul li a{
+		font-size:14px;
+	}
+	.kode_practice_detail_offices_caption p a{
+		font-size:13px;
+	}
+	.kode_colum_3_img figure,
+	.kode_colum_3_img figure img,
+	.kode_area_03_img figure,
+	.kode_area_03_img figure img{
+		width:100%;
+	}
+	.kode_practice_detail_offices_icon span{
+		float:left;
+		margin:0px 2px 0px 0;
+		width:35px;
+	}
+	.kode_practice_detail_offices_caption{
+		float:right;
+		width:80%;
+	}
+	.kode_detail_2 ul li h5 a{
+		padding:25px 0 25px 10px;
+		font-size:13px;
+	}
+	
+	.kode_detail_2 ul li h5 a:before{
+		height: 66.5px;
+		width: 48px;
+	}
+	.kode_detail_office ul li a{
+		font-size:12px;
+	}
+	.kode_detail_fa_right li a{
+		margin:0px -9px;
+	}
+	.kode_blog_caption h4{
+		font-size:16px;
+	}
+	.kode_blog_side_search form button{
+		top:6px;
+		right:23px;
+	}
+	.kode_detail_2_deo{
+		padding:0px;
+	}
+	.kode_blog_side_search form button{
+		right:3px;
+		top:12px;
+	}
+	.kode_coming_soon_count{
+		top:15%;
+	}
+	.kode_coming_form form button{
+		padding:8px 19px 11px;
+		margin-left:-5px;
+	}
+	.kode_about_us_silde .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto,
+	.kode_law_banner_2 .bx-wrapper .bx-pager{
+		display:none;
+	}
+	.kode_about_us_silde_caption p:before{
+		margin-top:13%;
+	}
+	.law_choose_us_colum > figure{
+		left:19%;
+		margin:0px;
+	}
+	.law_choose_us_kode:before{
+		top:0px;
+	}
+	.law_practice_area_caption{
+		padding:9px 30px;
+	}
+	.kode_law_banner_2 .bx-wrapper .bx-pager.bx-default-pager a{
+		display:none;
+	}
+	.kode_law_work_2 .filterable-item{
+		width: 33%;
+	}
+	
+}
+
+/*============	Media 900Px Start ============ */ 
+@media (max-width: 990px) {
+	.kode_law_navi2 > ul{
+		display:none;
+	}
+	.dl-menuwrapper{
+		display: block;
+		margin: 18px 0px 0px;
+	}
+	.dl-menuwrapper li a{
+		text-transform: capitalize;
+	}
+	.kode_banner_law_caption{
+		margin: 0 0 0 -333px;
+		top: 20px;
+	}
+	.kode_banner_law_caption h2,
+	.kode_banner_law_caption h3{
+		font-size: 30px;
+		line-height: 30px;
+	}
+	.kode_banner_law_caption strong{
+		font-size: 40px;
+		left: 140px;
+		top: 0px;
+	}
+	.kode_banner_law_caption p{
+		margin: 0px 0px 10px;
+	}
+	.kode_content_us_caption,
+	.kode_content_us_footer_row,
+	.kode_content_us_footer_row{
+		margin: 0px 0px 20px;
+	}
+	.law_choose_us::before,
+	.law_choose_us_colum{
+		width: 100%;
+	}
+	.law_choose_us_colum{
+		padding-top: 0px;
+	}
+	.law_choose_us_colum{
+		min-height: 540px;
+	}
+	.law_choose_us_colum > figure{
+		left: 0px;
+	}
+	.law_choose_us_colum{
+		text-align: center;
+	}
+	.law_choose_us_caption h2,
+	.law_choose_us_caption p,
+	.law_choose_us_icon i,
+	.law_choose_us_kode h3,
+	.law_choose_us_kode a,
+	.law_choose_us_kode p,
+	.law_choose_us_kode span{
+		color: #fff;
+	}
+	.law_countdown_caption{
+		margin: 0px 0px 20px;
+	}
+	.law_form_colum{
+		width: 100%;
+	}
+	.law_form_img_caption{
+		position: relative;
+		padding: 60px 0;
+		width: 100%;
+		text-align: center;
+	}
+	.law_form_services,
+	.law_form_colum::before{
+		width: 100%;
+	}
+	.law_form_services{
+		background-color: rgba(0, 0, 0, 0.7);
+	}
+	.law_achievements{
+		padding-bottom: 10px;
+	}
+	.kode_law_need{
+		margin-bottom: 15px;
+	}
+	.kode_LAW_content_2::before,
+	.kode_LAW_content_2::after{
+		display: none;
+	}
+	.kode_LAW_content_2{
+		text-align: center;
+	}
+	.kode_law_need{
+		width: 100%;
+	}
+	.kode_law_story{
+		margin: 0px 0px 20px;
+	}
+	.kode_law_story p{
+		margin: 0px 0px 10px;
+	}
+	.kode_law_blog2_fig{
+		margin: 0px 0px 20px;
+	}
+	.kode_sing_hdg,
+	.kode_sing_hdg h6{
+		width: 100%;
+	}
+	.kode_sing_form{
+		text-align: center;
+	}
+	.kode_sing_up_kode,
+	.kode_sing_up_kode form{
+		width: 100%;
+		position: relative;
+		text-align: center;
+	}
+	.kode_sing_up_kode button{
+		position: absolute;
+		right: 0px;
+	}
+	.kode_sing_hdg h6{
+		margin: 0px 0px 15px;
+	}
+	.kode_law_client2_fig figure{
+		width: 100%;
+		text-align: center;
+	}
+	.kode_blog_detail_image figure,
+	.kode_blog_2_img figure,
+	.kode_blog_detail_image figure img,
+	.kode_blog_2_img figure img{
+		width:100%;
+	}
+	.kode_detail_2_deo{
+		padding:0px;
+	}
+	.kode_about_us_silde .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto,
+	.kode_law_banner_2 .bx-wrapper .bx-pager{
+		display:none;
+	}
+	.kode_about_us_silde_caption p:before{
+		margin-top:13%;
+	}
+	.law_choose_us_kode:before{
+		top:0px;
+	}
+	.kode_attorney_img_3{
+		margin: 0px 0px 25px;
+	}
+	.kode_law_work_2 .filterable-item{
+		width: 49.9%;
+	}
+	.law_our_team_img{
+		margin-bottom: 30px;
+	}
+	.law_choose_us .kode_law_frim_hdg h2{
+		color: #000000;
+	}
+	.law_our_team{
+		padding-bottom: 30px;
+	}
+	.kode_law_counter_fig_3 ul li{
+		width: 50%;
+		padding: 40px 0 30px;
+	}
+	.kode_law_blog2_social{
+		padding: 230px 0;
+	}
+
+}
+
+/*============	Media 768Px Start ============ */ 
+@media (min-width: 768px) and (max-width: 990px) {
+	.kode_attorney_caption{
+		top: 84%;
+	}
+	.kode_blog_img figcaption{
+		top:129px;
+	}
+	.kode_law_business ul li a{
+		padding:0px 12px;
+		margin:0 auto;
+	}
+	.kode_attorney_img:hover .kode_attorney_caption{
+		padding:100px 0px;
+	}
+	.kode_attorney_img{
+		margin-bottom:30px;
+	}
+	.kode_sing_up_kode input{
+		height:45px;
+	}
+	.kode_attorney_detail_cols{
+		margin-top: 30px;
+	}
+	.kode_attorney_detail_filed input[type="text"]{
+		width: 49%;
+	}
+	.kode_attorney_detail_filed textarea{
+		width: 98%;
+	}
+	/*=============================*/
+	/*==========Home 1============*/
+	.kode_law_navi2{
+		
+	}
+	/*=======*/
+	.kode_about_03_img figure{
+		height:auto;
+	}
+	.bx-controls.bx-has-pager.bx-has-controls-direction{
+		left: 0;
+		position: absolute;
+		right: 0;
+		top: 90px;
+		width: 100%;
+	}
+	.kode_about_03_slider figure{
+		margin-right:5px;
+		margin-left:16px;
+		width:100px;
+		margin-bottom:5px;
+	}
+	.kode_about_03_team{
+		margin-bottom:293%;
+	}
+	.kode_copyright_footer{
+		padding:30px 30px;
+	}
+	.kode_practice_filter_list ul li a{
+		padding:6px 18px;
+	}
+	.kode_colum_3_img figure,
+	.kode_colum_3_img figure img,
+	.kode_area_03_img figure,
+	.kode_area_03_img figure img{
+		width:100%;
+	}
+	.kode_practice_detail_offices_icon span{
+		float:left;
+		margin:0px 2px 0px 0;
+		width:15%;
+	}
+	.kode_practice_detail_offices_caption{
+		float:right;
+		width:76%;
+	}
+	.kode_practice_detail_download ul li a{
+		font-size:15px;
+		padding:25px 0 22px 15px
+	}
+	.kode_attorney_found figure,
+	.kode_attorney_found figure img, 
+	.kode_blog_detail_meet figure img,
+	.kode_blog_detail_meet figure,
+	.kode_attorney_detail_fig figure,
+	.kode_attorney_detail_fig figure img{
+		width:100%;
+	}
+	.kode_blog_detail_tags ul li,
+	.kode_blog_detail_tags ul li{
+		padding:0px 0px 10px 0px;
+		margin-left:0px;
+	}
+	.kode_blog_side_search input{
+		width:100%;
+		height:40px;
+	}
+	.kode_blog_side_search form button{
+		right:2px;
+		top:12px;
+	}
+	.kode_blog_detail_post{
+		margin-bottom:30px;
+	}
+	.kode_detail_2_deo{
+		padding:0px;
+	}
+	.kode_detail_2_leave{
+		margin-bottom:30px;
+	}
+	.kode_coming_counter .countdown li span{
+		font-size:70px;
+	}
+	.kode_coming_soon_hdg h1{
+		font-size:40px;
+	}
+	.kode_coming_soon_count{
+		top:15%;
+	}
+	.kode_coming_counter .countdown li{
+		padding:0px 35px;
+	}
+	.kode_coming_form form button{
+		padding:8px 19px 11px;
+	}
+	.kode_about_us_silde .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto,
+	.kode_law_banner_2 .bx-wrapper .bx-pager{
+		display:none;
+	}
+	.law_countdown_caption{
+		text-align:center;
+	}
+	.law_countdown_caption span{
+		margin-bottom:0px;
+	}
+	.kode_about_us_silde_caption p:before{
+		margin-top:13%;
+	}
+	.law_countdown{
+		text-align:center;
+	}
+	.law_countdown_caption span{
+		margin-bottom:0px;
+	}
+	.law_choose_us_kode:before{
+		top:0px;
+	}
+	.kode_law_banner_2 .bx-wrapper .bx-pager.bx-default-pager a{
+		display:none;
+	}
+	.law_practice_area_caption{
+		padding:27px 30px;
+	}
+	.kode_attorney_caption.attorny_cap2{
+		top:89%;
+	}
+}
+
+/*============ Media 767Px Start ============ */
+@media (max-width: 767px) {
+	.kode_banner_law_caption{
+		display: none;
+	}
+	.kode_blog_img figcaption{
+		top: 45%;
+	}
+	.kode_top_phon_2,
+	.kode_social_2,
+	.kode_social_2 .kode_top_social_law_2,
+	.kode_top_login_2{
+		width: 100%;
+	}
+	.kode_top_phon_2 li,
+	.kode_social_2 .kode_top_social_law_2 li,
+	.kode_social_2 .kode_top_login_2 > li{
+		float: none;
+		display: inline-block;
+	}
+	.kode_top_strip_row,
+	.kode_social_2{
+		text-align: center;
+	}
+	.kode_top_phon_2,
+	ul.kode_top_social_law_2{
+		margin: 0px 0px 10px;
+	}
+	.kode_attorney_img{
+		margin: 0px 0px 20px;
+	}
+	.kode_attorney_caption{
+		top: 92%;
+	}
+	.kode_law_blog2_social{
+		padding:225px 0; 
+	}
+	.kode_about_us_silde_caption p::before{
+		top:auto;
+		bottom: -8px;
+	}
+	.kode_law_count_caption{
+		top:264px;
+	}
+	.kode_law_business ul li a{
+		margin-right:22px;
+	}
+	.kode_attorney_img:hover .kode_attorney_caption{
+		padding:372px 0px 0px;
+	}
+	.kode_sing_up_kode input{
+		height:45px;
+	}
+	.kode_copyright_footer{
+		padding:30px 20px;
+	}
+	.kode_about_03_img > figure{
+		height:50px;
+	}
+	.kode_colum_3_img figure,
+	.kode_colum_3_img figure img,
+	.kode_area_03_img figure,
+	.kode_area_03_img figure img{
+		width:100%;
+	}
+	.kode_detail_layer{
+		margin-bottom:50px;
+	}
+	.kode_detail_img figure,
+	.kode_detail_img figure img{
+		float:left;
+		width:100%;
+	}
+	.kode_attorney_found figure,
+	.kode_attorney_found figure img, 
+	.kode_blog_detail_meet figure img,
+	.kode_blog_detail_meet figure,
+	.kode_attorney_detail_fig figure,
+	.kode_attorney_detail_fig figure img{
+		width:100%;
+	}
+	.kode_blog_side_search input{
+		width:100%;
+		height:40px;
+	}
+	.kode_blog_side_search form button{
+		right:2px;
+		top:12px;
+	}
+	.kode_blog_detail_post{
+		margin-bottom:30px;
+	}
+	.kode_detail_2_deo{
+		padding:0px;
+	}
+	.kode_coming_counter .countdown li{
+		padding:0px 30px;
+	}
+	.kode_coming_soon_count{
+		top:15%;
+	}
+	.kode_coming_form form button{
+		padding:8px 19px 11px;
+		margin-left:-5px;
+	}
+	.kode_content_services{
+		margin-bottom:0px;
+	}
+	.kode_content_us_touch_hdg p{
+		padding:0px 18px;
+	}
+	.kode_404_form form input[type="text"]{
+		width: 100%;
+	}
+	.kode_error_404 h2{
+		font-size: 140px;
+	}
+	.kode_error_404 h2 span{
+		padding: 0px 20px;
+	}
+	.kode_error_404.error_left{
+		width: 100%;
+		text-align: center;
+	}
+	.kode_attorney_detail_filed input[type="text"],
+	.kode_attorney_detail_filed textarea{
+		width: 100%;
+	}
+	.kode_about_us_silde .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto,
+	.kode_law_banner_2 .bx-wrapper .bx-pager{
+		display:none;
+	}
+	.kode_about_us_silde_caption p:before{
+		margin-top:13%;
+	}
+	.kode_about_us_silde_caption p:before{
+		top:none;
+		bottom:0px;
+	}
+	.kode_law_banner_2 .bx-wrapper .bx-pager.bx-default-pager a{
+		display:none;
+	}
+	.kode_law_work_2 .filterable-item{
+		width: 100%;
+	}
+	.law_choose_us{
+		padding-bottom: 40PX;
+	}
+	.kode_law_arrow{
+		text-align: center;
+	}
+	.kode_law_client2_fig figure img{
+		width: 100%;
+		height: auto;
+	}
+}
+
+/*============ Media 480Px Star ============ */
+@media (max-width: 480px)  {
+	.kode_navi_logo_top,
+	.kode_law_navi2,
+	.dl-menuwrapper{
+		text-align: center;
+	}
+	.kf_loging_input label{
+		left:0px;
+	}
+	.kode_law_navi2 > a{
+		margin-left: 0px;
+	}
+	.kf_login_colum{
+		padding:10px 0 0 12px;
+	}
+	.kf_login_1{
+		width:50%;
+	}
+	.kf_login_password{
+		padding:0px;
+	}
+	.kf_login_password ul li:last-child{
+		float:none;
+	}
+	.kf_login_filed,
+	.kf_login_singin,
+	.kf_login_social_icon{
+		float:none;
+		width:50%;
+	}
+	.kf_login_social_icon ul{
+		padding:0px 8px;
+	}
+	.kf_loging_input{
+		text-align:left;
+	}
+	.kf_loging_input::before{
+		left:0px;
+	}
+	.kf_loging_input::after{
+		top:140px;
+		left:0px;
+	}
+	.kode_social_2 .kode_top_social_law_2{
+		padding-right: 0px;
+	}
+	.kode_navi_logo_top,
+	.kode_law_navi2,
+	.dl-menuwrapper{
+		width: 100%;
+	}
+	.kode_law_banner_2 .bx-wrapper .bx-pager{
+		bottom: -10px;
+	}
+	.kode_copyright_footer{
+		text-align: center;
+	}
+	.kode_copyright_footer p{
+		margin-right: 0px;
+	}
+	.kode_copyright_nav,
+	.kode_copyright_soical_icon,
+	.kode_copyright_soical_icon ul,
+	.kode_copyright_nav ul,
+	.kode_copyright_footer p{
+		width: 100%;
+	}
+	.kode_copyright_footer p{
+		margin: 6px 0px;
+	}
+	.kode_copyright_soical_icon ul li,
+	.kode_copyright_nav ul li{
+		float: none;
+		display: inline-block;
+	}
+	.law_practice_area_caption{
+		padding: 10px;
+	}
+	.law_practice_area_caption span{
+		margin-bottom: 10px;
+	}
+	.law_practice_area_caption h3{
+		margin: 0px 0px 5px;
+	}
+	.law_practice_area_caption p{
+		margin-bottom: 10px;
+	}
+	.law_choose_us_colum > figure{
+		margin-left: -10px;
+	}
+	.law_choose_us_colum{
+		padding-left: 0px;
+	}
+	.law_form_img_caption h2{
+		font-size: 28px;
+	}
+	.law_slide_img{
+		padding-bottom: 0px;
+	}
+	.kode_copyright_nav{
+		padding: 0px 10px;
+	}
+	.kode_sing_form{
+		padding: 0px;
+	}
+	.kode_sing_up_kode button{
+		height: 45px;
+	}
+	.kode_about_us_latest_news .panel-heading a{
+		font-size: 12px;
+	}
+	.kode_about_us_latest_kode{
+		width: 100%;
+		text-align: center;
+		margin: 0px 0px 15px;
+	}
+	.kode_about_us_latest_caption ul,
+	.kode_about_us_latest_kode span{
+		width: 100%;
+	}
+	.kode_about_us_latest_caption ul li{
+		float: none;
+		display: inline-block;
+	}
+	.kode_about_us_latest_caption{
+		padding: 0px;
+		width: 100%;
+		float: left;
+	}
+	.kode_about_us_latest_caption{
+		text-align: center;
+	}
+	.kode_about_us_latest_news{
+		margin: 0px 0px 20px;
+	}
+	.kode_about_us_silde .kode_about_us_silde_caption p{
+		padding: 0px 10px;
+	}
+	.kode_about_us_silde_caption p::before,
+	.kode_about_us_silde_caption p::after{
+		display: none;
+	}
+	.kode_about_us_silde_caption h3{
+		margin: 0px 0px 20px;
+	}
+	.kode_about_us_silde{
+		padding-bottom: 100px;
+	}
+	.kode_about_us_silde .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto{
+		bottom: -50px;
+	}
+	.kode_about_us_them_img{
+		margin-bottom: 0px;
+	}
+	.kode_about_us_competition_icon span{
+		width: 100%;
+	}
+	.kode_about_us_competition_caption{
+		float: left;
+		padding: 0px;
+		width: 100%;
+	}
+	.kode_attorney_caption{
+		padding:3px 0px;
+		top: 89%;
+	}
+	.kode_law_blog2_social{
+		/*padding: 80px 0;*/
+		padding:135px 0px;
+	}
+	.kode_law_blog2_social:before{
+		top:1%;
+		bottom:1%;
+	}
+	.kode_law_count_caption{
+		top:135px;
+	}
+	.kode_attorney_img:hover .kode_attorney_caption{
+		padding:43% 0 !important;
+	}
+	
+	.kode_law_business ul li a{
+		margin-right:13px;
+	}
+	.law_form_filed input[type="text"]{
+		height:40px;
+	}
+	.kode_law_counter_fig_3 ul li{
+		width:100%;
+		float:none;
+		display:inline-block;
+		padding:10px 0 0px;
+		border-right: 0px;
+	}
+	.kode_law_counter_fig_3 ul{
+		border-left: 0px;
+	}
+	.kode_law_counter_fig_3{
+		padding:0px;
+	}
+	.kode_attorney_caption_3{
+		margin-bottom:30px;
+	}
+	.kf_login_colum{
+		width:100%;
+	}
+	.kf_loging_input::before{
+		left:0px;
+	}
+	.kf_loging_input::after{
+		left:0px;
+	}
+	.kf_login_password{
+		padding:0px 0px 0px 9px;
+	}
+	.kf_login_password ul li:last-child{
+		float:none;
+	}
+	.kf_login_social_icon ul li{
+		margin-right:22px;
+	}
+	.kf_login_social_icon ul{
+		padding:0px 0px 0px 30px;
+	}
+	.kode_about_03_medical{
+		margin-bottom:30px;
+	}
+	.kode_about_03_img figure{
+		height:70px;
+	}
+	.kode_about_03_hdg{
+			position:relative;
+			z-index:9999999;
+			padding:30px 0px 0px;
+	}
+	.kode_about_03_team{
+		margin-bottom:282%;
+	}
+	.kode_about_03_slider figure{
+			margin:0px;
+			padding:6px 0px 0px 5px;
+			width: 100%;
+	}
+	.kode_about_03_slider figure img{
+		width: 100%;
+		height: auto;
+	}
+	.kode_attorney_caption.attorny_cap2{
+		top:86%;
+	}
+	.kode_area_02_hdg p{
+		padding:0px;
+	}
+	.kode_pagi_social ul li a{
+		width:28px;
+		height:28px;
+		line-height:27px;
+	}
+	.kode_pagi_social .pagi_right, .kode_pagi_social .pagi_left,
+	.kode_pagi_social .pagi_right, .kode_pagi_social .pagi_right{
+		width:30px;
+		height:40px;
+	}
+	.kode_colum_3_img figure,
+	.kode_colum_3_img figure img,
+	.law_practice_area_img figure,
+	.law_practice_area_img figure img,
+	.law_practice_area_img figure{
+		width:100%;
+	}
+	.kode_practice_filter{
+		
+	}
+	.kode_practice_detail_download ul,
+	.law_addres_caption{
+		margin-bottom:30px;
+	}
+	.kode_detail_fa_right{
+		overflow:hidden;
+	}
+	.kode_detail_accor_tab .panel-title a{
+		padding:22px 0 21px 34px;
+	}
+	.kode_detail_accor_tab .panel-title > a:before{
+		left:10px;
+	}
+	.kode_detail_accor_tab .panel-heading{
+		margin-bottom:6px;
+	}
+	.kode_detail_accordian{
+		margin-bottom:30px;
+	}
+	.kode_detail_fig{
+		padding-bottom:0px;
+	}
+	
+	.kode_detail_fa_right li a{
+		text-align:left;
+		margin:0px;
+		margin:0px;
+	}
+	.kode_attorney_detail_downlod a{
+		margin-bottom:30px;
+	}
+	.kode_attorney_found figure,
+	.kode_attorney_found figure img, 
+	.kode_blog_detail_meet figure img,
+	.kode_blog_detail_meet figure,
+	.kode_attorney_detail_fig figure,
+	.kode_attorney_detail_fig figure img{
+		width:100%;
+	}
+	.kode_blog_detail_image figcaption span, .kode_blog_2_img figcaption span{
+		height:35px;
+		line-height:35px;
+	}
+	.kode_blog_detail_paragraph{
+		padding-left:0px;
+	}
+	.kode_blog_detail_social{
+		text-align:center;
+	}
+	.kode_blog_detail_social h6,
+	.kode_blog_detail_social ul,
+	.kode_blog_detail_social ul li{
+		display:inline-block;
+		float:none;
+	}
+	.kode_blog_detail_social h6{
+		margin-bottom:10px;
+	}
+	.kode_detail_comment_fig figure{
+		padding:0 0 2px;
+		width:100px;
+		float:left;
+	}
+	.kode_detail_replay{
+		float:none;
+		padding:0px;
+	}
+	.kode_detail_comment_fig{
+		padding:30px 2px 30px 11px;
+	}
+	.kode_detail_comment_list ul li ul .kode_detail_comment_fig{
+		padding:30px 8px;
+	}
+	.kode_blog_detail_search input[type="text"],
+	.kode_blog_detail_area textarea{
+		width:384px;
+	}
+	.kode_blog_side_search form button{
+	}
+	.kode_blog_detail{
+		margin-bottom:30px;
+	}
+	.kode_detail_2_back p{
+		padding:0px;
+	}
+	.kode_detail_2_senior{
+		padding:0px;
+		float:none;
+	}
+	.kode_detail_2_senior figure{
+		float:none;
+		margin:0px 0px 10px;
+		display:inline-block;
+	}
+	.kode_detail_2_caption,
+	.kode_detail_2_social{
+		padding:0px;
+		float:left;
+		width:100%;
+		margin-bottom:10px;
+	}
+	.kode_detail_2_replay p{
+		padding:0px;
+		letter-spacing:1.1px;
+	}
+	.kode_detail_2_comment_list ul li ul .kode_detail_2_comment_fig{
+		padding:30px 0px 0px;
+		
+	}
+	.kode_detail_2_colum{
+		margin-bottom:30px;
+	}
+	.kode_detail_2_social ul li{
+		display:inline-block;
+		float:none;
+	}
+	.kode_coming_soon_hdg h1{
+		font-size:18px;
+	}
+	.kode_coming_soon_hdg p{
+		font-size:15px;
+	}
+	.kode_coming_counter .countdown li span{
+		font-size:30px;
+	}
+	.kode_coming_counter .countdown li{
+		padding:0px 9px;
+	}
+	.kode_coming_form form input{
+		width:77%;
+		float:left;
+	}
+	.kode_coming_counter .countdown{
+		margin-bottom:-15px;
+	}
+	.kode_coming_form form input{
+		margin-left:8px;
+	}
+	.kode_coming_form form button{
+		margin-left:-11px;
+		padding:9px 19px 10px;
+	}
+	.kode_coming_form form{
+		margin-bottom:20px;
+	}
+	.kode_coming_soon_hdg{
+		margin-bottom:0px;
+	}
+	.kode_coming_soon_count{
+		top:5%;
+	}
+	.kode_content_us_touch_hdg h5{
+		font-size:24px;
+	}
+	.kode_content_us_touch_hdg p{
+		padding:0px 5px;
+	}
+	.kode_error_404.error_02{
+		float:left;
+		width:100%;
+	}
+	.kode_error_404 h2{
+		font-size:98.5px;
+	}
+	.kode_error_404 p{
+		font-size:18px;
+	}
+	.label{
+		margin-left: -50px;
+	}
+	.kode_attorney_detail_skill{
+		float: left;
+		width: 100%;
+	}
+	.kode_about_us_silde .bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto,
+	.kode_law_banner_2 .bx-wrapper .bx-pager{
+		display:none;
+	}
+	.kode_about_us_silde_caption p:before{
+		margin-top:13%;
+	}
+	.law_choose_us_kode:before{
+		top:0px;
+	}
+	.kode_law_banner_2 .bx-wrapper .bx-pager.bx-default-pager a{
+		display:none;
+	}
+	.dl-menuwrapper .dl-menu{
+		left: 140px;
+	}
+	.law_choose_us_colum{
+		padding-bottom: 60px;
+	}
+	.kode_attorney_detail_skill,
+	.progress-names{
+		display: none;
+	}
+	.kode_attorney_img_3 strong{
+		top: 44%;
+	}
+
+
+}
+/*============ Media 360Px Star ============ */
+@media (max-width: 360px)  {
+	.kode_attorney_caption.attorny_cap2{
+		top:80%;
+	}
+	.kode_attorney_img:hover .kode_attorney_caption{
+		padding:28% 0 !important;
+	}
+	.kode_blog_img figcaption{
+		top:50px;
+	}
+	.dl-menuwrapper .dl-menu{
+		left: 50px;
+	}
+	.kode_law_count_caption{
+		top:30%;
+	}
+	.kode_law_blog2_social{
+		padding: 30% 0;
+	}
+	.kode_attorney_caption{
+		top: 86%;
+	}
+}
+/*============ Media 320Px Star ============ */
+@media (max-width: 320px)  {
+	.kode_law_count_caption{
+		top:65px;
+	}
+	.kode_attorney_img:hover .kode_attorney_caption{
+		padding:57px 0;
+	}
+	.kode_law_blog2_social{
+		padding: 80px 0;
+	}
+	.kode_copyright_soical_icon ul a{
+		margin-left:2px;
+	}
+	.kode_sing_up_kode button{
+		height:46px;
+	}
+	.kode_detail_fa_right li a{
+		display: block;
+		font-size: 16px;
+		line-height: 20px;
+		margin: 0 -102px;
+		text-align: right;
+		padding:0px 0px 18px;
+	}
+	.kode_area_03_img:hover .kode_area_03_caption{
+		padding:21px 0;
+		top:60px;
+	}
+	.kode_area_03_caption h4{
+		font-size:15px;
+	}
+	.kode_attorney_detail_fig figure,
+	.kode_attorney_detail_fig figure img{
+		float:left;
+		width:100%;
+	}
+	.kode_blog_detail_search input[type="text"],
+	.kode_blog_detail_area textarea{
+		width:284px;
+	}
+	.kode_coming_form form input{
+		margin-left:38px;
+	}
+	.kode_coming_form form button{
+		margin-left:0px;
+	}
+	.label{
+		margin-left: -50px;
+	}
+	.kode_attorney_detail_skill{
+		float: left;
+		width: 100%;
+	}
+	.progress-names{
+		width: 76%;
+	}
+	.dl-menuwrapper .dl-menu{
+		left: 30px;
+	}
+	.kode_attorney_img:hover .kode_attorney_caption{
+		padding:14% 0 !important;
+	}
+	.kode_blog_img figcaption{
+		top:48px;
+	}
+	.kode_attorney_img_3 strong{
+		top: 42%;
+	}
+
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+	.kode_navi_logo_top, .kode_law_navi2, .dl-menuwrapper {
+        width: 48%;
+    }
+
+	.kode_navi_logo_top, .kode_law_navi2, .dl-menuwrapper {
+        text-align: end;
+    }
+
+	.dl-menuwrapper .dl-menu {
+		top: 58px;
+		width: 390px;
+		margin: 0;
+		position: absolute;
+		opacity: 0;
+		pointer-events: none;
+		-webkit-backface-visibility: hidden;
+		-moz-backface-visibility: hidden;
+		backface-visibility: hidden;
+	}
+
+	.dl-menuwrapper .dl-menu {
+        left: -206px;
+    }
+
+	.law_choose_us_colum {
+		float: left;
+		width: 100%;
+		min-height: 0px;
+		margin-top: 25px;
+	}
+
+	/*.law_choose_us::before {*/
+	/*	position: absolute;*/
+	/*	content: "";*/
+	/*	top: 700px;*/
+	/*	left: 0px;*/
+	/*	right: 0px;*/
+	/*	bottom: 0;*/
+	/*	background-image: url(../image/home/about.jpg);*/
+	/*	background-size: contain;*/
+	/*	width: 100%;*/
+	/*	z-index: -1;*/
+	/*	background-repeat: no-repeat;*/
+	/*	background-position: center;*/
+	/*}*/
+
+	.law_choose_us {
+        padding-bottom: 170px;
+    }
+
+	.law_practice_area {
+		float: left;
+		width: 100%;
+		padding: 40px 0 40px;
+	}
+
+	.kode_abouts_us_agence {
+		float: left;
+		width: 100%;
+		padding: 35px 0px 0px 0px;
+	}
+
+	.kode_practice_about_us_kode {
+		float: left;
+		width: 100%;
+		padding: 26px 0px;
+	}
+
+	.kode_law_frim_hdg {
+		margin-bottom: 0px;
+	}
+
+	.wrapper{
+		display: none!important;
+	}
+
+	.kode_copyright_footer {
+        padding: 0px 20px;
+    }
+
+	.kode_area_03_img:hover .kode_area_03_caption {
+		position: absolute;
+		top: 20px;
+		left: 30px;
+		right: 30px;
+		bottom: -27px;
+		text-align: center;
+		background-color: #ffffff;
+		opacity: 0.95;
+		box-shadow: none;
+	}
+
+	.kode_blog_detail_image {
+		
+		margin-bottom: 0px;
+	}
+
+	.kode_blog_detail {
+        margin-bottom: 0px;
+    }
+
+	.kode_banner_law_caption {
+        margin: 0 0 0 -177px;
+        top: 20px;
+    }
+
+	.kode_banner_law_caption h3 span {
+		display: block;
+		font-size: 22.71px;
+		line-height: 37px;
+	}
+
+	.kode_banner_law_caption h3 {
+		margin-bottom: 0px;
+	}
+
+	.kode_banner_law_caption h2,
+	.kode_banner_law_caption h3{
+		font-size: 20px;
+		line-height: 23px;
+	}
+
+	.title{
+		/* font-size: 11px; */
+
+	}
+
+	.sm-none{
+		display: none;
+	}
+
+	.dm-none{
+		display: block;
+	}
+
+
+}
