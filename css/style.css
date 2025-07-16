@@ -7746,3 +7746,7 @@ font-family: "Times New Roman", Sans-serif;
 .new_title_foter a{
 	color: #0070bb;
 }
+
+.dl-submenu{
+	width: 350px !important;
+}
