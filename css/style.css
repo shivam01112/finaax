@@ -7586,7 +7586,8 @@ pb-50 */
 			}
 
 			.card[for="c3"] {
-				background-image: url('../image/123.jpg');
+				 background: linear-gradient(#00000096,#00000096), url('../image/fg.jpg') no-repeat ;
+				 object-fit: cover;
 			}
 
 			.card[for="c4"] {
@@ -7598,7 +7599,7 @@ pb-50 */
 			}
 
 			.card[for="c6"] {
-				background-image: url('../image/brilliant-crystal-star-award-gleaming-against-a-deep-blue-backdrop-of-excellence-photo.jpg');
+				background-image: url('../image/123.jpg');
 			}
 
 			.card[for="c7"] {
