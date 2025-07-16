@@ -649,7 +649,7 @@ position:absolute;
     margin-bottom: 0;
 }
 .law_choose_us_row  ul li::after {
-   border-right: 1px dotted #deb863;
+   /* border-right: 1px dotted #deb863; */
     bottom: -23px;
     content: "";
     left: 20px;
@@ -657,7 +657,7 @@ position:absolute;
     top: 66px;
 }
 .law_choose_us_row  ul li::before {
-    border-right: 1px dotted #deb863;
+    /* border-right: 1px dotted #deb863; */
     bottom: -23px;
     content: "";
     left: 22px;
@@ -1561,9 +1561,9 @@ position:absolute;
 .kode_content_banner-team{
 	float:left;
 	width:100%;
-	background-image:url("../image/fin.jpg");
+	background-image:url("../image/teamw.jpg");
 	background-size:cover;
-	background-position: center;
+	background-position: bottom;
 	padding:140px 0px;
 	border-bottom:1px solid #e6e6e6;
 	position:relative;
@@ -1581,8 +1581,8 @@ position:absolute;
 .kode_content_banner-s1{
 	float:left;
 	width:100%;
-	background-image:url("../image/inconme.jpg");
-	background-size:cover;
+	background-image:url("../image/fundr.jpg");
+	background-size:cover !important;
 	background-position: center;
 	padding:140px 0px;
 	border-bottom:1px solid #e6e6e6;
@@ -2219,7 +2219,7 @@ float: left;
 .kode_abouts_us_agence{
 	float:left;
 	width:100%;
-	padding:37px 0px 50px 0px;
+	padding:37px 0px 0px 0px;
 }
 .kode_abouts_us_hdg{
 	float:left;
@@ -3752,7 +3752,7 @@ float: left;
 .kode_attorney_wraper-1{
 	float:left;
 	width:100%;
-	padding:80px 0px;
+	padding:33px 0px;
 }
 
 .kode_attorney_img{
@@ -4721,7 +4721,7 @@ float: left;
 	font-style:italic;
 }
 .kode_blog_detail_content p{
-	margin-bottom:20px;
+	margin-bottom:23px;
 	line-height: 28px;
 
 }
@@ -7445,7 +7445,11 @@ pb-50 */
 
 .icon{
 	display: flex;
-	align-items: baseline;
+    margin-top: 5px;
+    align-items: self-start;
+}
+.icon i{
+	padding-top: 9px;
 }
 
 .text-center {
@@ -7480,7 +7484,7 @@ pb-50 */
 			.wrapper {
 				align-items: center;
 				display: flex;
-				height: 90vh;
+				height: 80vh;
 				justify-content: center;
 				width: 100%;
 				background-image: url(./image/about/about-bg.jpg);
@@ -7659,3 +7663,85 @@ font-family: "Times New Roman", Sans-serif;
 			.team-page-content{
 				margin-top: 50px;
 			}
+			.new_title span{
+				color: #000 !important;
+			}
+
+			
+			.finaax-container {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.8;
+  color: #333;
+  background-color: #fff;
+  padding: 40px 25px;
+}
+
+.finaax-top {
+  margin-bottom: 50px;
+}
+
+.finaax-image-wrap {
+  margin-top: 10px;
+}
+
+.finaax-image {
+  width: 100%;
+  max-height: 330px;
+}
+
+.finaax-text {
+  margin-bottom: 16px;
+  text-align: justify;
+}
+
+.finaax-section {
+ margin-top: 50px; 
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+
+}
+
+.finaax-title {
+  font-size: 22px;
+  font-weight: bold;
+  color: #000;
+  margin-bottom: 15px;
+}
+
+.finaax-subtitle {
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.finaax-list {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.finaax-list div {
+  margin-bottom: 10px;
+}
+
+.finaax-list i {
+  color: #000;
+  margin-right: 8px;
+  font-size: 16px;
+}
+
+.finaax-highlight {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #0c4da2;
+  font-size: 17px;
+  margin-top: 25px;
+}
+
+.finaax-container .col-sm-6{
+	margin-top: 40px;
+}
+
+.new_title_foter a{
+	color: #0070bb;
+}
