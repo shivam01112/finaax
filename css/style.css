@@ -7369,6 +7369,9 @@ float: left;
 	height: auto;;
 }
 
+.pt-4{
+	padding-top:  4px !important;
+}
 
 .pt-15{
 	padding-top:  15px;
