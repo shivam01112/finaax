@@ -3806,7 +3806,7 @@ float: left;
 	padding:16px 0px
 }
 .kode_attorney_img:hover .kode_attorney_caption.attorny_cap2{
-	padding:130px 0px;
+	padding:56px 0px;
 }
 .kode_attorney_caption::before{
 	position:absolute;
@@ -7749,4 +7749,5 @@ font-family: "Times New Roman", Sans-serif;
 
 .dl-submenu{
 	width: 350px !important;
+	
 }
