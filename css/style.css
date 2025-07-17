@@ -415,7 +415,7 @@ ul.kode_top_login_2  li i{
 .law_practice_area{
 	float:left;
 	width:100%;
-	padding:32px 0 40px;
+	padding:32px 0 1px;
 }
 .law_practice_area_hdg{
 	float:left;
@@ -3806,7 +3806,7 @@ float: left;
 	padding:16px 0px
 }
 .kode_attorney_img:hover .kode_attorney_caption.attorny_cap2{
-	padding:56px 0px;
+	padding:26px 0px;
 }
 .kode_attorney_caption::before{
 	position:absolute;
@@ -7599,7 +7599,7 @@ pb-50 */
 			}
 
 			.card[for="c6"] {
-				background-image: url('../image/123.jpg');
+				background-image: url('../image/123-min.jpg');
 			}
 
 			.card[for="c7"] {
